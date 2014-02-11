@@ -1,0 +1,2968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sir Gawain and the Green Knight</title>
+            <respStmt>
+               <resp>editor</resp>
+               <name>Tolkien, J.R.R. (John Ronald Reuel),  1892-1973</name>
+            </respStmt>
+            <respStmt>
+               <resp>editor</resp>
+               <name>Gordon, E.V.,  (Eric Valentine),  1896-1938</name>
+            </respStmt>
+            <respStmt>
+               <resp>editor</resp>
+               <name>Davis, Norman,  1913-</name>
+            </respStmt>
+            <respStmt>
+               <resp>com (Compiler)</resp>
+               <name>Law, John A.</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority xml:id="lawjo1">Deposited by <name type="PERSON">Law, J.A.</name>
+, <name type="ORG">Computing Laboratory U of Newcastle</name>
+               <address>
+                  <addrLine>Computing Laboratory</addrLine>
+                  <addrLine>U of Newcastle</addrLine>
+                  <addrLine>NE1 7RU Newcastle upon Tyne</addrLine>
+                  <addrLine>UK</addrLine>
+               </address>
+               <date>1988-05-19</date>
+            </authority>
+            <distributor>
+               <name>University of Oxford Text Archive</name>
+               <address>
+                  <addrLine>Oxford University Computing Services</addrLine>
+                  <addrLine>13 Banbury Road</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX2 6NN</addrLine>
+               </address>
+               <email>ota@oucs.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">http://ota.ox.ac.uk/id/0062</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+	Distributed by the University of Oxford under a Creative Commons
+	Attribution-ShareAlike 3.0 Unported License
+      </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Transcribed from: Sir Gawain and the green knight /
+	edited by J.R.R. Tolkien and E.V. Gordon. -- 2nd ed. / revised
+	by Norman Davis. -- Oxford : Clarendon Press, 1967. --
+	Previous ed.: 1925.</bibl>
+            <bibl>Revised version of  <relatedItem type="older" target="http://ota.ox.ac.uk/id/0062"/>	
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date>Unspecified</date>
+         </creation>
+         <langUsage>
+            <language ident="enm">English, Middle (1100-1500)</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#lcsh">
+               <term type="topical">Gawain -- Romances</term>
+               <term type="genre">Poems -- England -- 14th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2010-12-23">Header normalised</change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <milestone unit="folio" n="91r"/>
+         <pb n="1"/>
+         <div rend="linenumber">
+            <head>I</head>
+            <lg>
+               <l>SIÞEN þe sege and þe assaut watz sesed at Troye,</l>
+               <l>Þe borȝ brittened and brent to brondeȝ and askez,</l>
+               <l>Þe tulk þat þe trammes of tresoun þer wroȝt</l>
+               <l>Watz tried for his tricherie, þe trewest on erþe:</l>
+               <l>Hit watz Ennias þe athel, and his highe kynde,</l>
+               <l>Þat siþen depreced prouinces, and patrounes bicome</l>
+               <l>Welneȝe of al þe wele in þe west iles.</l>
+               <l>Fro riche Romulus to Rome ricchis hym swyþe,</l>
+               <l>With gret bobbaunce þat burȝe he biges vpon fyrst,</l>
+               <l>And neuenes hit his aune nome, as hit now hat;</l>
+               <l>Tirius to Tuskan and teldes bigynnes,</l>
+               <l>Langaberde in Lumbardie lyftes vp homes,</l>
+               <l>And fer ouer þe French flod Felix Brutus</l>
+               <l>On mony bonkkes ful brode Bretayn he settez</l>
+               <l rend="indent(4)">wyth wynne,</l>
+               <l rend="indent(2)">Where werre and wrake and wonder</l>
+               <l rend="indent(2)">Bi syþez hatz wont þerinne,</l>
+               <l rend="indent(2)">And oft boþe blysse and blunder</l>
+               <l rend="indent(2)">Ful skete hatz skyfted synne.</l>
+            </lg>
+            <lg>
+               <l>Ande quen þis Bretayn watz bigged bi þis burn rych,</l>
+               <l>Bolde bredden þerinne, baret þat lofden,</l>
+               <l>In mony turned tyme tene þat wroȝten.</l>
+               <l>Mo ferlyes on þis folde han fallen here oft</l>
+               <l>Þen in any oþer þat I wot, syn þat ilk tyme.</l>
+               <l>Bot of alle þat here bult, of Bretaygne kynges,</l>
+               <l>Ay watz Arthur þe hendest, as I haf herde telle.</l>
+               <milestone unit="folio" n="91v"/>
+               <pb n="2"/>
+               <l>Forþi an aunter in erde I attle to schawe,</l>
+               <l>Þat a selly in siȝt summe men hit holden,</l>
+               <l>And an outtrage awenture of Arthurez wonderez.</l>
+               <l>If ȝe wyl lysten þis laye bot on littel quile,</l>
+               <l>I schal telle hit as-tit, as I in toun herde,</l>
+               <l rend="indent(4)">with tonge,</l>
+               <l rend="indent(2)">As hit is stad and stoken</l>
+               <l rend="indent(2)">In stori stif and stronge,</l>
+               <l rend="indent(2)">With lel letteres loken,</l>
+               <l rend="indent(2)">In londe so hatz ben longe.</l>
+            </lg>
+            <lg>
+               <l>Þis kyng lay at Camylot vpon Krystmasse</l>
+               <l>With mony luflych lorde, ledez of þe best,</l>
+               <l>Rekenly of þe Rounde Table alle þo rich breþer,</l>
+               <l>With rych reuel oryȝt and rechles merþes.</l>
+               <l>Þer tournayed tulkes by tymez ful mony,</l>
+               <l>Justed ful jolilé þise gentyle kniȝtes,</l>
+               <l>Syþen kayred to þe court caroles to make.</l>
+               <l>For þer þe fest watz ilyche ful fiften dayes,</l>
+               <l>With alle þe mete and þe mirþe þat men couþe avyse;</l>
+               <l>Such glaum ande gle glorious to here,</l>
+               <l>Dere dyn vpon day, daunsyng on nyȝtes,</l>
+               <l>Al watz hap vpon heȝe in hallez and chambrez</l>
+               <l>With lordez and ladies, as leuest him þoȝt.</l>
+               <l>With all þe wele of þe worlde þay woned þer samen,</l>
+               <l>Þe most kyd knyȝtez vnder Krystes seluen,</l>
+               <l>And þe louelokkest ladies þat euer lif haden,</l>
+               <l>And he þe comlokest kyng þat þe court haldes;</l>
+               <l>For al watz þis fayre folk in her first age,</l>
+               <l rend="indent(4)">on sille,</l>
+               <l rend="indent(2)">Þe hapnest vnder heuen,</l>
+               <l rend="indent(2)">Kyng hyȝest mon of wylle;</l>
+               <l rend="indent(2)">Hit were now gret nye to neuen</l>
+               <l rend="indent(2)">So hardy a here on hille.</l>
+            </lg>
+            <lg>
+               <l>Wyle Nw Ȝer watz so ȝep þat hit watz nwe cummen,</l>
+               <l>Þat day doubble on þe dece watz þe douth serued.</l>
+               <l>Fro þe kyng watz cummen with knyȝtes into þe halle,</l>
+               <pb n="3"/>
+               <l>Þe chauntré of þe chapel cheued to an ende,</l>
+               <l>Loude crye watz þer kest of clerkez and oþer,</l>
+               <milestone unit="folio" n="92r"/>
+               <l>Nowel nayted onewe, neuened ful ofte;</l>
+               <l>And syþen riche forth runnen to reche hondeselle,</l>
+               <l>Ȝeȝed ȝeres-ȝiftes on hiȝ, ȝelde hem bi hond,</l>
+               <l>Debated busyly aboute þo giftes;</l>
+               <l>Ladies laȝed ful loude, þoȝ þay lost haden,</l>
+               <l>And he þat wan watz not wrothe, þat may ȝe wel trawe.</l>
+               <l>Alle þis mirþe þay maden to þe mete tyme;</l>
+               <l>When þay had waschen worþyly þay wenten to sete,</l>
+               <l>Þe best burne ay abof, as hit best semed,</l>
+               <l>Whene Guenore, ful gay, grayþed in þe myddes,</l>
+               <l>Dressed on þe dere des, dubbed al aboute,</l>
+               <l>Smal sendal bisides, a selure hir ouer</l>
+               <l>Of tryed tolouse, and tars tapites innoghe,</l>
+               <l>Þat were enbrawded and beten wyth þe best gemmes</l>
+               <l>Þat myȝt be preued of prys wyth penyes to bye,</l>
+               <l rend="indent(4)">in daye.</l>
+               <l rend="indent(2)">Þe comlokest to discrye</l>
+               <l rend="indent(2)">Þer glent with yȝen gray,</l>
+               <l rend="indent(2)">A semloker þat euer he syȝe</l>
+               <l rend="indent(2)">Soth moȝt no mon say.</l>
+            </lg>
+            <lg>
+               <l>Bot Arthure wolde not ete til al were serued,</l>
+               <l>He watz so joly of his joyfnes, and sumquat childgered:</l>
+               <l>His lif liked hym lyȝt, he louied þe lasse</l>
+               <l>Auþer to longe lye or to longe sitte,</l>
+               <l>So bisied him his ȝonge blod and his brayn wylde.</l>
+               <l>And also an oþer maner meued him eke</l>
+               <l>Þat he þurȝ nobelay had nomen, he wolde neuer ete</l>
+               <l>Vpon such a dere day er hym deuised were</l>
+               <l>Of sum auenturus þyng an vncouþe tale,</l>
+               <l>Of sum mayn meruayle, þat he myȝt trawe,</l>
+               <l>Of alderes, of armes, of oþer auenturus,</l>
+               <l>Oþer sum segg hym bisoȝt of sum siker knyȝt</l>
+               <l>To joyne wyth hym in iustyng, in jopardé to lay,</l>
+               <l>Lede, lif for lyf, leue vchon oþer,</l>
+               <pb n="4"/>
+               <l>As fortune wolde fulsun hom, þe fayrer to haue.</l>
+               <l>Þis watz þe kynges countenaunce where he in court were,</l>
+               <l>At vch farand fest among his fre meny</l>
+               <milestone unit="folio" n="92v"/>
+               <l rend="indent(4)">
+                in halle.</l>
+               <l rend="indent(2)">Þerfore of face so fere</l>
+               <l rend="indent(2)">He stiȝtlez stif in stalle,</l>
+               <l rend="indent(2)">Ful ȝep in þat Nw Ȝere</l>
+               <l rend="indent(2)">Much mirthe he mas withalle.</l>
+            </lg>
+            <lg>
+               <l>Thus þer stondes in stale þe stif kyng hisseluen,</l>
+               <l>Talkkande bifore þe hyȝe table of trifles ful hende.</l>
+               <l>There gode Gawan watz grayþed Gwenore bisyde,</l>
+               <l>And Agrauayn a la dure mayn on þat oþer syde sittes,</l>
+               <l>Boþe þe kynges sistersunes and ful siker kniȝtes;</l>
+               <l>Bischop Bawdewyn abof biginez þe table,</l>
+               <l>And Ywan, Vryn son, ette with hymseluen.</l>
+               <l>Þise were diȝt on þe des and derworþly serued,</l>
+               <l>And siþen mony siker segge at þe sidbordez.</l>
+               <l>Þen þe first cors come with crakkyng of trumpes,</l>
+               <l>Wyth mony baner ful bryȝt þat þerbi henged;</l>
+               <l>Nwe nakryn noyse with þe noble pipes,</l>
+               <l>Wylde werbles and wyȝt wakned lote,</l>
+               <l>Þat mony hert ful hiȝe hef at her towches.</l>
+               <l>Dayntés dryuen þerwyth of ful dere metes,</l>
+               <l>Foysoun of þe fresche, and on so fele disches</l>
+               <l>Þat pine to fynde þe place þe peple biforne</l>
+               <l>For to sette þe sylueren þat sere sewes halden</l>
+               <l rend="indent(4)">on clothe.</l>
+               <l rend="indent(2)">Iche lede as he loued hymselue</l>
+               <l rend="indent(2)">Þer laght withouten loþe;</l>
+               <l rend="indent(2)">Ay two had disches twelue,</l>
+               <l rend="indent(2)">Good ber and bryȝt wyn boþe.</l>
+            </lg>
+            <lg>
+               <l>Now wyl I of hor seruise say yow no more,</l>
+               <l>For vch wyȝe may wel wit no wont þat þer were.</l>
+               <l>An oþer noyse ful newe neȝed biliue,</l>
+               <l>Þat þe lude myȝt haf leue liflode to cach;</l>
+               <pb n="5"/>
+               <l>For vneþe watz þe noyce not a whyle sesed,</l>
+               <l>And þe fyrst cource in þe court kyndely serued,</l>
+               <l>Þer hales in at þe halle dor an aghlich mayster,</l>
+               <l>On þe most on þe molde on mesure hyghe;</l>
+               <l>Fro þe swyre to þe swange so sware and so þik,</l>
+               <l>And his lyndes and his lymes so longe and so grete,</l>
+               <milestone unit="folio" n="93r"/>
+               <l>Half etayn in erde I hope þat he were,</l>
+               <l>Bot mon most I algate mynn hym to bene,</l>
+               <l>And þat þe myriest in his muckel þat myȝt ride;</l>
+               <l>For of bak and of brest al were his bodi sturne,</l>
+               <l>Both his wombe and his wast were worthily smale,</l>
+               <l>And alle his fetures folȝande, in forme þat he hade,</l>
+               <l rend="indent(4)">ful clene;</l>
+               <l rend="indent(2)">For wonder of his hwe men hade,</l>
+               <l rend="indent(2)">Set in his semblaunt sene;</l>
+               <l rend="indent(2)">He ferde as freke were fade,</l>
+               <l rend="indent(2)">And oueral enker-grene.</l>
+            </lg>
+            <lg>
+               <l>Ande al grayþed in grene þis gome and his wedes:</l>
+               <l>A strayte cote ful streȝt, þat stek on his sides,</l>
+               <l>A meré mantile abof, mensked withinne</l>
+               <l>With pelure pured apert, þe pane ful clene</l>
+               <l>With blyþe blaunner ful bryȝt, and his hod boþe,</l>
+               <l>Þat watz laȝt fro his lokkez and layde on his schulderes;</l>
+               <l>Heme wel-haled hose of þat same,</l>
+               <l>Þat spenet on his sparlyr, and clene spures vnder</l>
+               <l>Of bryȝt golde, vpon silk bordes barred ful ryche,</l>
+               <l>And scholes vnder schankes þere þe schalk rides;</l>
+               <l>And alle his vesture uerayly watz clene verdure,</l>
+               <l>Boþe þe barres of his belt and oþer blyþe stones,</l>
+               <l>Þat were richely rayled in his aray clene</l>
+               <l>Aboutte hymself and his sadel, vpon silk werkez.</l>
+               <l>Þat were to tor for to telle of tryfles þe halue</l>
+               <l>Þat were enbrauded abof, wyth bryddes and flyȝes,</l>
+               <l>With gay gaudi of grene, þe golde ay inmyddes.</l>
+               <l>Þe pendauntes of his payttrure, þe proude cropure,</l>
+               <l>His molaynes, and alle þe metail anamayld was þenne,</l>
+               <l>Þe steropes þat he stod on stayned of þe same,</l>
+               <pb n="6"/>
+               <l>And his arsounz al after and his aþel skyrtes,</l>
+               <l>Þat euer glemered and glent al of grene stones;</l>
+               <l>Þe fole þat he ferkkes on fyn of þat ilke,</l>
+               <l rend="indent(4)">sertayn,</l>
+               <l rend="indent(2)">A grene hors gret and þikke,</l>
+               <l rend="indent(2)">A stede ful stif to strayne,</l>
+               <l rend="indent(2)">In brawden brydel quik--</l>
+               <milestone unit="folio" n="93v"/>
+               <l rend="indent(2)">To þe gome he watz ful gayn.</l>
+            </lg>
+            <lg>
+               <l>Wel gay watz þis gome gered in grene,</l>
+               <l>And þe here of his hed of his hors swete.</l>
+               <l>Fayre fannand fax vmbefoldes his schulderes;</l>
+               <l>A much berd as a busk ouer his brest henges,</l>
+               <l>Þat wyth his hiȝlich here þat of his hed reches</l>
+               <l>Watz euesed al vmbetorne abof his elbowes,</l>
+               <l>Þat half his armes þer-vnder were halched in þe wyse</l>
+               <l>Of a kyngez capados þat closes his swyre;</l>
+               <l>Þe mane of þat mayn hors much to hit lyke,</l>
+               <l>Wel cresped and cemmed, wyth knottes ful mony</l>
+               <l>Folden in wyth fildore aboute þe fayre grene,</l>
+               <l>Ay a herle of þe here, an oþer of golde;</l>
+               <l>Þe tayl and his toppyng twynnen of a sute,</l>
+               <l>And bounden boþe wyth a bande of a bryȝt grene,</l>
+               <l>Dubbed wyth ful dere stonez, as þe dok lasted,</l>
+               <l>Syþen þrawen wyth a þwong a þwarle knot alofte,</l>
+               <l>Þer mony bellez ful bryȝt of brende golde rungen.</l>
+               <l>Such a fole vpon folde, ne freke þat hym rydes,</l>
+               <l>Watz neuer sene in þat sale wyth syȝt er þat tyme,</l>
+               <l rend="indent(4)">with yȝe.</l>
+               <l rend="indent(2)">He loked as layt so lyȝt,</l>
+               <l rend="indent(2)">So sayd al þat hym syȝe;</l>
+               <l rend="indent(2)">Hit semed as no mon myȝt</l>
+               <l rend="indent(2)">Vnder his dynttez dryȝe.</l>
+            </lg>
+            <lg>
+               <l>Wheþer hade he no helme ne hawbergh nauþer,</l>
+               <l>Ne no pysan ne no plate þat pented to armes,</l>
+               <l>Ne no schafte ne no schelde to schwue ne to smyte,</l>
+               <l>Bot in his on honde he hade a holyn bobbe,</l>
+               <pb n="7"/>
+               <l>Þat is grattest in grene when greuez ar bare,</l>
+               <l>And an ax in his oþer, a hoge and vnmete,</l>
+               <l>A spetos sparþe to expoun in spelle, quoso myȝt.</l>
+               <l>Þe lenkþe of an elnȝerde þe large hede hade,</l>
+               <l>Þe grayn al of grene stele and of golde hewen,</l>
+               <l>Þe bit burnyst bryȝt, with a brod egge</l>
+               <l>As wel schapen to schere as scharp rasores,</l>
+               <l>Þe stele of a stif staf þe sturne hit bi grypte,</l>
+               <milestone unit="folio" n="94r"/>
+               <l>Þat watz wounden wyth yrn to þe wandez ende,</l>
+               <l>And al bigrauen with grene in gracios werkes;</l>
+               <l>A lace lapped aboute, þat louked at þe hede,</l>
+               <l>And so after þe halme halched ful ofte,</l>
+               <l>Wyth tryed tasselez þerto tacched innoghe</l>
+               <l>On botounz of þe bryȝt grene brayden ful ryche.</l>
+               <l>Þis haþel heldez hym in and þe halle entres,</l>
+               <l>Driuande to þe heȝe dece, dut he no woþe,</l>
+               <l>Haylsed he neuer one, bot heȝe he ouer loked.</l>
+               <l>Þe fyrst word þat he warp, 'Wher is', he sayd,</l>
+               <l>'Þe gouernour of þis gyng? Gladly I wolde</l>
+               <l>Se þat segg in syȝt, and with hymself speke</l>
+               <l rend="indent(4)">raysoun.'</l>
+               <l rend="indent(2)">To knyȝtez he kest his yȝe,</l>
+               <l rend="indent(2)">And reled hym vp and doun;</l>
+               <l rend="indent(2)">He stemmed, and con studie</l>
+               <l rend="indent(2)">Quo walt þer most renoun.</l>
+            </lg>
+            <lg>
+               <l>Ther watz lokyng on lenþe þe lude to beholde,</l>
+               <l>For vch mon had meruayle quat hit mene myȝt</l>
+               <l>Þat a haþel and a horse myȝt such a hwe lach,</l>
+               <l>As growe grene as þe gres and grener hit semed,</l>
+               <l>Þen grene aumayl on golde glowande bryȝter.</l>
+               <l>Al studied þat þer stod, and stalked hym nerre</l>
+               <l>Wyth al þe wonder of þe worlde what he worch schulde.</l>
+               <l>For fele sellyez had þay sen, bot such neuer are;</l>
+               <l>Forþi for fantoum and fayryȝe þe folk þere hit demed.</l>
+               <l>Þerfore to answare watz arȝe mony aþel freke,</l>
+               <l>And al stouned at his steuen and stonstil seten</l>
+               <l>In a swoghe sylence þurȝ þe sale riche;</l>
+               <pb n="8"/>
+               <l>As al were slypped vpon slepe so slaked hor lotez</l>
+               <l rend="indent(4)">in hyȝe--</l>
+               <l rend="indent(2)">I deme hit not al for doute,</l>
+               <l rend="indent(2)">Bot sum for cortaysye--</l>
+               <l rend="indent(2)">Bot let hym þat al schulde loute</l>
+               <l rend="indent(2)">Cast vnto þat wyȝe.</l>
+            </lg>
+            <lg>
+               <l>Þenn Arþour bifore þe hiȝ dece þat auenture byholdez,</l>
+               <l>And rekenly hym reuerenced, for rad was he neuer,</l>
+               <l>And sayde, 'Wyȝe, welcum iwys to þis place,</l>
+               <milestone unit="folio" n="94v"/>
+               <l>Þe hede of þis ostel Arthour I hat;</l>
+               <l>Liȝt luflych adoun and lenge, I þe praye,</l>
+               <l>And quat-so þy wylle is we schal wyt after.'</l>
+               <l>'Nay, as help me,' quoþ þe haþel, 'he þat on hyȝe syttes,</l>
+               <l>To wone any quyle in þis won, hit watz not myn ernde;</l>
+               <l>Bot for þe los of þe, lede, is lyft vp so hyȝe,</l>
+               <l>And þy burȝ and þy burnes best ar holden,</l>
+               <l>Stifest vnder stel-gere on stedes to ryde,</l>
+               <l>Þe wyȝtest and þe worþyest of þe worldes kynde,</l>
+               <l>Preue for to play wyth in oþer pure laykez,</l>
+               <l>And here is kydde cortaysye, as I haf herd carp,</l>
+               <l>And þat hatz wayned me hider, iwyis, at þis tyme.</l>
+               <l>Ȝe may be seker bi þis braunch þat I bere here</l>
+               <l>Þat I passe as in pes, and no plyȝt seche;</l>
+               <l>For had I founded in fere in feȝtyng wyse,</l>
+               <l>I haue a hauberghe at home and a helme boþe,</l>
+               <l>A schelde and a scharp spere, schinande bryȝt,</l>
+               <l>Ande oþer weppenes to welde, I wene wel, als;</l>
+               <l>Bot for I wolde no were, my wedez ar softer.</l>
+               <l>Bot if þou be so bold as alle burnez tellen,</l>
+               <l>Þou wyl grant me godly þe gomen þat I ask</l>
+               <l rend="indent(4)">bi ryȝt.'</l>
+               <l rend="indent(2)">Arthour con onsware,</l>
+               <l rend="indent(2)">And sayd, 'Sir cortays knyȝt,</l>
+               <l rend="indent(2)">If þou craue batayl bare,</l>
+               <l rend="indent(2)">Here faylez þou not to fyȝt.'</l>
+            </lg>
+            <lg>
+               <l>'Nay, frayst I no fyȝt, in fayth I þe telle,</l>
+               <l>Hit arn aboute on þis bench bot berdlez chylder.</l>
+               <l>If I were hasped in armes on a heȝe stede,</l>
+               <pb n="9"/>
+               <l>Here is no mon me to mach, for myȝtez so wayke.</l>
+               <l>Forþy I craue in þis court a Crystemas gomen,</l>
+               <l>For hit is Ȝol and Nwe Ȝer, and here ar ȝep mony:</l>
+               <l>If any so hardy in þis hous holdez hymseluen,</l>
+               <l>Be so bolde in his blod, brayn in hys hede,</l>
+               <l>Þat dar stifly strike a strok for an oþer,</l>
+               <l>I schal gif hym of my gyft þys giserne ryche,</l>
+               <l>Þis ax, þat is heué innogh, to hondele as hym lykes,</l>
+               <milestone unit="folio" n="95r"/>
+               <l>And I schal bide þe fyrst bur as bare as I sitte.</l>
+               <l>If any freke be so felle to fonde þat I telle,</l>
+               <l>Lepe lyȝtly me to, and lach þis weppen,</l>
+               <l>I quit-clayme hit for euer, kepe hit as his auen,</l>
+               <l>And I schal stonde hym a strok, stif on þis flet,</l>
+               <l>Ellez þou wyl diȝt me þe dom to dele hym an oþer</l>
+               <l rend="indent(4)">barlay,</l>
+               <l rend="indent(2)">And ȝet gif hym respite,</l>
+               <l rend="indent(2)">A twelmonyth and a day;</l>
+               <l rend="indent(2)">Now hyȝe, and let se tite</l>
+               <l rend="indent(2)">Dar any herinne oȝt say.'</l>
+            </lg>
+            <lg>
+               <l>If he hem stowned vpon fyrst, stiller were þanne</l>
+               <l>Alle þe heredmen in halle, þe hyȝ and þe loȝe.</l>
+               <l>Þe renk on his rouncé hym ruched in his sadel,</l>
+               <l>And runischly his rede yȝen he reled aboute,</l>
+               <l>Bende his bresed broȝez, blycande grene,</l>
+               <l>Wayued his berde for to wayte quo-so wolde ryse.</l>
+               <l>When non wolde kepe hym with carp he coȝed ful hyȝe,</l>
+               <l>Ande rimed hym ful richly, and ryȝt hym to speke:</l>
+               <l>'What, is þis Arthures hous,' quoþ þe haþel þenne,</l>
+               <l>'Þat al þe rous rennes of þurȝ ryalmes so mony?</l>
+               <l>Where is now your sourquydrye and your conquestes,</l>
+               <l>Your gryndellayk and your greme, and your grete wordes?</l>
+               <l>Now is þe reuel and þe renoun of þe Rounde Table</l>
+               <l>Ouerwalt wyth a worde of on wyȝes speche,</l>
+               <l>For al dares for drede withoute dynt schewed!'</l>
+               <l>Wyth þis he laȝes so loude þat þe lorde greued;</l>
+               <l>Þe blod schot for scham into his schyre face</l>
+               <l rend="indent(4)">and lere;</l>
+               <pb n="10"/>
+               <l rend="indent(2)">He wex as wroth as wynde,</l>
+               <l rend="indent(2)">So did alle þat þer were.</l>
+               <l rend="indent(2)">Þe kyng as kene bi kynde</l>
+               <l rend="indent(2)">Þen stod þat stif mon nere,</l>
+            </lg>
+            <lg>
+               <l>Ande sayde, 'Haþel, by heuen, þyn askyng is nys,</l>
+               <l>And as þou foly hatz frayst, fynde þe behoues.</l>
+               <l>I know no gome þat is gast of þy grete wordes;</l>
+               <l>Gif me now þy geserne, vpon Godez halue,</l>
+               <l>And I schal bayþen þy bone þat þou boden habbes.'</l>
+               <milestone unit="folio" n="95v"/>
+               <l>Lyȝtly lepez he hym to, and laȝt at his honde.</l>
+               <l>Þen feersly þat oþer freke vpon fote lyȝtis.</l>
+               <l>Now hatz Arthure his axe, and þe halme grypez,</l>
+               <l>And sturnely sturez hit aboute, þat stryke wyth hit þoȝt.</l>
+               <l>Þe stif mon hym bifore stod vpon hyȝt,</l>
+               <l>Herre þen ani in þe hous by þe hede and more.</l>
+               <l>Wyth sturne schere þer he stod he stroked his berde,</l>
+               <l>And wyth a countenaunce dryȝe he droȝ doun his cote,</l>
+               <l>No more mate ne dismayd for hys mayn dintez</l>
+               <l>Þen any burne vpon bench hade broȝt hym to drynk</l>
+               <l rend="indent(4)">of wyne.</l>
+               <l rend="indent(2)">Gawan, þat sate bi þe quene,</l>
+               <l rend="indent(2)">To þe kyng he can enclyne:</l>
+               <l rend="indent(2)">'I beseche now with saȝez sene</l>
+               <l rend="indent(2)">Þis melly mot be myne.</l>
+            </lg>
+            <lg>
+               <l>'Wolde ȝe, worþilych lorde,' quoþ Wawan to þe kyng,</l>
+               <l>'Bid me boȝe fro þis benche, and stonde by yow þere,</l>
+               <l>Þat I wythoute vylanye myȝt voyde þis table,</l>
+               <l>And þat my legge lady lyked not ille,</l>
+               <l>I wolde com to your counseyl bifore your cort ryche.</l>
+               <l>For me þink hit not semly, as hit is soþ knawen,</l>
+               <l>Þer such an askyng is heuened so hyȝe in your sale,</l>
+               <l>Þaȝ ȝe ȝourself be talenttyf, to take hit to yourseluen,</l>
+               <l>Whil mony so bolde yow aboute vpon bench sytten,</l>
+               <l>Þat vnder heuen I hope non haȝerer of wylle,</l>
+               <l>Ne better bodyes on bent þer baret is rered.</l>
+               <l>I am þe wakkest, I wot, and of wyt feblest,</l>
+               <l>And lest lur of my lyf, quo laytes þe soþe--</l>
+               <pb n="11"/>
+               <l>Bot for as much as ȝe ar myn em I am only to prayse,</l>
+               <l>No bounté bot your blod I in my bodé knowe;</l>
+               <l>And syþen þis note is so nys þat noȝt hit yow falles,</l>
+               <l>And I haue frayned hit at yow fyrst, foldez hit to me;</l>
+               <l>And if I carp not comlyly, let alle þis cort rych</l>
+               <l rend="indent(4)">bout blame.'</l>
+               <l rend="indent(2)">Ryche togeder con roun,</l>
+               <l rend="indent(2)">And syþen þay redden alle same</l>
+               <l rend="indent(2)">To ryd þe kyng wyth croun,</l>
+               <l rend="indent(2)">And gif Gawan þe game.</l>
+            </lg>
+            <lg>
+               <milestone unit="folio" n="96r"/>
+               <l>Þen comaunded þe kyng þe knyȝt for to ryse;</l>
+               <l>And he ful radly vpros, and ruchched hym fayre,</l>
+               <l>Kneled doun bifore þe kyng, and cachez þat weppen;</l>
+               <l>And he luflyly hit hym laft, and lyfte vp his honde,</l>
+               <l>And gef hym Goddez blessyng, and gladly hym biddes</l>
+               <l>Þat his hert and his honde schulde hardi be boþe.</l>
+               <l>'Kepe þe cosyn,' quoþ þe kyng, 'þat þou on kyrf sette,</l>
+               <l>And if þou redeȝ hym ryȝt, redly I trowe</l>
+               <l>Þat þou schal byden þe bur þat he schal bede after.'</l>
+               <l>Gawan gotz to þe gome with giserne in honde,</l>
+               <l>And he baldly hym bydez, he bayst neuer þe helder.</l>
+               <l>Þen carppez to Sir Gawan þe knyȝt in þe grene,</l>
+               <l>'Refourme we oure forwardes, er we fyrre passe.</l>
+               <l>Fyrst I eþe þe, haþel, how þat þou hattes</l>
+               <l>Þat þou me telle truly, as I tryst may.'</l>
+               <l>'In god fayth,' quoþ þe goode knyȝt, 'Gawan I hatte,</l>
+               <l>Þat bede þe þis buffet, quat-so bifallez after,</l>
+               <l>And at þis tyme twelmonyth take at þe an oþer</l>
+               <l>Wyth what weppen so þou wylt, and wyth no wyȝ ellez</l>
+               <l rend="indent(4)">on lyue.'</l>
+               <l rend="indent(2)">Þat oþer onswarez agayn,</l>
+               <l rend="indent(2)">'Sir Gawan, so mot I þryue</l>
+               <l rend="indent(2)">As I am ferly fayn</l>
+               <l rend="indent(2)">Þis dint þat þou schal dryue.</l>
+            </lg>
+            <lg>
+               <l>'Bigog,' quoþ þe grene knyȝt, 'Sir Gawan, me lykes</l>
+               <l>Þat I schal fange at þy fust þat I haf frayst here.</l>
+               <l>And þou hatz redily rehersed, bi resoun ful trwe,</l>
+               <pb n="12"/>
+               <l>Clanly al þe couenaunt þat I þe kynge asked,</l>
+               <l>Saf þat þou schal siker me, segge, bi þi trawþe,</l>
+               <l>Þat þou schal seche me þiself, where-so þou hopes</l>
+               <l>I may be funde vpon folde, and foch þe such wages</l>
+               <l>As þou deles me to-day bifore þis douþe ryche.'</l>
+               <l>'Where schulde I wale þe,' quoþ Gauan, 'where is þy place?</l>
+               <l>I wot neuer where þou wonyes, bi hym þat me wroȝt,</l>
+               <l>Ne I know not þe, knyȝt, by cort ne þi name.</l>
+               <l>Bot teche me truly þerto, and telle me how þou hattes,</l>
+               <l>And I schal ware alle my wyt to wynne me þeder,</l>
+               <milestone unit="folio" n="96v"/>
+               <l>And þat I swere þe for soþe, and by my seker traweþ.'</l>
+               <l>'Þat is innogh in Nwe Ȝer, hit nedes no more',</l>
+               <l>Quoþ þe gome in þe grene to Gawan þe hende;</l>
+               <l>'Ȝif I þe telle trwly, quen I þe tape haue</l>
+               <l>And þou me smoþely hatz smyten, smartly I þe teche</l>
+               <l>Of my hous and my home and myn owen nome,</l>
+               <l>Þen may þou frayst my fare and forwardez holde;</l>
+               <l>And if I spende no speche, þenne spedez þou þe better,</l>
+               <l>For þou may leng in þy londe and layt no fyrre--</l>
+               <l rend="indent(4)">bot slokes!</l>
+               <l rend="indent(2)">Ta now þy grymme tole to þe,</l>
+               <l rend="indent(2)">And let se how þou cnokez.'</l>
+               <l rend="indent(2)">'Gladly, sir, for soþe',</l>
+               <l rend="indent(2)">Quoþ Gawan; his ax he strokes.</l>
+            </lg>
+            <lg>
+               <l>Þe grene knyȝt vpon grounde grayþely hym dresses,</l>
+               <l>A littel lut with þe hede, þe lere he discouerez,</l>
+               <l>His longe louelych lokkez he layd ouer his croun,</l>
+               <l>Let þe naked nec to þe note schewe.</l>
+               <l>Gauan gripped to his ax, and gederes hit on hyȝt,</l>
+               <l>Þe kay fot on þe folde he before sette,</l>
+               <l>Let him doun lyȝtly lyȝt on þe naked,</l>
+               <l>Þat þe scharp of þe schalk schyndered þe bones,</l>
+               <l>And schrank þurȝ þe schyire grece, and schade hit in twynne,</l>
+               <l>Þat þe bit of þe broun stel bot on þe grounde.</l>
+               <l>Þe fayre hede fro þe halce hit to þe erþe,</l>
+               <l>Þat fele hit foyned wyth her fete, þere hit forth roled;</l>
+               <l>Þe blod brayd fro þe body, þat blykked on þe grene;</l>
+               <pb n="13"/>
+               <l>And nawþer faltered ne fel þe freke neuer þe helder,</l>
+               <l>Bot styþly he start forth vpon styf schonkes,</l>
+               <l>And runyschly he raȝt out, þere as renkkez stoden,</l>
+               <l>Laȝt to his lufly hed, and lyft hit vp sone;</l>
+               <l>And syþen boȝez to his blonk, þe brydel he cachchez,</l>
+               <l>Steppez into stelbawe and strydez alofte,</l>
+               <l>And his hede by þe here in his honde haldez;</l>
+               <l>And as sadly þe segge hym in his sadel sette</l>
+               <l>As non vnhap had hym ayled, þaȝ hedlez he were</l>
+               <l rend="indent(4)">in stedde.</l>
+               <l rend="indent(2)">He brayde his bulk aboute,</l>
+               <milestone unit="folio" n="97r"/>
+               <l rend="indent(2)">Þat vgly bodi þat bledde;</l>
+               <l rend="indent(2)">Moni on of hym had doute,</l>
+               <l rend="indent(2)">Bi þat his resounz were redde.</l>
+            </lg>
+            <lg>
+               <l>For þe hede in his honde he haldez vp euen,</l>
+               <l>Toward þe derrest on þe dece he dressez þe face,</l>
+               <l>And hit lyfte vp þe yȝe-lyddez and loked ful brode,</l>
+               <l>And meled þus much with his muthe, as ȝe may now here:</l>
+               <l>'Loke, Gawan, þou be grayþe to go as þou hettez,</l>
+               <l>And layte as lelly til þou me, lude, fynde,</l>
+               <l>As þou hatz hette in þis halle, herande þise knyȝtes;</l>
+               <l>To þe grene chapel þou chose, I charge þe, to fotte</l>
+               <l>Such a dunt as þou hatz dalt--disserued þou habbez</l>
+               <l>To be ȝederly ȝolden on Nw Ȝeres morn.</l>
+               <l>Þe knyȝt of þe grene chapel men knowen me mony;</l>
+               <l>Forþi me for to fynde if þou fraystez, faylez þou neuer.</l>
+               <l>Þerfore com, oþer recreaunt be calde þe behoues.'</l>
+               <l>With a runisch rout þe raynez he tornez,</l>
+               <l>Halled out at þe hal dor, his hed in his hande,</l>
+               <l>Þat þe fyr of þe flynt flaȝe fro fole houes.</l>
+               <l>To quat kyth he becom knwe non þere,</l>
+               <l>Neuer more þen þay wyste from queþen he watz wonnen.</l>
+               <l rend="indent(4)">What þenne?</l>
+               <l rend="indent(2)">Þe kyng and Gawen þare</l>
+               <l rend="indent(2)">At þat grene þay laȝe and grenne,</l>
+               <l rend="indent(2)">Ȝet breued watz hit ful bare</l>
+               <l rend="indent(2)">A meruayl among þo menne.</l>
+            </lg>
+            <lg>
+               <pb n="14"/>
+               <l>Þaȝ Arþer þe hende kyng at hert hade wonder,</l>
+               <l>He let no semblaunt be sene, bot sayde ful hyȝe</l>
+               <l>To þe comlych quene wyth cortays speche,</l>
+               <l>'Dere dame, to-day demay yow neuer;</l>
+               <l>Wel bycommes such craft vpon Cristmasse,</l>
+               <l>Laykyng of enterludez, to laȝe and to syng,</l>
+               <l>Among þise kynde caroles of knyȝtez and ladyez.</l>
+               <l>Neuer þe lece to my mete I may me wel dres,</l>
+               <l>For I haf sen a selly, I may not forsake.'</l>
+               <l>He glent vpon Sir Gawen, and gaynly he sayde,</l>
+               <l>'Now, sir, heng vp þyn ax, þat hatz innogh hewen';</l>
+               <milestone unit="folio" n="97v"/>
+               <l>And hit watz don abof þe dece on doser to henge,</l>
+               <l>Þer alle men for meruayl myȝt on hit loke,</l>
+               <l>And bi trwe tytel þerof to telle þe wonder.</l>
+               <l>Þenne þay boȝed to a borde þise burnes togeder,</l>
+               <l>Þe kyng and þe gode knyȝt, and kene men hem serued</l>
+               <l>Of alle dayntyez double, as derrest myȝt falle;</l>
+               <l>Wyth alle maner of mete and mynstralcie boþe,</l>
+               <l>Wyth wele walt þday, til worþed an ende</l>
+               <l rend="indent(4)">in londe.</l>
+               <l rend="indent(2)">Now þenk wel, Sir Gawan,</l>
+               <l rend="indent(2)">For woþe þat þou ne wonde</l>
+               <l rend="indent(2)">Þis auenture for to frayn</l>
+               <l rend="indent(2)">Þat þou hatz tan on honde.</l>
+            </lg>
+         </div>
+         <div rend="linenumber">
+            <head>II</head>
+            <lg>
+               <l>THIS hanselle hatz Arthur of auenturus on fyrst</l>
+               <l>In ȝonge ȝer, for he ȝerned ȝelpyng to here.</l>
+               <l>Thaȝ hym wordez were wane when þay to sete wenten,</l>
+               <l>Now ar þay stoken of sturne werk, stafful her hond.</l>
+               <l>Gawan watz glad to begynne þose gomnez in halle,</l>
+               <l>Bot þaȝ þe ende be heuy haf ȝe no wonder;</l>
+               <l>For þaȝ men ben mery in mynde quen þay han mayn drynk,</l>
+               <l>A ȝere ȝernes ful ȝerne, and ȝeldez neuer lyke,</l>
+               <l>Þe forme to þe fynisment foldez ful selden.</l>
+               <l>Forþi þis Ȝol ouerȝede, and þe ȝere after,</l>
+               <l>And vche sesoun serlepes sued after oþer:</l>
+               <pb n="15"/>
+               <l>After Crystenmasse com þe crabbed lentoun,</l>
+               <l>Þat fraystez flesch wyth þe fysche and fode more symple;</l>
+               <l>Bot þenne þe weder of þe worlde wyth wynter hit þrepez,</l>
+               <l>Colde clengez adoun, cloudez vplyften,</l>
+               <l>Schyre schedez þe rayn in schowrez ful warme,</l>
+               <l>Fallez vpon fayre flat, flowrez þere schewen,</l>
+               <l>Boþe groundez and þe greuez grene ar her wedez,</l>
+               <l>Bryddez busken to bylde, and bremlych syngen</l>
+               <l>For solace of þe softe somer þat sues þerafter</l>
+               <l rend="indent(4)">bi bonk;</l>
+               <l rend="indent(2)">And blossumez bolne to blowe</l>
+               <l rend="indent(2)">Bi rawez rych and ronk,</l>
+               <l rend="indent(2)">Þen notez noble innoȝe</l>
+               <milestone unit="folio" n="98r"/>
+               <l rend="indent(2)">Ar herde in wod so wlonk.</l>
+            </lg>
+            <lg>
+               <l>After þe sesoun of somer wyth þe soft wyndez</l>
+               <l>Quen Zeferus syflez hymself on sedez and erbez,</l>
+               <l>Wela wynne is þe wort þat waxes þeroute,</l>
+               <l>When þe donkande dewe dropez of þe leuez,</l>
+               <l>To bide a blysful blusch of þe bryȝt sunne.</l>
+               <l>Bot þen hyȝes heruest, and hardenes hym sone,</l>
+               <l>Warnez hym for þe wynter to wax ful rype;</l>
+               <l>He dryues wyth droȝt þe dust for to ryse,</l>
+               <l>Fro þe face of þe folde to flyȝe ful hyȝe;</l>
+               <l>Wroþe wynde of þe welkyn wrastelez with þe sunne,</l>
+               <l>Þe leuez lancen fro þe lynde and lyȝten on þe grounde,</l>
+               <l>And al grayes þe gres þat grene watz ere;</l>
+               <l>Þenne al rypez and rotez þat ros vpon fyrst,</l>
+               <l>And þus ȝirnez þe ȝere in ȝisterdayez mony,</l>
+               <l>And wynter wyndez aȝayn, as þe worlde askez,</l>
+               <l rend="indent(4)">no fage,</l>
+               <l rend="indent(2)">Til Meȝelmas mone</l>
+               <l rend="indent(2)">Watȝ cumen wyth wynter wage;</l>
+               <l rend="indent(2)">Þen þenkkez Gawan ful sone</l>
+               <l rend="indent(2)">Of his anious uyage.</l>
+            </lg>
+            <lg>
+               <l>Ȝet quyl Al-hal-day with Arþer he lenges;</l>
+               <l>And he made a fare on þat fest for þe frekez sake,</l>
+               <l>With much reuel and ryche of þe Rounde Table.</l>
+               <pb n="16"/>
+               <l>Knyȝtez ful cortays and comlych ladies</l>
+               <l>Al for luf of þat lede in longynge þay were,</l>
+               <l>Bot neuer þe lece ne þe later þay neuened bot merþe:</l>
+               <l>Mony ioylez for þat ientyle iapez þer maden.</l>
+               <l>For aftter mete with mournyng he melez to his eme,</l>
+               <l>And spekez of his passage, and pertly he sayde,</l>
+               <l>'Now, lege lorde of my lyf, leue I yow ask;</l>
+               <l>Ȝe knowe þe cost of þis cace, kepe I no more</l>
+               <l>To telle yow tenez þerof neuer bot trifel;</l>
+               <l>Bot I am boun to þe bur barely to-morne</l>
+               <l>To sech þe gome of þe grene, as God wyl me wysse.'</l>
+               <l>Þenne þe best of þe burȝ boȝed togeder,</l>
+               <l>Aywan, and Errik, and oþer ful mony,</l>
+               <milestone unit="folio" n="98v"/>
+               <l>Sir Doddinaual de Sauage, þe duk of Clarence,</l>
+               <l>Launcelot, and Lyonel, and Lucan þe gode,</l>
+               <l>Sir Boos, and Sir Byduer, big men boþe,</l>
+               <l>And mony oþer menskful, with Mador de la Port.</l>
+               <l>Alle þis compayny of court com þe kyng nerre</l>
+               <l>For to counseyl þe knyȝt, with care at her hert.</l>
+               <l>Þere watz much derue doel driuen in þe sale</l>
+               <l>Þat so worþé as Wawan schulde wende on þat ernde,</l>
+               <l>To dryȝe a delful dynt, and dele no more</l>
+               <l rend="indent(4)">wyth bronde.</l>
+               <l rend="indent(2)">Þe knyȝt mad ay god chere,</l>
+               <l rend="indent(2)">And sayde, 'Quat schuld I wonde?</l>
+               <l rend="indent(2)">Of destinés derf and dere</l>
+               <l rend="indent(2)">What may mon do bot fonde?'</l>
+            </lg>
+            <lg>
+               <l>He dowellez þer al þat day, and dressez on þe morn,</l>
+               <l>Askez erly hys armez, and alle were þay broȝt.</l>
+               <l>Fyrst a tulé tapit tyȝt ouer þe flet,</l>
+               <l>And miche watz þe gyld gere þat glent þeralofte;</l>
+               <l>Þe stif mon steppez þeron, and þe stel hondelez,</l>
+               <l>Dubbed in a dublet of a dere tars,</l>
+               <l>And syþen a crafty capados, closed aloft,</l>
+               <l>Þat wyth a bryȝt blaunner was bounden withinne.</l>
+               <l>Þenne set þay þe sabatounz vpon þe segge fotez,</l>
+               <l>His legez lapped in stel with luflych greuez,</l>
+               <l>With polaynez piched þerto, policed ful clene,</l>
+               <l>Aboute his knez knaged wyth knotez of golde;</l>
+               <pb n="17"/>
+               <l>Queme quyssewes þen, þat coyntlych closed</l>
+               <l>His thik þrawen þyȝez, with þwonges to tachched;</l>
+               <l>And syþen þe brawden bryné of bryȝt stel ryngez</l>
+               <l>Vmbeweued þat wyȝ vpon wlonk stuffe,</l>
+               <l>And wel bornyst brace vpon his boþe armes,</l>
+               <l>With gode cowters and gay, and glouez of plate,</l>
+               <l>And alle þe godlych gere þat hym gayn schulde</l>
+               <l rend="indent(4)">þat tyde;</l>
+               <l rend="indent(2)">Wyth ryche cote-armure,</l>
+               <l rend="indent(2)">His gold sporez spend with pryde,</l>
+               <l rend="indent(2)">Gurde wyth a bront ful sure</l>
+               <l rend="indent(2)">With silk sayn vmbe his syde.</l>
+            </lg>
+            <lg>
+               <milestone unit="folio" n="99r"/>
+               <l>When he watz hasped in armes, his harnays watz ryche:</l>
+               <l>Þe lest lachet ouer loupe lemed of golde.</l>
+               <l>So harnayst as he watz he herknez his masse,</l>
+               <l>Offred and honoured at þe heȝe auter.</l>
+               <l>Syþen he comez to þe kyng and to his cort-ferez,</l>
+               <l>Lachez lufly his leue at lordez and ladyez;</l>
+               <l>And þay hym kyst and conueyed, bikende hym to Kryst.</l>
+               <l>Bi þat watz Gryngolet grayth, and gurde with a sadel</l>
+               <l>Þat glemed ful gayly with mony golde frenges,</l>
+               <l>Ayquere naylet ful nwe, for þat note ryched;</l>
+               <l>Þe brydel barred aboute, with bryȝt golde bounden;</l>
+               <l>Þe apparayl of þe payttrure and of þe proude skyrtez,</l>
+               <l>Þe cropore and þe couertor, acorded wyth þe arsounez;</l>
+               <l>And al watz rayled on red ryche golde naylez,</l>
+               <l>Þat al glytered and glent as glem of þe sunne.</l>
+               <l>Þenne hentes he þe helme, and hastily hit kysses,</l>
+               <l>Þat watz stapled stifly, and stoffed wythinne.</l>
+               <l>Hit watz hyȝe on his hede, hasped bihynde,</l>
+               <l>Wyth a lyȝtly vrysoun ouer þe auentayle,</l>
+               <l>Enbrawden and bounden wyth þe best gemmez</l>
+               <l>On brode sylkyn borde, and bryddez on semez,</l>
+               <l>As papiayez paynted peruyng bitwene,</l>
+               <l>Tortors and trulofez entayled so þyk</l>
+               <l>As mony burde þeraboute had ben seuen wynter</l>
+               <l rend="indent(4)">in toune.</l>
+               <pb n="18"/>
+               <l rend="indent(2)">Þe cercle watz more o prys</l>
+               <l rend="indent(2)">Þat vmbeclypped hys croun,</l>
+               <l rend="indent(2)">Of diamauntez a deuys</l>
+               <l rend="indent(2)">Þat boþe were bryȝt and broun.</l>
+            </lg>
+            <lg>
+               <l>THEN þay schewed hym þe schelde, þat was of schyr goulez</l>
+               <l>Wyth þe pentangel depaynt of pure golde hwez.</l>
+               <l>He braydez hit by þe bauderyk, aboute þe hals kestes,</l>
+               <l>Þat bisemed þe segge semlyly fayre.</l>
+               <l>And quy þe pentangel apendez to þat prynce noble</l>
+               <l>I am in tent yow to telle, þof tary hyt me schulde:</l>
+               <l>Hit is a syngne þat Salamon set sumquyle</l>
+               <l>In bytoknyng of trawþe, bi tytle þat hit habbez,</l>
+               <milestone unit="folio" n="99v"/>
+               <l>For hit is a figure þat haldez fyue poyntez,</l>
+               <l>And vche lyne vmbelappez and loukez in oþer,</l>
+               <l>And ayquere hit is endelez; and Englych hit callen</l>
+               <l>Oueral, as I here, þe endeles knot.</l>
+               <l>Forþy hit acordez to þis knyȝt and to his cler armez,</l>
+               <l>For ay faythful in fyue and sere fyue syþez</l>
+               <l>Gawan watz for gode knawen, and as golde pured,</l>
+               <l>Voyded of vche vylany, wyth vertuez ennourned</l>
+               <l rend="indent(4)">in mote;</l>
+               <l rend="indent(2)">Forþy þe pentangel nwe</l>
+               <l rend="indent(2)">He ber in schelde and cote,</l>
+               <l rend="indent(2)">As tulk of tale most trwe</l>
+               <l rend="indent(2)">And gentylest knyȝt of lote.</l>
+            </lg>
+            <lg>
+               <l>Fyrst he watz funden fautlez in his fyue wyttez,</l>
+               <l>And efte fayled neuer þe freke in his fyue fyngres,</l>
+               <l>And alle his afyaunce vpon folde watz in þe fyue woundez</l>
+               <l>Þat Cryst kaȝt on þe croys, as þe crede tellez;</l>
+               <l>And quere-so-euer þys mon in melly watz stad,</l>
+               <l>His þro þoȝt watz in þat, þurȝ alle oþer þyngez,</l>
+               <l>Þat alle his forsnes he feng at þe fyue joyez</l>
+               <l>Þat þe hende heuen-quene had of hir chylde;</l>
+               <l>At þis cause þe knyȝt comlyche hade</l>
+               <l>In þe inore half of his schelde hir ymage depaynted,</l>
+               <l>Þat quen he blusched þerto his belde neuer payred.</l>
+               <pb n="19"/>
+               <l>Þe fyft fyue þat I finde þat þe frek vsed</l>
+               <l>Watz fraunchyse and felaȝschyp forbe al þyng,</l>
+               <l>His clannes and his cortaysye croked were neuer,</l>
+               <l>And pité, þat passez alle poyntez, þyse pure fyue</l>
+               <l>Were harder happed on þat haþel þen on any oþer.</l>
+               <l>Now alle þese fyue syþez, for soþe, were fetled on þis knyȝt,</l>
+               <l>And vchone halched in oþer, þat non ende hade,</l>
+               <l>And fyched vpon fyue poyntez, þat fayld neuer,</l>
+               <l>Ne samned neuer in no syde, ne sundred nouþer,</l>
+               <l>Withouten ende at any noke I oquere fynde,</l>
+               <l>Whereeuer þe gomen bygan, or glod to an ende.</l>
+               <l>Þerfore on his schene schelde schapen watz þe knot</l>
+               <l>Ryally wyth red golde vpon rede gowlez,</l>
+               <milestone unit="folio" n="100r"/>
+               <l>Þat is þe pure pentaungel wyth þe peple called</l>
+               <l rend="indent(4)">with lore.</l>
+               <l rend="indent(2)">Now grayþed is Gawan gay,</l>
+               <l rend="indent(2)">And laȝt his launce ryȝt þore,</l>
+               <l rend="indent(2)">And gef hem alle goud day,</l>
+               <l rend="indent(2)">He wende for euermore.</l>
+            </lg>
+            <lg>
+               <l>He sperred þe sted with þe spurez and sprong on his way,</l>
+               <l>So stif þat þe ston-fyr stroke out þerafter.</l>
+               <l>Al þat seȝ þat semly syked in hert,</l>
+               <l>And sayde soþly al same segges til oþer,</l>
+               <l>Carande for þat comly: 'Bi Kryst, hit is scaþe</l>
+               <l>Þat þou, leude, schal be lost, þat art of lyf noble!</l>
+               <l>To fynde hys fere vpon folde, in fayth, is not eþe.</l>
+               <l>Warloker to haf wroȝt had more wyt bene,</l>
+               <l>And haf dyȝt ȝonder dere a duk to haue worþed;</l>
+               <l>A lowande leder of ledez in londe hym wel semez,</l>
+               <l>And so had better haf ben þen britned to noȝt,</l>
+               <l>Hadet wyth an aluisch mon, for angardez pryde.</l>
+               <l>Who knew euer any kyng such counsel to take</l>
+               <l>As knyȝtez in cauelaciounz on Crystmasse gomnez!'</l>
+               <l>Wel much watz þe warme water þat waltered of yȝen,</l>
+               <l>When þat semly syre soȝt fro þo wonez</l>
+               <l rend="indent(4)">þad daye.</l>
+               <pb n="20"/>
+               <l rend="indent(2)">He made non abode,</l>
+               <l rend="indent(2)">Bot wyȝtly went hys way;</l>
+               <l rend="indent(2)">Mony wylsum way he rode,</l>
+               <l rend="indent(2)">Þe bok as I herde say.</l>
+            </lg>
+            <lg>
+               <l>Now ridez þis renk þurȝ þe ryalme of Logres,</l>
+               <l>Sir Gauan, on Godez halue, þaȝ hym no gomen þoȝt.</l>
+               <l>Oft leudlez alone he lengez on nyȝtez</l>
+               <l>Þer he fonde noȝt hym byfore þe fare þat he lyked.</l>
+               <l>Hade he no fere bot his fole bi frythez and dounez,</l>
+               <l>Ne no gome bot God bi gate wyth to karp,</l>
+               <l>Til þat he neȝed ful neghe into þe Norþe Walez.</l>
+               <l>Alle þe iles of Anglesay on lyft half he haldez,</l>
+               <l>And farez ouer þe fordez by þe forlondez,</l>
+               <l>Ouer at þe Holy Hede, til he hade eft bonk</l>
+               <l>In þe wyldrenesse of Wyrale; wonde þer bot lyte</l>
+               <milestone unit="folio" n="100v"/>
+               <l>Þat auþer God oþer gome wyth goud hert louied.</l>
+               <l>And ay he frayned, as he ferde, at frekez þat he met,</l>
+               <l>If þay hade herde any karp of a knyȝt grene,</l>
+               <l>In any grounde þeraboute, of þe grene chapel;</l>
+               <l>And al nykked hym wyth nay, þat neuer in her lyue</l>
+               <l>Þay seȝe neuer no segge þat watz of suche hwez</l>
+               <l rend="indent(4)">of grene.</l>
+               <l rend="indent(2)">Þe knyȝt tok gates straunge</l>
+               <l rend="indent(2)">In mony a bonk vnbene,</l>
+               <l rend="indent(2)">His cher ful oft con chaunge</l>
+               <l rend="indent(2)">Þat chapel er he myȝt sene.</l>
+            </lg>
+            <lg>
+               <l>Mony klyf he ouerclambe in contrayez straunge,</l>
+               <l>Fer floten fro his frendez fremedly he rydez.</l>
+               <l>At vche warþe oþer water þer þe wyȝe passed</l>
+               <l>He fonde a foo hym byfore, bot ferly hit were,</l>
+               <l>And þat so foule and so felle þat feȝt hym byhode.</l>
+               <l>So mony meruayl bi mount þer þe mon fyndez,</l>
+               <l>Hit were to tore for to telle of þe tenþe dole.</l>
+               <l>Sumwhyle wyth wormez he werrez, and with wolues als,</l>
+               <l>Sumwhyle wyth wodwos, þat woned in þe knarrez,</l>
+               <l>Boþe wyth bullez and berez, and borez oþerquyle,</l>
+               <l>And etaynez, þat hym anelede of þe heȝe felle;</l>
+               <pb n="21"/>
+               <l>Nade he ben duȝty and dryȝe, and Dryȝtyn had serued,</l>
+               <l>Douteles he hade ben ded and dreped ful ofte.</l>
+               <l>For werre wrathed hym not so much þat wynter nas wors,</l>
+               <l>When þe colde cler water fro þe cloudez schadde,</l>
+               <l>And fres er hit falle myȝt to þe fale erþe;</l>
+               <l>Ner slayn wyth þe slete he sleped in his yrnes</l>
+               <l>Mo nyȝtez þen innoghe in naked rokkez,</l>
+               <l>Þer as claterande fro þe crest þe colde borne rennez,</l>
+               <l>And henged heȝe ouer his hede in hard iisse-ikkles.</l>
+               <l>Þus in peryl and payne and plytes ful harde</l>
+               <l>Bi contray cayrez þis knyȝt, tyl Krystmasse euen,</l>
+               <l rend="indent(4)">al one;</l>
+               <l rend="indent(2)">Þe knyȝt wel þat tyde</l>
+               <l rend="indent(2)">To Mary made his mone,</l>
+               <l rend="indent(2)">Þat ho hym red to ryde</l>
+               <milestone unit="folio" n="101r"/>
+               <l rend="indent(2)">And wysse hym to sum wone.</l>
+            </lg>
+            <lg>
+               <l>Bi a mounte on þe morne meryly he rydes</l>
+               <l>Into a forest ful dep, þat ferly watz wylde,</l>
+               <l>Hiȝe hillez on vche a halue, and holtwodez vnder</l>
+               <l>Of hore okez ful hoge a hundreth togeder;</l>
+               <l>Þe hasel and þe haȝþorne were harled al samen,</l>
+               <l>With roȝe raged mosse rayled aywhere,</l>
+               <l>With mony bryddez vnblyþe vpon bare twyges,</l>
+               <l>Þat pitosly þer piped for pyne of þe colde.</l>
+               <l>Þe gome vpon Gryngolet glydez hem vnder,</l>
+               <l>Þurȝ mony misy and myre, mon al hym one,</l>
+               <l>Carande for his costes, lest he ne keuer schulde</l>
+               <l>To se þe seruyse of þat syre, þat on þat self nyȝt</l>
+               <l>Of a burde watz borne oure baret to quelle;</l>
+               <l>And þerfore sykyng he sayde, 'I beseche þe, lorde,</l>
+               <l>And Mary, þat is myldest moder so dere,</l>
+               <l>Of sum herber þer heȝly I myȝt here masse,</l>
+               <l>Ande þy matynez to-morne, mekely I ask,</l>
+               <l>And þerto prestly I pray my pater and aue</l>
+               <l rend="indent(4)">and crede.'</l>
+               <l rend="indent(2)">He rode in his prayere,</l>
+               <l rend="indent(2)">And cryed for his mysdede,</l>
+               <pb n="22"/>
+               <l rend="indent(2)">He sayned hym in syþes sere,</l>
+               <l rend="indent(2)">And sayde 'Cros Kryst me spede!'</l>
+            </lg>
+            <lg>
+               <l>NADE he sayned hymself, segge, bot þrye,</l>
+               <l>Er he watz war in þe wod of a won in a mote,</l>
+               <l>Abof a launde, on a lawe, loken vnder boȝez</l>
+               <l>Of mony borelych bole aboute bi þe diches:</l>
+               <l>A castel þe comlokest þat euer knyȝt aȝte,</l>
+               <l>Pyched on a prayere, a park al aboute,</l>
+               <l>With a pyked palays pyned ful þik,</l>
+               <l>Þat vmbeteȝe mony tre mo þen two myle.</l>
+               <l>Þat holde on þat on syde þe haþel auysed,</l>
+               <l>As hit schemered and schon þurȝ þe schyre okez;</l>
+               <l>Þenne hatz he hendly of his helme, and heȝly he þonkez</l>
+               <l>Jesus and sayn Gilyan, þat gentyle ar boþe,</l>
+               <milestone unit="folio" n="101v"/>
+               <l>Þat cortaysly had hym kydde, and his cry herkened.</l>
+               <l>'Now bone hostel,' coþe þe burne, 'I beseche yow ȝette!'</l>
+               <l>Þenne gerdez he to Gryngolet with þe gilt helez,</l>
+               <l>And he ful chauncely hatz chosen to þe chef gate,</l>
+               <l>Þat broȝt bremly þe burne to þe bryge ende</l>
+               <l rend="indent(4)">in haste.</l>
+               <l rend="indent(2)">Þe bryge watz breme vpbrayde,</l>
+               <l rend="indent(2)">Þe ȝatez wer stoken faste,</l>
+               <l rend="indent(2)">Þe wallez were wel arayed,</l>
+               <l rend="indent(2)">Hit dut no wyndez blaste.</l>
+            </lg>
+            <lg>
+               <l>Þe burne bode on blonk, þat on bonk houed</l>
+               <l>Of þe depe double dich þat drof to þe place;</l>
+               <l>Þe walle wod in þe water wonderly depe,</l>
+               <l>Ande eft a ful huge heȝt hit haled vpon lofte</l>
+               <l>Of harde hewen ston vp to þe tablez,</l>
+               <l>Enbaned vnder þe abataylment in þe best lawe;</l>
+               <l>And syþen garytez ful gaye gered bitwene,</l>
+               <l>Wyth mony luflych loupe þat louked ful clene:</l>
+               <l>A better barbican þat burne blusched vpon neuer.</l>
+               <l>And innermore he behelde þat halle ful hyȝe,</l>
+               <l>Towres telded bytwene, trochet ful þik,</l>
+               <l>Fayre fylyolez þat fyȝed, and ferlyly long,</l>
+               <pb n="23"/>
+               <l>With coruon coprounes craftyly sleȝe.</l>
+               <l>Chalkwhyt chymnees þer ches he innoȝe</l>
+               <l>Vpon bastel rouez, þat blenked ful quyte;</l>
+               <l>So mony pynakle payntet watz poudred ayquere,</l>
+               <l>Among þe castel carnelez clambred so þik,</l>
+               <l>Þat pared out of papure purely hit semed.</l>
+               <l>Þe fre freke on þe fole hit fayr innoghe þoȝt,</l>
+               <l>If he myȝt keuer to com þe cloyster wythinne,</l>
+               <l>To herber in þat hostel whyl halyday lested,</l>
+               <l rend="indent(4)">auinant.</l>
+               <l rend="indent(2)">He calde, and sone þer com</l>
+               <l rend="indent(2)">A porter pure plesaunt,</l>
+               <l rend="indent(2)">On þe wal his ernd he nome,</l>
+               <l rend="indent(2)">And haylsed þe knyȝt erraunt.</l>
+            </lg>
+            <lg>
+               <l>'Gode sir,' quoþ Gawan, 'woldez þou go myn ernde</l>
+               <l>To þe heȝ lorde of þis hous, herber to craue?'</l>
+               <milestone unit="folio" n="102r"/>
+               <l>'Ȝe, Peter,' quoþ þe porter, 'and purely I trowee</l>
+               <l>Þat ȝe be, wyȝe, welcum to won quyle yow lykez.'</l>
+               <l>Þen ȝede þe wyȝe ȝerne and com aȝayn swyþe,</l>
+               <l>And folke frely hym wyth, to fonge þe knyȝt.</l>
+               <l>Þay let doun þe grete draȝt and derely out ȝeden,</l>
+               <l>And kneled doun on her knes vpon þe colde erþe</l>
+               <l>To welcum þis ilk wyȝ as worþy hom þoȝt;</l>
+               <l>Þay ȝolden hym þe brode ȝate, ȝarked vp wyde,</l>
+               <l>And he hem raysed rekenly, and rod ouer þe brygge.</l>
+               <l>Sere seggez hym sesed by sadel, quel he lyȝt,</l>
+               <l>And syþen stabeled his stede stif men innoȝe.</l>
+               <l>Knyȝtez and swyerez comen doun þenne</l>
+               <l>For to bryng þis buurne wyth blys into halle;</l>
+               <l>Quen he hef vp his helme, þer hiȝed innoghe</l>
+               <l>For to hent hit at his honde, þe hende to seruen;</l>
+               <l>His bronde and his blasoun boþe þay token.</l>
+               <l>Þen haylsed he ful hendly þo haþelez vchone,</l>
+               <l>And mony proud mon þer presed þat prynce to honour.</l>
+               <l>Alle hasped in his heȝ wede to halle þay hym wonnen,</l>
+               <l>Þer fayre fyre vpon flet fersly brenned.</l>
+               <l>Þenne þe lorde of þe lede loutez fro his chambre</l>
+               <pb n="24"/>
+               <l>For to mete wyth menske þe mon on þe flor;</l>
+               <l>He sayde, 'Ȝe ar welcum to welde as yow lykez</l>
+               <l>Þat here is; al is yowre awen, to haue at yowre wylle</l>
+               <l rend="indent(4)">and welde.'</l>
+               <l rend="indent(2)">'Graunt mercy,' quoþ Gawayn,</l>
+               <l rend="indent(2)">'Þer Kryst hit yow forȝelde.'</l>
+               <l rend="indent(2)">As frekez þat semed fayn</l>
+               <l rend="indent(2)">Ayþer oþer in armez con felde.</l>
+            </lg>
+            <lg>
+               <l>Gawayn glyȝt on þe gome þat godly hym gret,</l>
+               <l>And þuȝt hit a bolde burne þat þe burȝ aȝte,</l>
+               <l>A hoge haþel for þe nonez, and of hyghe eldee;</l>
+               <l>Brode, bryȝt, watz his berde, and al beuer-hwed,</l>
+               <l>Sturne, stif on þe stryþþe on stalworth schonkez,</l>
+               <l>Felle face as þe fyre, and fre of hys speche;</l>
+               <l>And wel hym semed, for soþe, as þe segge þuȝt,</l>
+               <l>To lede a lortschyp in lee of leudez ful gode.</l>
+               <milestone unit="folio" n="102v"/>
+               <l>Þe lorde hym charred to a chambre, and chefly cumaundez</l>
+               <l>To delyuer hym a leude, hym loȝly to serue;</l>
+               <l>And þere were boun at his bode burnez innoȝe,</l>
+               <l>Þat broȝt hym to a bryȝt boure, þer beddyng watz noble,</l>
+               <l>Of cortynes of clene sylk wyth cler golde hemmez,</l>
+               <l>And couertorez ful curious with comlych panez</l>
+               <l>Of bryȝt blaunner aboue, enbrawded bisydez,</l>
+               <l>Rudelez rennande on ropez, red golde ryngez,</l>
+               <l>Tapitez tyȝt to þe woȝe of tuly and tars,</l>
+               <l>And vnder fete, on þe flet, of folȝande sute.</l>
+               <l>Þer he watz dispoyled, wyth spechez of myerþe,</l>
+               <l>Þe burn of his bruny and of his bryȝt wedez.</l>
+               <l>Ryche robes ful rad renkkez hym broȝten,</l>
+               <l>For to charge, and to chaunge, and chose of þe best.</l>
+               <l>Sone as he on hent, and happed þerinne,</l>
+               <l>Þat sete on hym semly wyth saylande skyrtez,</l>
+               <l>Þe ver by his uisage verayly hit semed</l>
+               <l>Welneȝ to vche haþel, alle on hwes</l>
+               <l>Lowande and lufly alle his lymmez vnder,</l>
+               <l>Þat a comloker knyȝt neuer Kryst made</l>
+               <l rend="indent(4)">hem þoȝt.</l>
+               <pb n="25"/>
+               <l rend="indent(2)">Wheþen in worlde he were,</l>
+               <l rend="indent(2)">Hit semed as he moȝt</l>
+               <l rend="indent(2)">Be prynce withouten pere</l>
+               <l rend="indent(2)">In felde þer felle men foȝt.</l>
+            </lg>
+            <lg>
+               <l>A cheyer byfore þe chemné, þer charcole brenned,</l>
+               <l>Watz grayþed for Sir Gawan grayþely with cloþez,</l>
+               <l>Whyssynes vpon queldepoyntes þat koynt wer boþe;</l>
+               <l>And þenne a meré mantyle watz on þat mon cast</l>
+               <l>Of a broun bleeaunt, enbrauded ful ryche</l>
+               <l>And fayre furred wythinne with fellez of þe best,</l>
+               <l>Alle of ermyn in erde, his hode of þe same;</l>
+               <l>And he sete in þat settel semlych ryche,</l>
+               <l>And achaufed hym chefly, and þenne his cher mended.</l>
+               <l>Sone watz telded vp a tabil on trestez ful fayre,</l>
+               <l>Clad wyth a clene cloþe þat cler quyt schewed,</l>
+               <l>Sanap, and salure, and syluerin sponez.</l>
+               <milestone unit="folio" n="103r"/>
+               <l>Þe wyȝe wesche at his wylle, and went to his mete.</l>
+               <l>Seggez hym serued semly innoȝe</l>
+               <l>Wyth sere sewes and sete, sesounde of þe best.</l>
+               <l>Double-felde, as hit fallez, and fele kyn fischez,</l>
+               <l>Summe baken in bred, summe brad on þe gledez,</l>
+               <l>Summe soþen, summe in sewe sauered with spyces,</l>
+               <l>And ay sawes so sleȝe þat þe segge lyked.</l>
+               <l>Þe freke calde hit a fest ful frely and ofte</l>
+               <l>Ful hendely, quen alle þe haþeles rehayted hym at onez,</l>
+               <l rend="indent(4)">'As hende,</l>
+               <l rend="indent(2)">Þis penaunce now ȝe take,</l>
+               <l rend="indent(2)">And eft hit schal amende.'</l>
+               <l rend="indent(2)">Þat mon much merþe con make,</l>
+               <l rend="indent(2)">For wyn in his hed þat wende.</l>
+            </lg>
+            <lg>
+               <l>Þenne watz spyed and spured vpon spare wyse</l>
+               <l>Bi preué poyntez of þat prynce, put to hymseluen,</l>
+               <l>Þat he beknew cortaysly of þe court þat he were</l>
+               <l>Þat aþel Arthure þe hende haldez hym one,</l>
+               <l>Þat is þe ryche ryal kyng of þe Rounde Table,</l>
+               <l>And hit watz Wawen hymself þat in þat won syttez,</l>
+               <pb n="26"/>
+               <l>Comen to þat Krystmasse, as case hym þen lymped.</l>
+               <l>When þe lorde hade lerned þat he þe leude hade,</l>
+               <l>Loude laȝed he þerat, so lef hit hym þoȝt,</l>
+               <l>And alle þe men in þat mote maden much joye</l>
+               <l>To apere in his presense prestly þat tyme,</l>
+               <l>Þat alle prys and prowes and pured þewes</l>
+               <l>Apendes to hys persoun, and praysed is euer;</l>
+               <l>Byfore alle men vpon molde his mensk is þe most.</l>
+               <l>Vch segge ful softly sayde to his fere:</l>
+               <l>'Now schal we semlych se sleȝtez of þewez</l>
+               <l>And þe teccheles termes of talkyng noble,</l>
+               <l>Wich spede is in speche vnspurd may we lerne,</l>
+               <l>Syn we haf fonged þat fyne fader of nurture.</l>
+               <l>God hatz geuen vus his grace godly for soþe,</l>
+               <l>Þat such a gest as Gawan grauntez vus to haue,</l>
+               <l>When burnez blyþe of his burþe schal sitte</l>
+               <l rend="indent(4)">and synge.</l>
+               <l rend="indent(2)">In menyng of manerez mere</l>
+               <milestone unit="folio" n="103v"/>
+               <l rend="indent(2)">Þis burne now schal vus bryng,</l>
+               <l rend="indent(2)">I hope þat may hym here</l>
+               <l rend="indent(2)">Schal lerne of luf-talkyng.'</l>
+            </lg>
+            <lg>
+               <l>Bi þat þe diner watz done and þe dere vp</l>
+               <l>Hit watz neȝ at þe niyȝt neȝed þe tyme.</l>
+               <l>Chaplaynez to þe chapeles chosen þe gate,</l>
+               <l>Rungen ful rychely, ryȝt as þay schulden,</l>
+               <l>To þe hersum euensong of þe hyȝe tyde.</l>
+               <l>Þe lorde loutes þerto, and þe lady als,</l>
+               <l>Into a cumly closet coyntly ho entrez.</l>
+               <l>Gawan glydez ful gay and gos þeder sone;</l>
+               <l>Þe lorde laches hym by þe lappe and ledez hym to sytte,</l>
+               <l>And couþly hym knowez and callez hym his nome,</l>
+               <l>And sayde he watz þe welcomest wyȝe of þe worlde;</l>
+               <l>And he hym þonkked þroly, and ayþer halched oþer,</l>
+               <l>And seten soberly samen þe seruise quyle.</l>
+               <l>Þenne lyst þe lady to loke on þe knyȝt,</l>
+               <l>Þenne com ho of hir closet with mony cler burdez.</l>
+               <l>Ho watz þe fayrest in felle, of flesche and of lyre,</l>
+               <l>And of compas and colour and costes, of alle oþer,</l>
+               <pb n="27"/>
+               <l>And wener þen Wenore, as þe wyȝe þoȝt.</l>
+               <l>Ho ches þurȝ þe chaunsel to cheryche þat hende.</l>
+               <l>An oþer lady hir lad bi þe lyft honde,</l>
+               <l>Þat watz alder þen ho, an auncian hit semed,</l>
+               <l>And heȝly honowred with haþelez aboute.</l>
+               <l>Bot vnlyke on to loke þo ladyes were,</l>
+               <l>For if þe ȝonge watz ȝep, ȝolȝe watz þat oþer;</l>
+               <l>Riche red on þat on rayled ayquere,</l>
+               <l>Rugh ronkled chekez þat oþer on rolled;</l>
+               <l>Kerchofes of þat on, wyth mony cler perlez,</l>
+               <l>Hir brest and hir bryȝt þrote bare displayed,</l>
+               <l>Schon schyrer þen snawe þat schedez on hillez;</l>
+               <l>Þat oþer wyth a gorger watz gered ouer þe swyre,</l>
+               <l>Chymbled ouer hir blake chyn with chalkquyte vayles,</l>
+               <l>Hir frount folden in sylk, enfoubled ayquere,</l>
+               <l>Toreted and treleted with tryflez aboute,</l>
+               <milestone unit="folio" n="104r"/>
+               <l>Þat noȝt watz bare of þat burde bot þe blake broȝes,</l>
+               <l>Þe tweyne yȝen and þe nase, þe naked lyppez,</l>
+               <l>And þose were soure to se and sellyly blered;</l>
+               <l>A mensk lady on molde mon may hir calle,</l>
+               <l rend="indent(4)">for Gode!</l>
+               <l rend="indent(2)">Hir body watz schort and þik,</l>
+               <l rend="indent(2)">Hir buttokez balȝ and brode,</l>
+               <l rend="indent(2)">More lykkerwys on to lyk</l>
+               <l rend="indent(2)">Watz þat scho hade on lode.</l>
+            </lg>
+            <lg>
+               <l>When Gawayn glyȝt on þat gay, þat graciously loked,</l>
+               <l>Wyth leue laȝt of þe lorde he lent hem aȝaynes;</l>
+               <l>Þe alder he haylses, heldande ful lowe,</l>
+               <l>Þe loueloker he lappez a lyttel in armez,</l>
+               <l>He kysses hir comlyly, and knyȝtly he melez.</l>
+               <l>Þay kallen hym of aquoyntaunce, and he hit quyk askez</l>
+               <l>To be her seruaunt sothly, if hemself lyked.</l>
+               <l>Þay tan hym bytwene hem, wyth talkyng hym leden</l>
+               <l>To chambre, to chemné, and chefly þay asken</l>
+               <l>Spycez, þat vnsparely men speded hom to bryng,</l>
+               <l>And þe wynnelych wyne þerwith vche tyme.</l>
+               <l>Þe lorde luflych aloft lepez ful ofte,</l>
+               <pb n="28"/>
+               <l>Mynned merthe to be made vpon mony syþez,</l>
+               <l>Hent heȝly of his hode, and on a spere henged,</l>
+               <l>And wayned hom to wynne þe worchip þerof,</l>
+               <l>Þat most myrþe myȝt meue þat Crystenmas whyle--</l>
+               <l>'And I schal fonde, bi my fayth, to fylter wyth þe best</l>
+               <l>Er me wont þe wede, with help of my frendez.'</l>
+               <l>Þus wyth laȝande lotez þe lorde hit tayt makez,</l>
+               <l>For to glade Sir Gawayn with gomnez in halle</l>
+               <l rend="indent(4)">þat nyȝt,</l>
+               <l rend="indent(2)">Til þat hit watz tyme</l>
+               <l rend="indent(2)">Þe lord comaundet lyȝt;</l>
+               <l rend="indent(2)">Sir Gawen his leue con nyme</l>
+               <l rend="indent(2)">And to his bed hym diȝt.</l>
+            </lg>
+            <lg>
+               <l>On þe morne, as vch mon mynez þat tyme</l>
+               <l>Þat Dryȝtyn for oure destyné to deȝe watz borne,</l>
+               <l>Wele waxez in vche a won in worlde for his sake;</l>
+               <l>So did hit þere on þat day þurȝ dayntés mony:</l>
+               <milestone unit="folio" n="104v"/>
+               <l>Boþe at mes and at mele messes ful quaynt</l>
+               <l>Derf men vpon dece drest of þe best.</l>
+               <l>Þe olde auncian wyf heȝest ho syttez,</l>
+               <l>Þe lorde lufly her by lent, as I trowe;</l>
+               <l>Gawan and þe gay burde togeder þay seten,</l>
+               <l>Euen inmyddez, as þe messe metely come,</l>
+               <l>And syþen þurȝ al þe sale as hem best semed.</l>
+               <l>Bi vche grome at his degré grayþely watz serued</l>
+               <l>Þer watz mete, þer watz myrþe, þer watz much ioye,</l>
+               <l>Þat for to telle þerof hit me tene were,</l>
+               <l>And to poynte hit ȝet I pyned me parauenture.</l>
+               <l>Bot ȝet I wot þat Wawen and þe wale burde</l>
+               <l>Such comfort of her compaynye caȝten togeder</l>
+               <l>Þurȝ her dere dalyaunce of her derne wordez,</l>
+               <l>Wyth clene cortays carp closed fro fylþe,</l>
+               <l>Þat hor play watz passande vche prynce gomen,</l>
+               <l rend="indent(4)">in vayres.</l>
+               <l rend="indent(2)">Trumpez and nakerys,</l>
+               <l rend="indent(2)">Much pypyng þer repayres;</l>
+               <l rend="indent(2)">Vche mon tented hys,</l>
+               <l rend="indent(2)">And þay two tented þayres.</l>
+            </lg>
+            <lg>
+               <pb n="29"/>
+               <l>Much dut watz þer dryuen þat day and þat oþer,</l>
+               <l>And þe þryd as þro þronge in þerafter;</l>
+               <l>Þe ioye of sayn Jonez day watz gentyle to here,</l>
+               <l>And watz þe last of þe layk, leudez þer þoȝten.</l>
+               <l>Þer wer gestes to go vpon þe gray morne,</l>
+               <l>Forþy wonderly þay woke, and þe wyn dronken,</l>
+               <l>Daunsed ful dreȝly wyth dere carolez.</l>
+               <l>At þe last, when hit watz late, þay lachen her leue,</l>
+               <l>Vchon to wende on his way þat watz wyȝe stronge.</l>
+               <l>Gawan gef hym god day, þe godmon hym lachchez,</l>
+               <l>Ledes hym to his awen chambre, þe chymné bysyde,</l>
+               <l>And þere he draȝez hym on dryȝe, and derely hym þonkkez</l>
+               <l>Of þe wynne worschip þat he hym wayued hade,</l>
+               <l>As to honour his hous on þat hyȝe tyde,</l>
+               <l>And enbelyse his burȝ with his bele chere:</l>
+               <l>'Iwysse sir, quyl I leue, me worþez þe better</l>
+               <milestone unit="folio" n="105r"/>
+               <l>Þat Gawayn hatz ben my gest at Goddez awen fest.'</l>
+               <l>'Grant merci, sir,' quoþ Gawayn, 'in god fayth hit is yowrez,</l>
+               <l>Al þe honour is your awen--þe heȝe kyng yow ȝelde!</l>
+               <l>And I am wyȝe at your wylle to worch youre hest,</l>
+               <l>As I am halden þerto, in hyȝe and in loȝe,</l>
+               <l rend="indent(4)">bi riȝt.'</l>
+               <l rend="indent(2)">Þe lorde fast can hym payne</l>
+               <l rend="indent(2)">To holde lenger þe knyȝt;</l>
+               <l rend="indent(2)">To hym answarez Gawayn</l>
+               <l rend="indent(2)">Bi non way þat he myȝt.</l>
+            </lg>
+            <lg>
+               <l>Then frayned þe freke ful fayre at himseluen</l>
+               <l>Quat derue dede had hym dryuen at þat dere tyme</l>
+               <l>So kenly fro þe kyngez kourt to kayre al his one,</l>
+               <l>Er þe halidayez holly were halet out of toun.</l>
+               <l>'For soþe, sir,' quoþ þe segge, 'ȝe sayn bot þe trawþe,</l>
+               <l>A heȝe ernde and a hasty me hade fro þo wonez,</l>
+               <l>For I am sumned myselfe to sech to a place,</l>
+               <l>I ne wot in worlde whederwarde to wende hit to fynde.</l>
+               <l>I nolde bot if I hit negh myȝt on Nw Ȝeres morne</l>
+               <l>For alle þe londe inwyth Logres, so me oure lorde help!</l>
+               <l>Forþy, sir, þis enquest I require yow here,</l>
+               <l>Þat ȝe me telle with trawþe if euer ȝe tale herde</l>
+               <pb n="30"/>
+               <l>Of þe grene chapel, quere hit on grounde stondez,</l>
+               <l>And of þe knyȝt þat hit kepes, of colour of grene.</l>
+               <l>Þer watz stabled bi statut a steuen vus bytwene</l>
+               <l>To mete þat mon at þat mere, ȝif I myȝt last;</l>
+               <l>And of þat ilk Nw Ȝere bot neked now wontez,</l>
+               <l>And I wolde loke on þat lede, if God me let wolde,</l>
+               <l>Gladloker, bi Goddez sun, þen any god welde!</l>
+               <l>Forþi, iwysse, bi ȝowre wylle, wende me bihoues,</l>
+               <l>Naf I now to busy bot bare þre dayez,</l>
+               <l>And me als fayn to falle feye as fayly of myyn ernde.'</l>
+               <l>Þenne laȝande quoþ þe lorde, 'Now leng þe byhoues,</l>
+               <l>For I schal teche yow to þat terme bi þe tymez ende,</l>
+               <l>Þe grene chapayle vpon grounde greue yow no more;</l>
+               <l>Bot ȝe schal be in yowre bed, burne, at þyn ese,</l>
+               <l>Quyle forth dayez, and ferk on þe fyrst of þe ȝere,</l>
+               <milestone unit="folio" n="105v"/>
+               <l>And cum to þat merk at mydmorn, to make quat yow likez</l>
+               <l rend="indent(4)">in spenne.</l>
+               <l rend="indent(2)">Dowellez whyle New Ȝeres daye,</l>
+               <l rend="indent(2)">And rys, and raykez þenne,</l>
+               <l rend="indent(2)">Mon schal yow sette in waye,</l>
+               <l rend="indent(2)">Hit is not two myle henne.'</l>
+            </lg>
+            <lg>
+               <l>Þenne watz Gawan ful glad, and gomenly he laȝed:</l>
+               <l>'Now I þonk yow þryuandely þurȝ alle oþer þynge,</l>
+               <l>Now acheued is my chaunce, I schal at your wylle</l>
+               <l>Dowelle, and ellez do quat ȝe demen.'</l>
+               <l>Þenne sesed hym þe syre and set hym bysyde,</l>
+               <l>Let þe ladiez be fette to lyke hem þe better.</l>
+               <l>Þer watz seme solace by hemself stille;</l>
+               <l>Þe lorde let for luf lotez so myry,</l>
+               <l>As wyȝ þat wolde of his wyte, ne wyst quat he myȝt.</l>
+               <l>Þenne he carped to þe knyȝt, criande loude,</l>
+               <l>'Ȝe han demed to do þe dede þat I bidde;</l>
+               <l>Wyl ȝe halde þis hes here at þys onez?'</l>
+               <l>'Ȝe, sir, for soþe,' sayd þe segge trwe,</l>
+               <l>'Whyl I byde in yowre borȝe, be bayn to ȝowre hest.'</l>
+               <l>'For ȝe haf trauayled,' quoþ þe tulk, 'towen fro ferre,</l>
+               <l>And syþen waked me wyth, ȝe arn not wel waryst</l>
+               <l>Nauþer of sostnaunce ne of slepe, soþly I knowe;</l>
+               <pb n="31"/>
+               <l>Ȝe schal lenge in your lofte, and lyȝe in your ese</l>
+               <l>To-morn quyle þe messequyle, and to mete wende</l>
+               <l>When ȝe wyl, wyth my wyf, þat wyth yow schal sitte</l>
+               <l>And comfort yow with compayny, til I to cort torne;</l>
+               <l rend="indent(4)">ȝe lende,</l>
+               <l rend="indent(2)">And I schal erly ryse,</l>
+               <l rend="indent(2)">On huntyng wyl I wende.'</l>
+               <l rend="indent(2)">Gauayn grantez alle þyse,</l>
+               <l rend="indent(2)">Hym heldande, as þe hende.</l>
+            </lg>
+            <lg>
+               <l>'Ȝet firre,' quoþ þe freke, 'a forwarde we make:</l>
+               <l>Quat-so-euer I wynne in þe wod hit worþez to yourez,</l>
+               <l>And quat chek so ȝe acheue chaunge me þerforne.</l>
+               <l>Swete, swap we so, sware with trawþe,</l>
+               <l>Queþer, leude, so lymp, lere oþer better.'</l>
+               <l>'Bi God,' quoþ Gawayn þe gode, 'I grant þertylle,</l>
+               <milestone unit="folio" n="106r"/>
+               <l>And þat yow lyst for to layke, lef hit me þynkes.'</l>
+               <l>'Who bryngez vus þis beuerage, þis bargayn is maked':</l>
+               <l>So sayde þe lorde of þat lede; þay laȝed vchone,</l>
+               <l>Þay dronken and daylyeden and dalten vntyȝtel,</l>
+               <l>Þise lordez and ladyez, quyle þat hem lyked;</l>
+               <l>And syþen with Frenkysch fare and fele fayre lotez</l>
+               <l>Þay stoden and stemed and stylly speken,</l>
+               <l>Kysten ful comlyly and kaȝten her leue.</l>
+               <l>With mony leude ful lyȝt and lemande torches</l>
+               <l>Vche burne to his bed watz broȝt at þe laste,</l>
+               <l rend="indent(4)">ful softe.</l>
+               <l rend="indent(2)">To bed ȝet er þay ȝede,</l>
+               <l rend="indent(2)">Recorded couenauntez ofte;</l>
+               <l rend="indent(2)">Þe olde lorde of þat leude</l>
+               <l rend="indent(2)">Cowþe wel halde layk alofte.</l>
+            </lg>
+         </div>
+         <div rend="linenumber">
+            <head>III</head>
+            <lg>
+               <l>Ful erly bifore þe day þe folk vprysen,</l>
+               <l>Gestes þat go wolde hor gromez þay calden,</l>
+               <l>And þay busken vp bilyue blonkkez to sadel,</l>
+               <pb n="32"/>
+               <l>Tyffen her takles, trussen her males,</l>
+               <l>Richen hem þe rychest, to ryde alle arayde,</l>
+               <l>Lepen vp lyȝtly, lachen her brydeles,</l>
+               <l>Vche wyȝe on his way þer hym wel lyked.</l>
+               <l>Þe leue lorde of þe londe watz not þe last</l>
+               <l>Arayed for þe rydyng, with renkkez ful mony;</l>
+               <l>Ete a sop hastyly, when he hade herde masse,</l>
+               <l>With bugle to bent-felde he buskez bylyue.</l>
+               <l>By þat any daylyȝt lemed vpon erþe</l>
+               <l>He with his haþeles on hyȝe horsses weren.</l>
+               <l>Þenne þise cacheres þat couþe cowpled hor houndez,</l>
+               <l>Vnclosed þe kenel dore and calde hem þeroute,</l>
+               <l>Blwe bygly in buglez þre bare mote;</l>
+               <l>Braches bayed þerfore and breme noyse maked;</l>
+               <l>And þay chastysed and charred on chasyng þat went,</l>
+               <l>A hundreth of hunteres, as I haf herde telle,</l>
+               <l rend="indent(4)">of þe best.</l>
+               <l rend="indent(2)">To trystors vewters ȝod,</l>
+               <l rend="indent(2)">Couples huntes of kest;</l>
+               <milestone unit="folio" n="106v"/>
+               <l rend="indent(2)">Þer ros for blastez gode</l>
+               <l rend="indent(2)">Gret rurd in þat forest.</l>
+            </lg>
+            <lg>
+               <l>At þe fyrst quethe of þe quest quaked þe wylde;</l>
+               <l>Der drof in þe dale, doted for drede,</l>
+               <l>Hiȝed to þe hyȝe, bot heterly þay were</l>
+               <l>Restayed with þe stablye, þat stoutly ascryed.</l>
+               <l>Þay let þe herttez haf þe gate, with þe hyȝe hedes,</l>
+               <l>Þe breme bukkez also with hor brode paumez;</l>
+               <l>For þe fre lorde hade defende in fermysoun tyme</l>
+               <l>Þat þer schulde no mon meue to þe male dere.</l>
+               <l>Þe hindez were halden in with hay! and war!</l>
+               <l>Þe does dryuen with gret dyn to þe depe sladez;</l>
+               <l>Þer myȝt mon se, as þay slypte, slentyng of arwes--</l>
+               <l>At vche wende vnder wande wapped a flone--</l>
+               <l>Þat bigly bote on þe broun with ful brode hedez.</l>
+               <l>What! þay brayen, and bleden, bi bonkkez þay deȝen,</l>
+               <l>And ay rachches in a res radly hem folȝes,</l>
+               <l>Hunterez wyth hyȝe horne hasted hem after</l>
+               <l>Wyth such a crakkande kry as klyffes haden brusten.</l>
+               <pb n="33"/>
+               <l>What wylde so atwaped wyȝes þat schotten</l>
+               <l>Watz al toraced and rent at þe resayt,</l>
+               <l>Bi þay were tened at þe hyȝe and taysed to þe wattrez;</l>
+               <l>Þe ledez were so lerned at þe loȝe trysteres,</l>
+               <l>And þe grehoundez so grete, þat geten hem bylyue</l>
+               <l>And hem tofylched, as fast as frekez myȝt loke,</l>
+               <l rend="indent(4)">þer-ryȝt.</l>
+               <l rend="indent(2)">Þe lorde for blys abloy</l>
+               <l rend="indent(2)">Ful oft con launce and lyȝt,</l>
+               <l rend="indent(2)">And drof þat day wyth joy</l>
+               <l rend="indent(2)">Thus to þe derk nyȝt.</l>
+            </lg>
+            <lg>
+               <l>Þus laykez þis lorde by lynde-wodez euez,</l>
+               <l>And Gawayn þe god mon in gay bed lygez,</l>
+               <l>Lurkkez quyl þe daylyȝt lemed on þe wowes,</l>
+               <l>Vnder couertour ful clere, cortyned aboute;</l>
+               <l>And as in slomeryng he slode, sleȝly he herde</l>
+               <l>A littel dyn at his dor, and dernly vpon;</l>
+               <l>And he heuez vp his hed out of þe cloþes,</l>
+               <milestone unit="folio" n="107r"/>
+               <l>A corner of þe cortyn he caȝt vp a lyttel,</l>
+               <l>And waytez warly þiderwarde quat hit be myȝt.</l>
+               <l>Hit watz þe ladi, loflyest to beholde,</l>
+               <l>Þat droȝ þe dor after hir ful dernly and stylle,</l>
+               <l>And boȝed towarde þe bed; and þe burne schamed,</l>
+               <l>And layde hym doun lystyly, and let as he slepte;</l>
+               <l>And ho stepped stilly and stel to his bedde,</l>
+               <l>Kest vp þe cortyn and creped withinne,</l>
+               <l>And set hir ful softly on þe bed-syde,</l>
+               <l>And lenged þere selly longe to loke quen he wakened.</l>
+               <l>Þe lede lay lurked a ful longe quyle,</l>
+               <l>Compast in his concience to quat þat cace myȝt</l>
+               <l>Meue oþer amount--to meruayle hym þoȝt,</l>
+               <l>Bot ȝet he sayde in hymself, 'More semly hit were</l>
+               <l>To aspye wyth my spelle in space quat ho wolde.'</l>
+               <l>Þen he wakenede, and wroth, and to hir warde torned,</l>
+               <l>And vnlouked his yȝe-lyddez, and let as hym wondered,</l>
+               <l>And sayned hym, as bi his saȝe þe sauer to worthe,</l>
+               <l rend="indent(4)">with hande.</l>
+               <pb n="34"/>
+               <l rend="indent(2)">Wyth chynne and cheke ful swete,</l>
+               <l rend="indent(2)">Boþe quit and red in blande,</l>
+               <l rend="indent(2)">Ful lufly con ho lete</l>
+               <l rend="indent(2)">Wyth lyppez smal laȝande.</l>
+            </lg>
+            <lg>
+               <l>'God moroun, Sir Gawayn,' sayde þat gay lady,</l>
+               <l>'Ȝe ar a sleper vnslyȝe, þat mon may slyde hider;</l>
+               <l>Now ar ȝe tan as-tyt! Bot true vus may schape,</l>
+               <l>I schal bynde yow in your bedde, þat be ȝe trayst':</l>
+               <l>Al laȝande þe lady lanced þo bourdez.</l>
+               <l>'Goud moroun, gay,' quoþ Gawayn þe blyþe,</l>
+               <l>'Me schal worþe at your wille, and þat me wel lykez,</l>
+               <l>For I ȝelde me ȝederly, and ȝeȝe after grace,</l>
+               <l>And þat is þe best, be my dome, for me byhouez nede':</l>
+               <l>And þus he bourded aȝayn with mony a blyþe laȝter.</l>
+               <l>'Bot wolde ȝe, lady louely, þen leue me grante,</l>
+               <l>And deprece your prysoun, and pray hym to ryse,</l>
+               <l>I wolde boȝe of þis bed, and busk me better;</l>
+               <l>I schulde keuer þe more comfort to karp yow wyth.'</l>
+               <milestone unit="folio" n="107v"/>
+               <l>'Nay for soþe, beau sir,' sayd þat swete,</l>
+               <l>'Ȝe schal not rise of your bedde, I rych yow better,</l>
+               <l>I schal happe yow here þat oþer half als,</l>
+               <l>And syþen karp wyth my knyȝt þat I kaȝt haue;</l>
+               <l>For I wene wel, iwysse, Sir Wowen ȝe are,</l>
+               <l>Þat alle þe worlde worchipez quere-so ȝe ride;</l>
+               <l>Your honour, your hendelayk is hendely praysed</l>
+               <l>With lordez, wyth ladyes, with alle þat lyf bere.</l>
+               <l>And now ȝe ar here, iwysse, and we bot oure one;</l>
+               <l>My lorde and his ledez ar on lenþe faren,</l>
+               <l>Oþer burnez in her bedde, and my burdez als,</l>
+               <l>Þe dor drawen and dit with a derf haspe;</l>
+               <l>And syþen I haue in þis hous hym þat al lykez,</l>
+               <l>I schal ware my whyle wel, quyl hit lastez,</l>
+               <l rend="indent(4)">with tale.</l>
+               <l rend="indent(2)">Ȝe ar welcum to my cors,</l>
+               <l rend="indent(2)">Yowre awen won to wale,</l>
+               <l rend="indent(2)">Me behouez of fyne force</l>
+               <l rend="indent(2)">Your seruaunt be, and schale.'</l>
+            </lg>
+            <lg>
+               <pb n="35"/>
+               <l>'In god fayth,' quoþ Gawayn, 'gayn hit me þynkkez,</l>
+               <l>Þaȝ I be not now he þat ȝe of speken;</l>
+               <l>To reche to such reuerence as ȝe reherce here</l>
+               <l>I am wyȝe vnworþy, I wot wel myseluen.</l>
+               <l>Bi God, I were glad, and yow god þoȝt,</l>
+               <l>At saȝe oþer at seruyce þat I sette myȝt</l>
+               <l>To þe plesaunce of your prys--hit were a pure ioye.'</l>
+               <l>'In god fayth, Sir Gawayn,' quoþ þe gay lady,</l>
+               <l>'Þe prys and þe prowes þat plesez al oþer,</l>
+               <l>If I hit lakked oþer set at lyȝt, hit were littel daynté;</l>
+               <l>Bot hit ar ladyes innoȝe þat leuer wer nowþe</l>
+               <l>Haf þe, hende, in hor holde, as I þe habbe here,</l>
+               <l>To daly with derely your daynté wordez,</l>
+               <l>Keuer hem comfort and colen her carez,</l>
+               <l>Þen much of þe garysoun oþer golde þat þay hauen.</l>
+               <l>Bot I louue þat ilk lorde þat þe lyfte haldez,</l>
+               <l>I haf hit holly in my honde þat al desyres,</l>
+               <l rend="indent(4)">þurȝe grace.'</l>
+               <l rend="indent(2)">Scho made hym so gret chere,</l>
+               <milestone unit="folio" n="108r"/>
+               <l rend="indent(2)">Þat watz so fayr of face,</l>
+               <l rend="indent(2)">Þe knyȝt with speches skere</l>
+               <l rend="indent(2)">Answared to vche a cace.</l>
+            </lg>
+            <lg>
+               <l>'Madame,' quoþ þe myry mon, 'Mary yow ȝelde,</l>
+               <l>For I haf founden, in god fayth, yowre fraunchis nobele,</l>
+               <l>And oþer ful much of oþer folk fongen bi hor dedez,</l>
+               <l>Bot þe daynté þat þay delen, for my disert nys euen,</l>
+               <l>Hit is þe worchyp of yourself, þat noȝt bot wel connez.'</l>
+               <l>'Bi Mary,' quoþ þe menskful, 'me þynk hit an oþer;</l>
+               <l>For were I worth al þe wone of wymmen alyue,</l>
+               <l>And al þe wele of þe worlde were in my honde,</l>
+               <l>And I schulde chepen and chose to cheue me a lorde,</l>
+               <l>For þe costes þat I haf knowen vpon þe, knyȝt, here,</l>
+               <l>Of bewté and debonerté and blyþe semblaunt,</l>
+               <l>And þat I haf er herkkened and halde hit here trwee,</l>
+               <l>Þer schulde no freke vpon folde bifore yow be chosen.'</l>
+               <l>'Iwysse, worþy,' quoþ þe wyȝe, 'ȝe haf waled wel better,</l>
+               <l>Bot I am proude of þe prys þat ȝe put on me,</l>
+               <l>And, soberly your seruaunt, my souerayn I holde yow,</l>
+               <pb n="36"/>
+               <l>And yowre knyȝt I becom, and Kryst yow forȝelde.'</l>
+               <l>Þus þay meled of muchquat til mydmorn paste,</l>
+               <l>And ay þe lady let lyk as hym loued mych;</l>
+               <l>Þe freke ferde with defence, and feted ful fayre--</l>
+               <l>'Þaȝ I were burde bryȝtest', þe burde in mynde hade.</l>
+               <l>Þe lasse luf in his lode for lur þat he soȝt</l>
+               <l rend="indent(4)">boute hone,</l>
+               <l rend="indent(2)">Þe dunte þat schulde hym deue,</l>
+               <l rend="indent(2)">And nedez hit most be done.</l>
+               <l rend="indent(2)">Þe lady þenn spek of leue,</l>
+               <l rend="indent(2)">He granted hir ful sone.</l>
+            </lg>
+            <lg>
+               <l>Þenne ho gef hym god day, and wyth a glent laȝed,</l>
+               <l>And as ho stod, ho stonyed hym wyth ful stor wordez:</l>
+               <l>'Now he þat spedez vche spech þis disport ȝelde yow!</l>
+               <l>Bot þat ȝe be Gawan, hit gotz in mynde.'</l>
+               <l>'Querfore?' quoþ þe freke, and freschly he askez,</l>
+               <l>Ferde lest he hade fayled in fourme of his castes;</l>
+               <l>Bot þe burde hym blessed, and 'Bi þis skyl' sayde:</l>
+               <milestone unit="folio" n="108v"/>
+               <l>'So god as Gawayn gaynly is halden,</l>
+               <l>And cortaysye is closed so clene in hymseluen,</l>
+               <l>Couth not lyȝtly haf lenged so long wyth a lady,</l>
+               <l>Bot he had craued a cosse, bi his courtaysye,</l>
+               <l>Bi sum towch of summe tryfle at sum talez ende.'</l>
+               <l>Þen quoþ Wowen: 'Iwysse, worþe as yow lykez;</l>
+               <l>I schal kysse at your comaundement, as a knyȝt fallez,</l>
+               <l>And fire, lest he displese yow, so plede hit no more.'</l>
+               <l>Ho comes nerre with þat, and cachez hym in armez,</l>
+               <l>Loutez luflych adoun and þe leude kyssez.</l>
+               <l>Þay comly bykennen to Kryst ayþer oþer;</l>
+               <l>Ho dos hir forth at þe dore withouten dyn more;</l>
+               <l>And he ryches hym to ryse and rapes hym sone,</l>
+               <l>Clepes to his chamberlayn, choses his wede,</l>
+               <l>Boȝez forth, quen he watz boun, blyþely to masse;</l>
+               <l>And þenne he meued to his mete þat menskly hym keped,</l>
+               <l>And made myry al day, til þe mone rysed,</l>
+               <l rend="indent(4)">with game.</l>
+               <l rend="indent(2)">Watz neuer freke fayrer fonge</l>
+               <l rend="indent(2)">Bitwene two so dyngne dame,</l>
+               <pb n="37"/>
+               <l rend="indent(2)">Þe alder and þe ȝonge;</l>
+               <l rend="indent(2)">Much solace set þay same.</l>
+            </lg>
+            <lg>
+               <l>And ay þe lorde of þe londe is lent on his gamnez,</l>
+               <l>To hunt in holtez and heþe at hyndez barayne;</l>
+               <l>Such a sowme he þer slowe bi þat þe sunne heldet,</l>
+               <l>Of dos and of oþer dere, to deme were wonder.</l>
+               <l>Þenne fersly þay flokked in folk at þe laste,</l>
+               <l>And quykly of þe quelled dere a querré þay maked.</l>
+               <l>Þe best boȝed þerto with burnez innoghe,</l>
+               <l>Gedered þe grattest of gres þat þer were,</l>
+               <l>And didden hem derely vndo as þe dede askez;</l>
+               <l>Serched hem at þe asay summe þat þer were,</l>
+               <l>Two fyngeres þay fonde of þe fowlest of alle.</l>
+               <l>Syþen þay slyt þe slot, sesed þe erber,</l>
+               <l>Schaued wyth a scharp knyf, and þe schyre knitten;</l>
+               <l>Syþen rytte þay þe foure lymmes, and rent of þe hyde,</l>
+               <l>Þen brek þay þe balé, þe bowelez out token</l>
+               <milestone unit="folio" n="109r"/>
+               <l>Lystily for laucyng þe lere of þe knot;</l>
+               <l>Þay gryped to þe gargulun, and grayþely departed</l>
+               <l>Þe wesaunt fro þe wynt-hole, and walt out þe guttez;</l>
+               <l>Þen scher þay out þe schulderez with her scharp knyuez,</l>
+               <l>Haled hem by a lyttel hole to haue hole sydes.</l>
+               <l>Siþen britned þay þe brest and brayden hit in twynne,</l>
+               <l>And eft at þe gargulun bigynez on þenne,</l>
+               <l>Ryuez hit vp radly ryȝt to þe byȝt,</l>
+               <l>Voydez out þe avanters, and verayly þerafter</l>
+               <l>Alle þe rymez by þe rybbez radly þay lance;</l>
+               <l>So ryde þay of by resoun bi þe rygge bonez,</l>
+               <l>Euenden to þe haunche, þat henged alle samen,</l>
+               <l>And heuen hit vp al hole, and hwen hit of þere,</l>
+               <l>And þat þay neme for þe noumbles bi nome, as I trowe,</l>
+               <l rend="indent(4)">bi kynde;</l>
+               <l rend="indent(2)">Bi þe byȝt al of þe þyȝes</l>
+               <l rend="indent(2)">Þe lappez þay lance bihynde;</l>
+               <l rend="indent(2)">To hewe hit in two þay hyȝes,</l>
+               <l rend="indent(2)">Bi þe bakbon to vnbynde.</l>
+            </lg>
+            <lg>
+               <l>Boþe þe hede and þe hals þay hwen of þenne,</l>
+               <l>And syþen sunder þay þe sydez swyft fro þe chyne,</l>
+               <pb n="38"/>
+               <l>And þe corbeles fee þay kest in a greue;</l>
+               <l>Þenn þurled þay ayþer þik side þurȝ bi þe rybbe,</l>
+               <l>And henged þenne ayþer bi hoȝez of þe fourchez,</l>
+               <l>Vche freke for his fee, as fallez for to haue.</l>
+               <l>Vpon a felle of þe fayre best fede þay þayr houndes</l>
+               <l>Wyth þe lyuer and þe lyȝtez, þe leþer of þe paunchez,</l>
+               <l>And bred baþed in blod blende þeramongez.</l>
+               <l>Baldely þay blw prys, bayed þayr rachchez,</l>
+               <l>Syþen fonge þay her flesche, folden to home,</l>
+               <l>Strakande ful stoutly mony stif motez.</l>
+               <l>Bi þat þe daylyȝt watz done þe douthe watz al wonen</l>
+               <l>Into þe comly castel, þer þe knyȝt bidez</l>
+               <l rend="indent(4)">ful stille,</l>
+               <l rend="indent(2)">Wyth blys and bryȝt fyr bette.</l>
+               <l rend="indent(2)">Þe lorde is comen þertylle;</l>
+               <l rend="indent(2)">When Gawayn wyth hym mette</l>
+               <l rend="indent(2)">Þer watz bot wele at wylle.</l>
+            </lg>
+            <lg>
+               <milestone unit="folio" n="109v"/>
+               <l>Thenne comaunded þe lorde in þat sale to samen alle þe meny,</l>
+               <l>Boþe þe ladyes on loghe to lyȝt with her burdes</l>
+               <l>Bifore alle þe folk on þe flette, frekez he beddez</l>
+               <l>Verayly his venysoun to fech hym byforne,</l>
+               <l>And al godly in gomen Gawayn he called,</l>
+               <l>Techez hym to þe tayles of ful tayt bestes,</l>
+               <l>Schewez hym þe schyree grece schorne vpon rybbes.</l>
+               <l>'How payez yow þis play? Haf I prys wonnen?</l>
+               <l>Haue I þryuandely þonk þurȝ my craft serued?'</l>
+               <l>'Ȝe iwysse,' quoþ þat oþer wyȝe, 'here is wayth fayrest</l>
+               <l>Þat I seȝ þis seuen ȝere in sesoun of wynter.'</l>
+               <l>'And al I gif yow, Gawayn,' quoþ þe gome þenne,</l>
+               <l>'For by acorde of couenaunt ȝe craue hit as your awen.'</l>
+               <l>'Þis is soth,' quoþ þe segge, 'I say yow þat ilke:</l>
+               <l>Þat I haf worthyly wonnen þis wonez wythinne,</l>
+               <l>Iwysse with as god wylle hit worþez to ȝourez.'</l>
+               <l>He hasppez his fayre hals his armez wythinne,</l>
+               <l>And kysses hym as comlyly as he couþe awyse:</l>
+               <pb n="39"/>
+               <l>'Tas yow þere my cheuicaunce, I cheued no more;</l>
+               <l>I wowche hit saf fynly, þaȝ feler hit were.'</l>
+               <l>'Hit is god,' quoþ þe godmon, 'grant mercy þerfore.</l>
+               <l>Hit may be such hit is þe better, and ȝe me breue wolde</l>
+               <l>Where ȝe wan þis ilk wele bi wytte of yorseluen.'</l>
+               <l>'Þat watz not forward,' quoþ he, 'frayst me no more.</l>
+               <l>For ȝe haf tan þat yow tydez, trawe non oþer</l>
+               <l rend="indent(4)">ȝe mowe.'</l>
+               <l rend="indent(2)">Þay laȝed, and made hem blyþe</l>
+               <l rend="indent(2)">Wyth lotez þat were to lowe;</l>
+               <l rend="indent(2)">To soper þay ȝede as-swyþe,</l>
+               <l rend="indent(2)">Wyth dayntés nwe innowe.</l>
+            </lg>
+            <lg>
+               <l>And syþen by þe chymné in chamber þay seten,</l>
+               <l>Wyȝez þe walle wyn weȝed to hem oft,</l>
+               <l>And efte in her bourdyng þay bayþen in þe morn</l>
+               <l>To fylle þe same forwardez þat þay byfore maden:</l>
+               <l>Wat chaunce so bytydez hor cheuysaunce to chaunge,</l>
+               <l>What nwez so þay nome, at naȝt quen þay metten.</l>
+               <l>Þay acorded of þe couenauntez byfore þe court alle;</l>
+               <milestone unit="folio" n="110r"/>
+               <l>Þe beuerage watz broȝt forth in bourde at þat tyme,</l>
+               <l>Þenne þay louelych leȝten leue at þe last,</l>
+               <l>Vche burne to his bedde busked bylyue.</l>
+               <l>Bi þat þe coke hade crowen and cakled bot þryse,</l>
+               <l>Þe lorde watz lopen of his bedde, þe leudez vchone;</l>
+               <l>So þat þe mete and þe masse watz metely delyuered,</l>
+               <l>Þe douthe dressed to þe wod, er any day sprenged,</l>
+               <l rend="indent(4)">to chace;</l>
+               <l rend="indent(2)">Heȝ with hunte and hornez</l>
+               <l rend="indent(2)">Þurȝ playnez þay passe in space,</l>
+               <l rend="indent(2)">Vncoupled among þo þornez</l>
+               <l rend="indent(2)">Rachez þat ran on race.</l>
+            </lg>
+            <lg>
+               <l>SONE þay calle of a quest in a ker syde,</l>
+               <l>Þe hunt rehayted þe houndez þat hit fyrst mynged,</l>
+               <l>Wylde wordez hym warp wyth a wrast noyce;</l>
+               <l>Þe howndez þat hit herde hastid þider swyþe,</l>
+               <l>And fellen as fast to þe fuyt, fourty at ones;</l>
+               <pb n="40"/>
+               <l>Þenne such a glauer ande glam of gedered rachchez</l>
+               <l>Ros, þat þe rocherez rungen aboute;</l>
+               <l>Hunterez hem hardened with horne and wyth muthe.</l>
+               <l>Þen al in a semblé sweyed togeder,</l>
+               <l>Bitwene a flosche in þat fryth and a foo cragge;</l>
+               <l>In a knot bi a clyffe, at þe kerre syde,</l>
+               <l>Þer as þe rogh rocher vnrydely watz fallen,</l>
+               <l>Þay ferden to þe fyndyng, and frekez hem after;</l>
+               <l>Þay vmbekesten þe knarre and þe knot boþe,</l>
+               <l>Wyȝez, whyl þay wysten wel wythinne hem hit were,</l>
+               <l>Þe best þat þer breued watz wyth þe blodhoundez.</l>
+               <l>Þenne þay beten on þe buskez, and bede hym vpryse,</l>
+               <l>And he vnsoundyly out soȝt seggez ouerþwert;</l>
+               <l>On þe sellokest swyn swenged out þere,</l>
+               <l>Long sythen fro þe sounder þat siȝed for olde,</l>
+               <l>For he watz breme, bor alþer-grattest,</l>
+               <l>Ful grymme quen he gronyed; þenne greued mony,</l>
+               <l>For þre at þe fyrst þrast he þryȝt to þe erþe,</l>
+               <l>And sparred forth good sped boute spyt more.</l>
+               <l>Þise oþer halowed hyghe! ful hyȝe, and hay! hay! cryed,</l>
+               <milestone unit="folio" n="110v"/>
+               <l>Haden hornez to mouþe, heterly rechated;</l>
+               <l>Mony watz þe myry mouthe of men and of houndez</l>
+               <l>Þat buskkez after þis bor with bost and wyth noyse</l>
+               <l rend="indent(4)">to quelle.</l>
+               <l rend="indent(2)">Ful oft he bydez þe baye,</l>
+               <l rend="indent(2)">And maymez þe mute inn melle;</l>
+               <l rend="indent(2)">He hurtez of þe houndez, and þay</l>
+               <l rend="indent(2)">Ful ȝomerly ȝaule and ȝelle.</l>
+            </lg>
+            <lg>
+               <l>Schalkez to schote at hym schowen to þenne,</l>
+               <l>Haled to hym of her arewez, hitten hym oft;</l>
+               <l>Bot þe poyntez payred at þe pyth þat pyȝt in his scheldez,</l>
+               <l>And þe barbez of his browe bite non wolde--</l>
+               <l>Þaȝ þe schauen schaft schyndered in pecez,</l>
+               <l>Þe hede hypped aȝayn were-so-euer hit hitte.</l>
+               <pb n="41"/>
+               <l>Bot quen þe dyntez hym dered of her dryȝe strokez,</l>
+               <l>Þen, braynwod for bate, on burnez he rasez,</l>
+               <l>Hurtez hem ful heterly þer he forth hyȝez,</l>
+               <l>And mony arȝed þerat, and on lyte droȝen.</l>
+               <l>Bot þe lorde on a lyȝt horce launces hym after,</l>
+               <l>As burne bolde vpon bent his bugle he blowez,</l>
+               <l>He rechated, and rode þurȝ ronez ful þyk,</l>
+               <l>Suande þis wylde swyn til þe sunne schafted.</l>
+               <l>Þis day wyth þis ilk dede þay dryuen on þis wyse,</l>
+               <l>Whyle oure luflych lede lys in his bedde,</l>
+               <l>Gawayn grayþely at home, in gerez ful ryche</l>
+               <l rend="indent(4)">of hewe.</l>
+               <l rend="indent(2)">Þe lady noȝt forȝate,</l>
+               <l rend="indent(2)">Com to hym to salue;</l>
+               <l rend="indent(2)">Ful erly ho watz hym ate</l>
+               <l rend="indent(2)">His mode for to remwe.</l>
+            </lg>
+            <lg>
+               <l>Ho commes to þe cortyn, and at þe knyȝt totes.</l>
+               <l>Sir Wawen her welcumed worþy on fyrst,</l>
+               <l>And ho hym ȝeldez aȝayn ful ȝerne of hir wordez,</l>
+               <l>Settez hir softly by his syde, and swyþely ho laȝez,</l>
+               <l>And wyth a luflych loke ho layde hym þyse wordez:</l>
+               <l>'Sir, ȝif ȝe be Wawen, wonder me þynkkez,</l>
+               <l>Wyȝe þat is so wel wrast alway to god,</l>
+               <l>And connez not of compaynye þe costez vndertake,</l>
+               <milestone unit="folio" n="111r"/>
+               <l>And if mon kennes yow hom to knowe, ȝe kest hom of your mynde;</l>
+               <l>Þou hatz forȝeten ȝederly þat ȝisterday I taȝtte</l>
+               <l>Bi alder-truest token of talk þat I cowþe.'</l>
+               <l>'What is þat?' quoþ þe wyghe, 'Iwysse I wot neuer;</l>
+               <l>If hit be sothe þat ȝe breue, þe blame is myn awen.'</l>
+               <l>'Ȝet I kende yow of kyssyng,' quoþ þe clere þenne,</l>
+               <l>'Quere-so countenaunce is couþe quikly to clayme;</l>
+               <l>Þat bicumes vche a knyȝt þat cortaysy vses.'</l>
+               <l>'Do way,' quoþ þat derf mon, 'my dere, þat speche,</l>
+               <l>For þat durst I not do, lest I deuayed were;</l>
+               <l>If I were werned, I were wrang, iwysse, ȝif I profered.'</l>
+               <l>'Ma fay,' quoþ þe meré wyf, 'ȝe may not be werned,</l>
+               <pb n="42"/>
+               <l>Ȝe ar stif innoghe to constrayne wyth strenkþe, ȝif yow lykez,</l>
+               <l>Ȝif any were so vilanous þat yow devaye wolde.'</l>
+               <l>'Ȝe, be God,' quoþ Gawayn, 'good is your speche,</l>
+               <l>Bot þrete is vnþryuande in þede þer I lende,</l>
+               <l>And vche gift þat is geuen not with goud wylle.</l>
+               <l>I am at your comaundement, to kysse quen yow lykez,</l>
+               <l>Ȝe may lach quen yow lyst, and leue quen yow þynkkez,</l>
+               <l rend="indent(4)">in space.'</l>
+               <l rend="indent(2)">Þe lady loutez adoun,</l>
+               <l rend="indent(2)">And comlyly kysses his face,</l>
+               <l rend="indent(2)">Much speche þay þer expoun</l>
+               <l rend="indent(2)">Of druryes greme and grace.</l>
+            </lg>
+            <lg>
+               <l>'I woled wyt at yow, wyȝe,' þat worþy þer sayde,</l>
+               <l>'And yow wrathed not þerwyth, what were þe skylle</l>
+               <l>Þat so ȝong and so ȝepe as ȝe at þis tyme,</l>
+               <l>So cortayse, so knyȝtly, as ȝe ar knowen oute--</l>
+               <l>And of alle cheualry to chose, þe chef þyng alosed</l>
+               <l>Is þe lel layk of luf, þe lettrure of armes;</l>
+               <l>For to telle of þis teuelyng of þis trwe knyȝtez,</l>
+               <l>Hit is þe tytelet token and tyxt of her werkkez,</l>
+               <l>How ledes for her lele luf hor lyuez han auntered,</l>
+               <l>Endured for her drury dulful stoundez,</l>
+               <l>And after wenged with her walour and voyded her care,</l>
+               <l>And broȝt blysse into boure with bountees hor awen--</l>
+               <l>And ȝe ar knyȝt comlokest kyd of your elde,</l>
+               <milestone unit="folio" n="111v"/>
+               <l>Your worde and your worchip walkez ayquere,</l>
+               <l>And I haf seten by yourself here sere twyes,</l>
+               <l>Ȝet herde I neuer of your hed helde no wordez</l>
+               <l>Þat euer longed to luf, lasse ne more;</l>
+               <l>And ȝe, þat ar so cortays and coynt of your hetes,</l>
+               <l>Oghe to a ȝonke þynk ȝern to schewe</l>
+               <l>And teche sum tokenez of trweluf craftes.</l>
+               <l>Why! ar ȝe lewed, þat alle þe los weldez?</l>
+               <l>Oþer elles ȝe demen me to dille your dalyaunce to herken?</l>
+               <l rend="indent(4)">For schame!</l>
+               <l rend="indent(2)">I com hider sengel, and sitte</l>
+               <l rend="indent(2)">To lerne at yow sum game;</l>
+               <pb n="43"/>
+               <l rend="indent(2)">Dos, techez me of your wytte,</l>
+               <l rend="indent(2)">Whil my lorde is fro hame.'</l>
+            </lg>
+            <lg>
+               <l>'In goud fayþe,' quoþ Gawayn, 'God yow forȝelde!</l>
+               <l>Gret is þe gode gle, and gomen to me huge,</l>
+               <l>Þat so worþy as ȝe wolde wynne hidere,</l>
+               <l>And pyne yow with so pouer a mon, as play wyth your knyȝt</l>
+               <l>With anyskynnez countenaunce, hit keuerez me ese;</l>
+               <l>Bot to take þe toruayle to myself to trwluf expoun,</l>
+               <l>And towche þe temez of tyxt and talez of armez</l>
+               <l>To yow þat, I wot wel, weldez more slyȝt</l>
+               <l>Of þat art, bi þe half, or a hundreth of seche</l>
+               <l>As I am, oþer euer schal, in erde þer I leue,</l>
+               <l>Hit were a folé felefolde, my fre, by my trawþe.</l>
+               <l>I wolde yowre wylnyng worche at my myȝt,</l>
+               <l>As I am hyȝly bihalden, and euermore wylle</l>
+               <l>Be seruaunt to yourseluen, so saue me Dryȝtyn!'</l>
+               <l>Þus hym frayned þat fre, and fondet hym ofte,</l>
+               <l>For to haf wonnen hym to woȝe, what-so scho þoȝt ellez;</l>
+               <l>Bot he defended hym so fayr þat no faut semed,</l>
+               <l>Ne non euel on nawþer halue, nawþer þay wysten</l>
+               <l rend="indent(4)">bot blysse.</l>
+               <l rend="indent(2)">Þay laȝed and layked longe;</l>
+               <l rend="indent(2)">At þe last scho con hym kysse,</l>
+               <l rend="indent(2)">Hir leue fayre con scho fonge</l>
+               <l rend="indent(2)">And went hir waye, iwysse.</l>
+            </lg>
+            <lg>
+               <l>The ruþes hym þe renk and ryses to þe masse,</l>
+               <milestone unit="folio" n="112r"/>
+               <l>And siþen hor diner watz dyȝt and derely serued.</l>
+               <l>Þe lede with þe ladyez layked alle day,</l>
+               <l>Bot þe lorde ouer þe londez launced ful ofte,</l>
+               <l>Swez his vncely swyn, þat swyngez bi þe bonkkez</l>
+               <l>And bote þe best of his brachez þe bakkez in sunder</l>
+               <l>Þer he bode in his bay, tel bawemen hit breken,</l>
+               <l>And madee hym mawgref his hed for to mwe vtter,</l>
+               <l>So felle flonez þer flete when þe folk gedered.</l>
+               <l>Bot ȝet þe styffest to start bi stoundez he made,</l>
+               <l>Til at þe last he watz so mat he myȝt no more renne,</l>
+               <l>Bot in þe hast þat he myȝt he to a hole wynnez</l>
+               <l>Of a rasse bi a rokk þer rennez þe boerne.</l>
+               <pb n="44"/>
+               <l>He gete þe bonk at his bak, bigynez to scrape,</l>
+               <l>Þe froþe femed at his mouth vnfayre bi þe wykez,</l>
+               <l>Whettez his whyte tuschez; with hym þen irked</l>
+               <l>Alle þe burnez so bolde þat hym by stoden</l>
+               <l>To nye hym on-ferum, bot neȝe hym non durst</l>
+               <l rend="indent(4)">for woþe;</l>
+               <l rend="indent(2)">He hade hurt so mony byforne</l>
+               <l rend="indent(2)">Þat al þuȝt þenne ful loþe</l>
+               <l rend="indent(2)">Be more wyth his tusches torne,</l>
+               <l rend="indent(2)">Þat breme watz and braynwod bothe,</l>
+            </lg>
+            <lg>
+               <l>Til þe knyȝt com hymself, kachande his blonk,</l>
+               <l>Syȝ hym byde at þe bay, his burnez bysyde;</l>
+               <l>He lyȝtes luflych adoun, leuez his corsour,</l>
+               <l>Braydez out a bryȝt bront and bigly forth strydez,</l>
+               <l>Foundez fast þurȝ þe forth þer þe felle bydez.</l>
+               <l>Þe wylde watz war of þe wyȝe with weppen in honde,</l>
+               <l>Hef hyȝly þe here, so hetterly he fnast</l>
+               <l>Þat fele ferde for þe freke, lest felle hym þe worre.</l>
+               <l>Þe swyn settez hym out on þe segge euen,</l>
+               <l>Þat þe burne and þe bor were boþe vpon hepez</l>
+               <l>In þe wyȝtest of þe water; þe worre hade þat oþer,</l>
+               <l>For þe mon merkkez hym wel, as þay mette fyrst,</l>
+               <l>Set sadly þe scharp in þe slot euen,</l>
+               <l>Hit hym vp to þe hult, þat þe hert schyndered,</l>
+               <l>And he ȝarrande hym ȝelde, and ȝedoun þe water</l>
+               <milestone unit="folio" n="112v"/>
+               <l rend="indent(4)">
+                ful tyt.</l>
+               <l rend="indent(2)">A hundreth houndez hym hent,</l>
+               <l rend="indent(2)">Þat bremely con hym bite,</l>
+               <l rend="indent(2)">Burnez him broȝt to bent,</l>
+               <l rend="indent(2)">And doggez to dethe endite.</l>
+            </lg>
+            <lg>
+               <l>There watz blawyng of prys in mony breme horne,</l>
+               <l>Heȝe halowing on hiȝe with haþelez þat myȝt;</l>
+               <l>Brachetes bayed þat best, as bidden þe maysterez</l>
+               <l>Of þat chargeaunt chace þat were chef huntes.</l>
+               <l>Þenne a wyȝe þat watz wys vpon wodcraftez</l>
+               <l>To vnlace þis bor lufly bigynnez.</l>
+               <l>Fyrst he hewes of his hed and on hiȝe settez,</l>
+               <pb n="45"/>
+               <l>And syþen rendez him al roghe bi þe rygge after,</l>
+               <l>Braydez out þe boweles, brennez hom on glede,</l>
+               <l>With bred blent þerwith his braches rewardez.</l>
+               <l>Syþen he britnez out þe brawen in bryȝt brode cheldez,</l>
+               <l>And hatz out þe hastlettez, as hiȝtly bisemez;</l>
+               <l>And ȝet hem halchez al hole þe haluez togeder,</l>
+               <l>And syþen on a stif stange stoutly hem henges.</l>
+               <l>Now with þis ilk swyn þay swengen to home;</l>
+               <l>Þe bores hed watz borne bifore þe burnes seluen</l>
+               <l>Þat him forferde in þe forþe þurȝ forse of his honde</l>
+               <l rend="indent(4)">so stronge.</l>
+               <l rend="indent(2)">Til he seȝ Sir Gawayne</l>
+               <l rend="indent(2)">In halle hym poȝt ful longe;</l>
+               <l rend="indent(2)">He calde, and he com gayn</l>
+               <l rend="indent(2)">His feez þer for to fonge.</l>
+            </lg>
+            <lg>
+               <l>Þe lorde ful lowde with lote and laȝter myry,</l>
+               <l>When he seȝe Sir Gawayn, with solace he spekez;</l>
+               <l>Þe goude ladyez were geten, and gedered þe meyny,</l>
+               <l>He schewez hem þe scheldez, and schapes hem þe tale</l>
+               <l>Of þe largesse and þe lenþe, þe liþernez alse</l>
+               <l>Of þe were of þe wylde swyn in wod þer he fled.</l>
+               <l>Þat oþer knyȝt ful comly comended his dedez,</l>
+               <l>And praysed hit as gret prys þat he proued hade,</l>
+               <l>For suche a brawne of a best, þe bolde burne sayde,</l>
+               <l>Ne such sydes of a swyn segh he neuer are.</l>
+               <l>Þenne hondeled þay þe hoge hed, þe hende mon hit praysed,</l>
+               <milestone unit="folio" n="113r"/>
+               <l>And let lodly þerat þe lorde for to here.</l>
+               <l>'Now, Gawayn,' quoþ þe godmon, 'þis gomen is your awen</l>
+               <l>Bi fyn forwarde and faste, faythely ȝe knowe.'</l>
+               <l>'Hit is sothe,' quoþ þe segge, 'and as siker trwe</l>
+               <l>Alle my get I schal yow gif agayn, bi my trawþe.'</l>
+               <l>He hent þe haþel aboute þe halse, and hendely hym kysses,</l>
+               <l>And eftersones of þe same he serued hym þere.</l>
+               <l>'Now ar we euen,' quoþ þe haþel, 'in þis euentide</l>
+               <l>Of alle þe couenauntes þat we knyt, syþen I com hider,</l>
+               <l rend="indent(4)">bi lawe.'</l>
+               <l rend="indent(2)">Þe lorde sayde, 'Bi saynt Gile,</l>
+               <l rend="indent(2)">Ȝe ar þe best þat I knowe!</l>
+               <pb n="46"/>
+               <l rend="indent(2)">Ȝe ben ryche in a whyle,</l>
+               <l rend="indent(2)">Such chaffer and ȝe drowe.'</l>
+            </lg>
+            <lg>
+               <l>Þenne þay teldet tablez trestes alofte,</l>
+               <l>Kesten cloþen vpon; clere lyȝt þenne</l>
+               <l>Wakned bi woȝez, waxen torches;</l>
+               <l>Seggez sette and serued in sale al aboute;</l>
+               <l>Much glam and gle glent vp þerinne</l>
+               <l>Aboute þe fyre vpon flet, and on fele wyse</l>
+               <l>At þe soper and after, mony aþel songez,</l>
+               <l>As coundutes of Krystmasse and carolez newe</l>
+               <l>With al þe manerly merþe þat mon may of telle,</l>
+               <l>And euer oure luflych knyȝt þe lady bisyde.</l>
+               <l>Such semblaunt to þat segge semly ho made</l>
+               <l>Wyth stille stollen countenaunce, þat stalworth to plese,</l>
+               <l>Þat al forwondered watz þe wyȝe, and wroth with hymseluen,</l>
+               <l>Bot he nolde not for his nurture nurne hir aȝaynez,</l>
+               <l>Bot dalt with hir al in daynté, how-se-euer þe dede turned</l>
+               <l rend="indent(4)">towrast.</l>
+               <l rend="indent(2)">Quen þay hade played in halle</l>
+               <l rend="indent(2)">As longe as hor wylle hom last,</l>
+               <l rend="indent(2)">To chambre he con hym calle,</l>
+               <l rend="indent(2)">And to þe chemné þay past.</l>
+            </lg>
+            <lg>
+               <l>Andre þer þay dronken, and dalten, and demed eft nwe</l>
+               <l>To norne on þe same note on Nwe Ȝerez euen;</l>
+               <l>Bot þe knyȝt craued leue to kayre on þe morn,</l>
+               <l>For hit watz neȝ at þe terme þat he to schulde.</l>
+               <milestone unit="folio" n="113v"/>
+               <l>Þe lorde hym letted of þat, to lenge hym resteyed,</l>
+               <l>And sayde, 'As I am trwe segge, I siker my trawþe</l>
+               <l>Þou schal cheue to þe grene chapel þy charres to make,</l>
+               <l>Leude, on Nw Ȝerez lyȝt, longe bifore pryme.</l>
+               <l>Forþy þow lye in þy loft and lach þyn ese,</l>
+               <l>And I schal hunt in þis holt, and halde þe towchez,</l>
+               <l>Chaunge wyth þe cheuisaunce, bi þat I charre hider;</l>
+               <l>For I haf fraysted þe twys, and faythful I fynde þe.</l>
+               <l>Now "þrid tyme þrowe best" þenk on þe morne,</l>
+               <l>Make we mery quyl we may and mynne vpon joye,</l>
+               <l>For þe lur may mon lach when-so mon lykez.'</l>
+               <l>Þis watz grayþely graunted, and Gawayn is lenged,</l>
+               <pb n="47"/>
+               <l>Bliþe broȝt watz hym drynk, and þay to bedde ȝeden</l>
+               <l rend="indent(4)">with liȝt.</l>
+               <l rend="indent(2)">Sir Gawayn lis and slepes</l>
+               <l rend="indent(2)">Ful stille and softe al niȝt;</l>
+               <l rend="indent(2)">Þe lorde þat his craftez kepes,</l>
+               <l rend="indent(2)">Ful erly he watz diȝt.</l>
+            </lg>
+            <lg>
+               <l>After messe a morsel he and his men token;</l>
+               <l>Miry watz þe mornyng, his mounture he askes.</l>
+               <l>Alle þe haþeles þat on horse schulde helden hym after</l>
+               <l>Were boun busked on hor blonkkez bifore þe halle ȝatez.</l>
+               <l>Ferly fayre watz þe folde, for þe forst clenged;</l>
+               <l>In rede rudede vpon rak rises þe sunne,</l>
+               <l>And ful clere costez þe clowdes of þe welkyn.</l>
+               <l>Hunteres vnhardeled bi a holt syde,</l>
+               <l>Rocheres roungen bi rys for rurde of her hornes;</l>
+               <l>Summe fel in þe fute þer þe fox bade,</l>
+               <l>Traylez ofte a traueres bi traunt of her wyles;</l>
+               <l>A kenet kyres þerof, þe hunt on hym calles;</l>
+               <l>His felaȝes fallen hym to, þat fnasted ful þike,</l>
+               <l>Runnen forth in a rabel in his ryȝt fare,</l>
+               <l>And he fyskez hem byfore; þay founden hym sone,</l>
+               <l>And quen þay seghe hym with syȝt þay sued hym fast,</l>
+               <l>Wreȝande hym ful weterly with a wroth noyse;</l>
+               <l>And he trantes and tornayeez þurȝ mony tene greue,</l>
+               <l>Hauilounez, and herkenez bi heggez ful ofte.</l>
+               <milestone unit="folio" n="114r"/>
+               <l>At þe last bi a littel dich he lepez ouer a spenne,</l>
+               <l>Stelez out ful stilly bi a strothe rande,</l>
+               <l>Went haf wylt of þe wode with wylez fro þe houndes;</l>
+               <l>Þenne watz he went, er he wyst, to a wale tryster,</l>
+               <l>Þer þre þro at a þrich þrat hym at ones,</l>
+               <l rend="indent(4)">al graye.</l>
+               <l rend="indent(2)">He blenched aȝayn bilyue</l>
+               <l rend="indent(2)">And stifly start on-stray,</l>
+               <l rend="indent(2)">With alle þe wo on lyue</l>
+               <l rend="indent(2)">To þe wod he went away.</l>
+            </lg>
+            <lg>
+               <pb n="48"/>
+               <l>Thenne watz hit list vpon lif to lyþen þe houndez,</l>
+               <l>When alle þe mute hade hym met, menged togeder:</l>
+               <l>Suche a sorȝe at þat syȝt þay sette on his hede</l>
+               <l>As alle þe clamberande clyffes hade clatered on hepes;</l>
+               <l>Here he watz halawed, when haþelez hym metten,</l>
+               <l>Loude he watz ȝayned with ȝarande speche;</l>
+               <l>Þer he watz þreted and ofte þef called,</l>
+               <l>And ay þe titleres at his tayl, þat tary he ne myȝt;</l>
+               <l>Ofte he watz runnen at, when he out rayked,</l>
+               <l>And ofte reled in aȝayn, so Reniarde watz wylé.</l>
+               <l>And ȝe he lad hem bi lagmon, þe lorde and his meyny,</l>
+               <l>On þis maner bi þe mountes quyle myd-ouer-vnder,</l>
+               <l>Whyle þe hende knyȝt at home holsumly slepes</l>
+               <l>Withinne þe comly cortynes, on þe colde morne.</l>
+               <l>Bot þe lady for luf let not to slepe,</l>
+               <l>Ne þe purpose to payre þat pyȝt in hir hert,</l>
+               <l>Bot ros hir vp radly, rayked hir þeder</l>
+               <l>In a mery mantyle, mete to þe erþe,</l>
+               <l>Þat watz furred ful fyne with fellez wel pured,</l>
+               <l>No hwef goud on hir hede bot þe haȝer stones</l>
+               <l>Trased aboute hir tressour be twenty in clusteres;</l>
+               <l>Hir þryuen face and hir þrote þrowen al naked,</l>
+               <l>Hir brest bare bifore, and bihinde eke.</l>
+               <l>Ho comez withinne þe chambre dore, and closes hit hir after,</l>
+               <l>Wayuez vp a wyndow, and on þe wyȝe callez,</l>
+               <l>And radly þus rehayted hym with hir riche wordes,</l>
+               <l rend="indent(4)">with chere:</l>
+               <l rend="indent(2)">'A! mon, how may þou slepe,</l>
+               <milestone unit="folio" n="114v"/>
+               <l rend="indent(2)">Þis morning is so clere?'</l>
+               <l rend="indent(2)">He watz in drowping depe,</l>
+               <l rend="indent(2)">Bot þenne he con hir here.</l>
+            </lg>
+            <lg>
+               <l>In dreȝ droupyng of dreme draueled þat noble,</l>
+               <l>As mon þat watz in mornyng of mony þro þoȝtes,</l>
+               <l>How þat destiné schulde þat day dele hym his wyrde</l>
+               <l>At þe grene chapel, when he þe gome metes,</l>
+               <l>And bihoues his buffet abide withoute debate more;</l>
+               <l>Bot quen þat comly com he keuered his wyttes,</l>
+               <pb n="49"/>
+               <l>Swenges out of þe sweuenes, and swarez with hast.</l>
+               <l>Þe lady luflych com laȝande swete,</l>
+               <l>Felle ouer his fayre face, and fetly hym kyssed;</l>
+               <l>He welcumez hir worþily with a wale chere.</l>
+               <l>He seȝ hir so glorious and gayly atyred,</l>
+               <l>So fautles of hir fetures and of so fyne hewes,</l>
+               <l>Wiȝt wallande joye warmed his hert.</l>
+               <l>With smoþe smylyng and smolt þay smeten into merþe,</l>
+               <l>Þat al watz blis and bonchef þat breke hem bitwene,</l>
+               <l rend="indent(4)">and wynne.</l>
+               <l rend="indent(2)">Þay lanced wordes gode,</l>
+               <l rend="indent(2)">Much wele þen watz þerinne;</l>
+               <l rend="indent(2)">Gret perile bitwene hem stod,</l>
+               <l rend="indent(2)">Nif Maré of hir knyȝt mynne.</l>
+            </lg>
+            <lg>
+               <l>For þat prynces of pris depresed hym so þikke,</l>
+               <l>Nurned hym so neȝe þe þred, þat nede hym bihoued</l>
+               <l>Oþer lach þer hir luf, oþer lodly refuse.</l>
+               <l>He cared for his cortaysye, lest craþayn he were,</l>
+               <l>And more for his meschef ȝif he schulde make synne,</l>
+               <l>And be traytor to þat tolke þat þat telde aȝt.</l>
+               <l>'God schylde,' quoþ þe schalk, 'þat schal not befalle!'</l>
+               <l>With luf-laȝyng a lyt he layd hym bysyde</l>
+               <l>Alle þe spechez of specialté þat sprange of her mouthe.</l>
+               <l>Quoþ þat burde to þe burne, 'Blame ȝe disserue,</l>
+               <l>Ȝif ȝe luf not þat lyf þat ȝe lye nexte,</l>
+               <l>Bifore alle þe wyȝez in þe worlde wounded in hert,</l>
+               <l>Bot if ȝe haf a lemman, a leuer, þat yow lykez better,</l>
+               <l>And folden fayth to þat fre, festned so harde</l>
+               <milestone unit="folio" n="115r"/>
+               <l>Þat yow lausen ne lyst--and þat I leue nouþe;</l>
+               <l>And þat ȝe telle me þat now trwly I pray yow,</l>
+               <l>For alle þe lufez vpon lyue layne not þe soþe</l>
+               <l rend="indent(4)">for gile.'</l>
+               <l rend="indent(2)">Þe knyȝt sayde, 'Be sayn Jon,'</l>
+               <l rend="indent(2)">And smeþely con he smyle,</l>
+               <l rend="indent(2)">'In fayth I welde riȝt non,</l>
+               <l rend="indent(2)">Ne non wil welde þe quile.'</l>
+            </lg>
+            <lg>
+               <l>'Þat is a worde,' quoþ þat wyȝt, 'þat worst is of alle,</l>
+               <pb n="50"/>
+               <l>Bot I am swared for soþe, þat sore me þinkkez.</l>
+               <l>Kysse me now comly, and I schal cach heþen,</l>
+               <l>I may bot mourne vpon molde, as may þat much louyes.'</l>
+               <l>Sykande ho sweȝe doun and semly hym kyssed,</l>
+               <l>And siþen ho seueres hym fro, and says as ho stondes,</l>
+               <l>'Now, dere, at þis departyng do me þis ese,</l>
+               <l>Gif me sumquat of þy gifte, þi gloue if hit were,</l>
+               <l>Þat I may mynne on þe, mon, my mournyng to lassen.'</l>
+               <l>'Now iwysse,' quoþ þat wyȝe, 'I wolde I hade here</l>
+               <l>Þe leuest þing for þy luf þat I in londe welde,</l>
+               <l>For ȝe haf deserued, for soþe, sellyly ofte</l>
+               <l>More rewarde bi resoun þen I reche myȝt;</l>
+               <l>Bot to dele yow for drurye þat dawed bot neked,</l>
+               <l>Hit is not your honour to haf at þis tyme</l>
+               <l>A gloue for a garysoun of Gawaynez giftez,</l>
+               <l>And I am here an erande in erdez vncouþe,</l>
+               <l>And haue no men wyth no malez with menskful þingez;</l>
+               <l>Þat mislykez me, ladé, for luf at þis tyme,</l>
+               <l>Iche tolke mon do as he is tan, tas to non ille</l>
+               <l rend="indent(4)">ne pine.'</l>
+               <l rend="indent(2)">'Nay, hende of hyȝe honours,'</l>
+               <l rend="indent(2)">Quoþ þat lufsum vnder lyne,</l>
+               <l rend="indent(2)">'Þaȝ I hade noȝt of yourez,</l>
+               <l rend="indent(2)">Ȝet schulde ȝe haue of myne.'</l>
+            </lg>
+            <lg>
+               <l>Ho raȝt hym a riche rynk of red golde werkez,</l>
+               <l>Wyth a starande ston stondande alofte</l>
+               <l>Þat bere blusschande bemez as þe bryȝt sunne;</l>
+               <l>Wyt ȝe wel, hit watz worth wele ful hoge.</l>
+               <l>Bot þe renk hit renayed, and redyly he sayde,</l>
+               <milestone unit="folio" n="115v"/>
+               <l>'I wil no giftez, for Gode, my gay, at þis tyme;</l>
+               <l>I haf none yow to norne, ne noȝt wyl I take.'</l>
+               <l>Ho bede hit hym ful bysily, and he hir bode wernes,</l>
+               <l>And swere swyfte by his sothe þat he hit sese nolde,</l>
+               <l>And ho soré þat he forsoke, and sayde þerafter,</l>
+               <l>'If ȝe renay my rynk, to ryche for hit semez,</l>
+               <l>Ȝe wolde not so hyȝly halden be to me,</l>
+               <l>I schal gif yow my girdel, þat gaynes yow lasse.'</l>
+               <pb n="51"/>
+               <l>Ho laȝt a lace lyȝtly þat leke vmbe hir sydez,</l>
+               <l>Knit vpon hir kyrtel vnder þe clere mantyle,</l>
+               <l>Gered hit watz with grene sylke and with golde schaped,</l>
+               <l>Noȝt bot arounde brayden, beten with fyngrez;</l>
+               <l>And þat ho bede to þe burne, and blyþely bisoȝt,</l>
+               <l>Þaȝ hit vnworþi were, þat he hit take wolde.</l>
+               <l>And he nay þat he nolde neghe in no wyse</l>
+               <l>Nauþer golde ne garysoun, er God hym grace sende</l>
+               <l>To acheue to þe chaunce þat he hade chosen þere.</l>
+               <l>'And þerfore, I pray yow, displese yow noȝt,</l>
+               <l>And lettez be your bisinesse, for I bayþe hit yow neuer</l>
+               <l rend="indent(4)">to graunte;</l>
+               <l rend="indent(2)">I am derely to yow biholde</l>
+               <l rend="indent(2)">Bicause of your sembelaunt,</l>
+               <l rend="indent(2)">And euer in hot and colde</l>
+               <l rend="indent(2)">To be your trwe seruaunt.'</l>
+            </lg>
+            <lg>
+               <l>'Now forsake ȝe þis silke,' sayde þe burde þenne,</l>
+               <l>'For hit is symple in hitself? And so hit wel semez.</l>
+               <l>Lo! so hit is littel, and lasse hit is worþy;</l>
+               <l>Bot who-so knew þe costes þat knit ar þerinne,</l>
+               <l>He wolde hit prayse at more prys, parauenture;</l>
+               <l>For quat gome so is gorde with þis grene lace,</l>
+               <l>While he hit hade hemely halched aboute,</l>
+               <l>Þer is no haþel vnder heuen tohewe hym þat myȝt,</l>
+               <l>For he myȝt not be slayn for slyȝt vpon erþe.'</l>
+               <l>Þen kest þe knyȝt, and hit come to his hert</l>
+               <l>Hit were a juel for þe jopardé þat hym iugged were:</l>
+               <l>When he acheued to þe chapel his chek for to fech,</l>
+               <l>Myȝt he haf slypped to be vnslayn, þe sleȝt were noble.</l>
+               <milestone unit="folio" n="116r"/>
+               <l>Þenne he þulged with hir þrepe and þoled hir to speke,</l>
+               <l>And ho bere on hym þe belt and bede hit hym swyþe--</l>
+               <l>And he granted and hym gafe with a goud wylle--</l>
+               <l>And bisoȝt hym, for hir sake, disceuer hit neuer,</l>
+               <l>Bot to lelly layne fro hir lorde; þe leude hym acordez</l>
+               <l>Þat neuer wyȝe schulde hit wyt, iwysse, bot þay twayne</l>
+               <l rend="indent(4)">for noȝte;</l>
+               <l rend="indent(2)">He þonkked hir oft ful swyþe,</l>
+               <l rend="indent(2)">Ful þro with hert and þoȝt.</l>
+               <pb n="52"/>
+               <l rend="indent(2)">Bi þat on þrynne syþe</l>
+               <l rend="indent(2)">Ho hatz kyst þe knyȝt so toȝt.</l>
+            </lg>
+            <lg>
+               <l>Thenne lachchez ho hir leue, and leuez hym þere,</l>
+               <l>For more myrþe of þat mon moȝt ho not gete.</l>
+               <l>When ho watz gon, Sir Gawayn gerez hym sone,</l>
+               <l>Rises and riches hym in araye noble,</l>
+               <l>Lays vp þe luf-lace þe lady hym raȝt,</l>
+               <l>Hid hit ful holdely, þer he hit eft fonde.</l>
+               <l>Syþen cheuely to þe chapel choses he þe waye,</l>
+               <l>Preuély aproched to a prest, and prayed hym þere</l>
+               <l>Þat he wolde lyste his lyf and lern hym better</l>
+               <l>How his sawle schulde be saued when he schuld seye heþen.</l>
+               <l>Þere he schrof hym schyrly and schewed his mysdedez,</l>
+               <l>Of þe more and þe mynne, and merci besechez,</l>
+               <l>And of absolucioun he on þe segge calles;</l>
+               <l>And he asoyled hym surely and sette hym so clene</l>
+               <l>As domezday schulde haf ben diȝt on þe morn.</l>
+               <l>And syþen he mace hym as mery among þe fre ladyes,</l>
+               <l>With comlych caroles and alle kynnes ioye,</l>
+               <l>As neuer he did bot þat daye, to þe derk nyȝt,</l>
+               <l rend="indent(4)">with blys.</l>
+               <l rend="indent(2)">Vche mon hade daynté þare</l>
+               <l rend="indent(2)">Of hym, and sayde, 'Iwysse,</l>
+               <l rend="indent(2)">Þus myry he watz neuer are,</l>
+               <l rend="indent(2)">Syn he com hider, er þis.'</l>
+            </lg>
+            <lg>
+               <l>Now hym lenge in þat lee, þer luf hym bityde!</l>
+               <l>Ȝet is þe lorde on þe launde ledande his gomnes.</l>
+               <l>He hatz forfaren þis fox þat he folȝed longe;</l>
+               <l>As he sprent ouer a spenne to spye þe schrewe,</l>
+               <milestone unit="folio" n="116v"/>
+               <l>Þer as he herd þe howndes þat hasted hym swyþe,</l>
+               <l>Renaud com richchande þurȝ a roȝe greue,</l>
+               <l>And alle þe rabel in a res ryȝt at his helez.</l>
+               <l>Þe wyȝe watz war of þe wylde, and warly abides,</l>
+               <l>And braydez out þe bryȝt bronde, and at þe best castez.</l>
+               <l>And he schunt for þe scharp, and schulde haf arered;</l>
+               <l>A rach rapes hym to, ryȝt er he myȝt,</l>
+               <l>And ryȝt bifore þe hors fete þay fel on hym alle,</l>
+               <pb n="53"/>
+               <l>And woried me þis wyly wyth a wroth noyse.</l>
+               <l>Þe lorde lyȝtez bilyue, and lachez hym sone,</l>
+               <l>Rased hym ful radly out of þe rach mouþes,</l>
+               <l>Haldez heȝe ouer his hede, halowez faste,</l>
+               <l>And þer bayen hym mony braþ houndez.</l>
+               <l>Huntes hyȝed hem þeder with hornez ful mony,</l>
+               <l>Ay rechatande aryȝt til þay þe renk seȝen.</l>
+               <l>Bi þat watz comen his compeyny noble,</l>
+               <l>Alle þat euer ber bugle blowed at ones,</l>
+               <l>And alle þise oþer halowed þat hade no hornes;</l>
+               <l>Hit watz þe myriest mute þat euer men herde,</l>
+               <l>Þe rich rurd þat þer watz raysed for Renaude saule</l>
+               <l rend="indent(4)">with lote.</l>
+               <l rend="indent(2)">Hor houndez þay þer rewarde,</l>
+               <l rend="indent(2)">Her hedez þay fawne and frote,</l>
+               <l rend="indent(2)">And syþen þay tan Reynarde,</l>
+               <l rend="indent(2)">And tyruen of his cote.</l>
+            </lg>
+            <lg>
+               <l>And þenne þay helden to home, for hit watz nieȝ nyȝt,</l>
+               <l>Strakande ful stoutly in hor store hornez.</l>
+               <l>Þe lorde is lyȝt at þe laste at hys lef home,</l>
+               <l>Fyndez fire vpon flet, þe freke þer-byside,</l>
+               <l>Sir Gawayn þe gode, þat glad watz withalle,</l>
+               <l>Among þe ladies for luf he ladde much ioye;</l>
+               <l>He were a bleaunt of blwe þat bradde to þe erþe,</l>
+               <l>His surkot semed hym wel þat softe watz forred,</l>
+               <l>And his hode of þat ilke henged on his schulder,</l>
+               <l>Blande al of blaunner were boþe al aboute.</l>
+               <l>He metez me þis godmon inmyddez þe flore,</l>
+               <l>And al with gomen he hym gret, and goudly he sayde,</l>
+               <l>'I schal fylle vpon fyrst oure forwardez nouþe,</l>
+               <milestone unit="folio" n="117r"/>
+               <l>Þat we spedly han spoken, þer spared watz no drynk.'</l>
+               <l>Þen acoles he þe knyȝt and kysses hym þryes,</l>
+               <l>As sauerly and sadly as he hem sette couþe.</l>
+               <l>'Bi Kryst,' quoþ þat oþer knyȝt, 'Ȝe cach much sele</l>
+               <l>In cheuisaunce of þis chaffer, ȝif ȝe hade goud chepez.'</l>
+               <l>'Ȝe, of þe chepe no charg,' quoþ chefly þat oþer,</l>
+               <l>'As is pertly payed þe chepez þat I aȝte.'</l>
+               <pb n="54"/>
+               <l>'Mary,' quoþ þat oþer mon, 'myn is bihynde,</l>
+               <l>For I haf hunted al þis day, and noȝt haf I geten</l>
+               <l>Bot þis foule fox felle--þe fende haf þe godez!--</l>
+               <l>And þat is ful pore for to pay for suche prys þinges</l>
+               <l>As ȝe haf þryȝt me here þro, suche þre cosses</l>
+               <l rend="indent(4)">so gode.'</l>
+               <l rend="indent(2)">'Inoȝ,' quoþ Sir Gawayn,</l>
+               <l rend="indent(2)">'I þonk yow, bi þe rode',</l>
+               <l rend="indent(2)">And how þe fox watz slayn</l>
+               <l rend="indent(2)">He tolde hym as þay stode.</l>
+            </lg>
+            <lg>
+               <l>With merþe and mynstralsye, with metez at hor wylle,</l>
+               <l>Þay maden as mery as any men moȝten--</l>
+               <l>With laȝyne of ladies, with lotez of bordes</l>
+               <l>Gawayn and þe godemon so glad were þay boþe--</l>
+               <l>Bot if þe douthe had doted, oþer dronken ben oþer.</l>
+               <l>Boþe þe mon and þe meyny maden mony iapez,</l>
+               <l>Til þe sesoun watz seȝen þat þay seuer moste;</l>
+               <l>Burnez to hor bedde behoued at þe laste.</l>
+               <l>Þenne loȝly his leue at þe lorde fyrst</l>
+               <l>Fochchez þis fre mon, and fayre he hym þonkkez:</l>
+               <l>'Of such a selly soiorne as I haf hade here,</l>
+               <l>Your honour at þis hyȝe fest, þe hyȝe kyng yow ȝelde!</l>
+               <l>I ȝef yow me for on of yourez, if yowreself lykez,</l>
+               <l>For I mot nedes, as ȝe wot, meue to-morne,</l>
+               <l>And ȝe me take sum tolke to teche, as ȝe hyȝt,</l>
+               <l>Þe gate to þe grene chapel, as God wyl me suffer</l>
+               <l>To dele on Nw Ȝerez day þe dome of my wyrdes.'</l>
+               <l>'In god fayþe,' quoþ þe godmon, 'wyth a goud wylle</l>
+               <l>Al þat euer I yow hyȝt halde schal I redé.'</l>
+               <l>Þer asyngnes he a seruaunt to sett hym in þe waye,</l>
+               <milestone unit="folio" n="117v"/>
+               <l>And coundue hym by þe downez, þat he no drechch had,</l>
+               <l>For to ferk þurȝ þe fryth and fare at þe gaynest</l>
+               <l rend="indent(4)">bi greue.</l>
+               <l rend="indent(2)">Þe lorde Gawayn con þonk,</l>
+               <l rend="indent(2)">Such worchip he wolde hym weue.</l>
+               <l rend="indent(2)">Þen at þo ladyez wlonk</l>
+               <l rend="indent(2)">Þe knyȝt hatz tan his leue.</l>
+            </lg>
+            <lg>
+               <pb n="55"/>
+               <l>With care and wyth kyssyng he carppez hem tille,</l>
+               <l>And fele þryuande þonkkez he þrat hom to haue,</l>
+               <l>And þay ȝelden hym aȝayn ȝeply þat ilk;</l>
+               <l>Þay bikende hym to Kryst with ful colde sykyngez.</l>
+               <l>Syþen fro þe meyny he menskly departes;</l>
+               <l>Vche mon þat he mette, he made hem a þonke</l>
+               <l>For his seruyse and his solace and his sere pyne,</l>
+               <l>Þat þay wyth busynes had ben aboute hym to serue;</l>
+               <l>And vche segge as soré to seuer with hym þere</l>
+               <l>As þay hade wonde worþyly with þat wlonk euer.</l>
+               <l>Þen with ledes and lyȝt he watz ladde to his chambre</l>
+               <l>And blyþely broȝt to his bedde to be at his rest.</l>
+               <l>Ȝif he ne slepe soundyly say ne dar I,</l>
+               <l>For he hade muche on þe morn to mynne, ȝif he wolde,</l>
+               <l rend="indent(4)">in þoȝt.</l>
+               <l rend="indent(2)">Let hym lyȝe þere stille,</l>
+               <l rend="indent(2)">He hatz nere þat he soȝt;</l>
+               <l rend="indent(2)">And ȝe wyl a whyle be stylle</l>
+               <l rend="indent(2)">I schal telle yow how þay wroȝt.</l>
+            </lg>
+         </div>
+         <div rend="linenumber">
+            <head>IV</head>
+            <lg>
+               <l>Now neȝez þe Nw Ȝere, and þe nyȝt passez,</l>
+               <l>Þe day dryuez to þe derk, as Dryȝtyn biddez;</l>
+               <l>Bot wylde wederez of þe worlde wakned þeroute,</l>
+               <l>Clowdes kesten kenly þe colde to þe erþe,</l>
+               <l>Wyth nyȝe innoghe of þe norþe, þe naked to tene;</l>
+               <l>Þe snawe snitered ful snart, þat snayped þe wylde;</l>
+               <l>Þe werbelande wynde wapped fro þe hyȝe,</l>
+               <l>And drof vche dale ful of dryftes ful grete.</l>
+               <l>Þe leude lystened ful wel þat leȝ in his bedde,</l>
+               <l>Þaȝ he lowkez his liddez, ful lyttel he slepes;</l>
+               <l>Bi vch kok þat crue he knwe wel þe steuen.</l>
+               <milestone unit="folio" n="118r"/>
+               <l>Deliuerly he dressed vp, er þe day sprenged,</l>
+               <l>For þere watz lyȝt of a laumpe þat lemed in his chambre;</l>
+               <l>He called to his chamberlayn, þat cofly hym swared,</l>
+               <l>And bede hym bryng hym his bruny and his blonk sadel;</l>
+               <pb n="56"/>
+               <l>Þat oþer ferkez hym vp and fechez hym his wedez,</l>
+               <l>And grayþez me Sir Gawayn vpon a grett wyse.</l>
+               <l>Fyrst he clad hym in his cloþez þe colde for to were,</l>
+               <l>And syþen his oþer harnays, þat holdely watz keped,</l>
+               <l>Boþe his paunce and his platez, piked ful clene,</l>
+               <l>Þe ryngez rokked of þe roust of his riche bruny;</l>
+               <l>And al watz fresch as vpon fyrst, and he watz fayn þenne</l>
+               <l rend="indent(4)">to þonk;</l>
+               <l rend="indent(2)">He hade vpon vche pece,</l>
+               <l rend="indent(2)">Wypped ful wel and wlonk;</l>
+               <l rend="indent(2)">Þe gayest into Grece,</l>
+               <l rend="indent(2)">Þe burne bede bryng his blonk.</l>
+            </lg>
+            <lg>
+               <l>Whyle þe wlonkest wedes he warp on hymseluen--</l>
+               <l>His cote wyth þe conysaunce of þe clere werkez</l>
+               <l>Ennurned vpon veluet, vertuus stonez</l>
+               <l>Aboute beten and bounden, enbrauded semez,</l>
+               <l>And fayre furred withinne wyth fayre pelures--</l>
+               <l>Ȝet laft he not þe lace, þe ladiez gifte,</l>
+               <l>Þat forgat not Gawayn for gode of hymseluen.</l>
+               <l>Bi he hade belted þe bronde vpon his balȝe haunchez,</l>
+               <l>Þenn dressed he his drurye double hym aboute,</l>
+               <l>Swyþe sweþled vmbe his swange swetely þat knyȝt</l>
+               <l>Þe gordel of þe grene silke, þat gay wel bisemed,</l>
+               <l>Vpon þat ryol red cloþe þat ryche watz to schewe.</l>
+               <l>Bot wered not þis ilk wyȝe for wele þis gordel,</l>
+               <l>For pryde of þe pendauntez, þaȝ polyst þay were,</l>
+               <l>And þaȝ þe glyterande golde glent vpon endez,</l>
+               <l>Bot for to sauen hymself, when suffer hym byhoued,</l>
+               <l>To byde bale withoute dabate of bronde hym to were</l>
+               <l rend="indent(4)">oþer knyffe.</l>
+               <l rend="indent(2)">Bi þat þe bolde mon boun</l>
+               <l rend="indent(2)">Wynnez þeroute bilyue,</l>
+               <l rend="indent(2)">Alle þe meyny of renoun</l>
+               <l rend="indent(2)">He þonkkez ofte ful ryue.</l>
+            </lg>
+            <lg>
+               <milestone unit="folio" n="118v"/>
+               <l>Thenne watz Gryngolet grayþe, þat gret watz and huge,</l>
+               <l>And hade ben soiourned sauerly and in a siker wyse,</l>
+               <l>Hym lyst prik for poynt, þat proude hors þenne.</l>
+               <pb n="57"/>
+               <l>Þe wyȝe wynnez hym to and wytez on his lyre,</l>
+               <l>And sayde soberly hymself and by his soth swerez:</l>
+               <l>'Here is a meyny in þis mote þat on menske þenkkez,</l>
+               <l>Þe mon hem maynteines, ioy mot þay haue;</l>
+               <l>Þe leue lady on lyue luf hir bityde;</l>
+               <l>Ȝif þay for charyté cherysen a gest,</l>
+               <l>And halden honour in her honde, þe haþel hem ȝelde</l>
+               <l>Þat haldez þe heuen vpon hyȝe, and also yow alle!</l>
+               <l>And ȝif I myȝt lyf vpon londe lede any quyle,</l>
+               <l>I schuld rech yow sum rewarde redyly, if I myȝt.'</l>
+               <l>Þenn steppez he into stirop and strydez alofte;</l>
+               <l>His schalk schewed hym his schelde, on schulder he hit laȝt,</l>
+               <l>Gordez to Gryngolet with his gilt helez,</l>
+               <l>And he startez on þe ston, stod he no lenger</l>
+               <l rend="indent(4)">to praunce.</l>
+               <l rend="indent(2)">His haþel on hors watz þenne,</l>
+               <l rend="indent(2)">Þat bere his spere and launce.</l>
+               <l rend="indent(2)">'Þis kastel to Kryst I kenne':</l>
+               <l rend="indent(2)">He gef hit ay god chaunce.</l>
+            </lg>
+            <lg>
+               <l>The brygge watz brayde doun, and þe brode ȝatez</l>
+               <l>Vnbarred and born open vpon boþe halue.</l>
+               <l>Þe burne blessed hym bilyue, and þe bredez passed--</l>
+               <l>Prayses þe porter bifore þe prynce kneled,</l>
+               <l>Gef hym God and goud day, þat Gawayn he saue--</l>
+               <l>And went on his way with his wyȝe one,</l>
+               <l>Þat schulde teche hym to tourne to þat tene place</l>
+               <l>Þer þe ruful race he schulde resayue.</l>
+               <l>Þay boȝen bi bonkkez þer boȝez ar bare,</l>
+               <l>Þay clomben bi clyffez þer clengez þe colde.</l>
+               <l>Þe heuen watz vphalt, bot vgly þer-vnder;</l>
+               <l>Mist muged on þe mor, malt on þe mountez,</l>
+               <l>Vch hille hade a hatte, a myst-hakel huge.</l>
+               <l>Brokez byled and breke bi bonkkez aboute,</l>
+               <l>Schyre schaterande on schorez, þer þay doun schowued.</l>
+               <milestone unit="folio" n="119r"/>
+               <l>Wela wylle watz þe way þer þay bi wod schulden,</l>
+               <l>Til hit watz sone sesoun þat þe sunne ryses</l>
+               <l rend="indent(4)">þat tyde.</l>
+               <l rend="indent(2)">Þay were on a hille ful hyȝe,</l>
+               <l rend="indent(2)">Þe quyte snaw lay bisyde;</l>
+               <pb n="58"/>
+               <l rend="indent(2)">Þe burne þat rod hym by</l>
+               <l rend="indent(2)">Bede his mayster abide.</l>
+            </lg>
+            <lg>
+               <l>'For I haf wonnen yow hider, wyȝe, at þis tyme,</l>
+               <l>And now nar ȝe not fer fro þat note place</l>
+               <l>Þat ȝe han spied and spuryed so specially after;</l>
+               <l>Bot I schal say yow for soþe, syþen I yow knowe,</l>
+               <l>And ȝe ar a lede vpon lyue þat I wel louy,</l>
+               <l>Wolde ȝe worch bi my wytte, ȝe worþed þe better.</l>
+               <l>Þe place þat ȝe prece to ful perelous is halden;</l>
+               <l>Þer wonez a wyȝe in þat waste, þe worst vpon erþe,</l>
+               <l>For he is stiffe and sturne, and to strike louies,</l>
+               <l>And more he is þen any mon vpon myddelerde,</l>
+               <l>And his body bigger þen þe best fowre</l>
+               <l>Þat ar in Arþurez hous, Hestor, oþer oþer.</l>
+               <l>He cheuez þat chaunce at þe chapel grene,</l>
+               <l>Þer passes non bi þat place so proude in his armes</l>
+               <l>Þat he ne dyngez hym to deþe with dynt of his honde;</l>
+               <l>For he is a mon methles, and mercy non vses,</l>
+               <l>For be hit chorle oþer chaplayn þat bi þe chapel rydes,</l>
+               <l>Monk oþer masseprest, oþer any mon elles,</l>
+               <l>Hym þynk as queme hym to quelle as quyk go hymseluen.</l>
+               <l>Forþy I say þe, as soþe as ȝe in sadel sitte,</l>
+               <l>Com ȝe þere, ȝe be kylled, may þe knyȝt rede,</l>
+               <l>Trawe ȝe me þat trwely, þaȝ ȝe had twenty lyues</l>
+               <l rend="indent(4)">to spende.</l>
+               <l rend="indent(2)">He hatz wonyd here ful ȝore,</l>
+               <l rend="indent(2)">On bent much baret bende,</l>
+               <l rend="indent(2)">Aȝayn his dyntez sore</l>
+               <l rend="indent(2)">Ȝe may not yow defende.</l>
+            </lg>
+            <lg>
+               <l>'Forþy, goude Sir Gawayn, let þe gome one,</l>
+               <l>And gotz away sum oþer gate, vpon Goddez halue!</l>
+               <l>Cayrez bi sum oþer kyth, þer Kryst mot yow spede,</l>
+               <l>And I schal hyȝ me hom aȝayn, and hete yow fyrre</l>
+               <milestone unit="folio" n="119v"/>
+               <l>Þat I schal swere bi God and alle his gode halȝez,</l>
+               <l>As help me God and þe halydam, and oþez innoghe,</l>
+               <l>Þat I schal lelly yow layne, and lance neuer tale</l>
+               <l>Þat euer ȝe fondet to fle for freke þat I wyst.'</l>
+               <pb n="59"/>
+               <l>'Grant merci', quoþ Gawayn, and gruchyng he sayde:</l>
+               <l>'Wel worth þe, wyȝe, þat woldez my gode,</l>
+               <l>And þat lelly me layne I leue wel þou woldez.</l>
+               <l>Bot helde þou hit neuer so holde, and I here passed,</l>
+               <l>Founded for ferde for to fle, in fourme þat þou tellez,</l>
+               <l>I were a knyȝt kowarde, I myȝt not be excused.</l>
+               <l>Bot I wyl to þe chapel, for chaunce þat may falle,</l>
+               <l>And talk wyth þat ilk tulk þe tale þat me lyste,</l>
+               <l>Worþe hit wele oþer wo, as þe wyrde lykez</l>
+               <l rend="indent(4)">hit hafe.</l>
+               <l rend="indent(2)">Þaȝe he be a sturn knape</l>
+               <l rend="indent(2)">To stiȝtel, and stad with staue,</l>
+               <l rend="indent(2)">Ful wel con Dryȝtyn schape</l>
+               <l rend="indent(2)">His seruauntez for to saue.'</l>
+            </lg>
+            <lg>
+               <l>'Mary!' quoþ þat oþer mon, 'now þou so much spellez,</l>
+               <l>Þat þou wylt þyn awen nye nyme to þyseluen,</l>
+               <l>And þe lyst lese þy lyf, þe lette I ne kepe.</l>
+               <l>Haf here þi helme on þy hede, þi spere in þi honde,</l>
+               <l>And ryde me doun þis ilk rake bi ȝon rokke syde,</l>
+               <l>Til þou be broȝt to þe boþem of þe brem valay;</l>
+               <l>Þenne loke a littel on þe launde, on þi lyfte honde,</l>
+               <l>And þou schal se in þat slade þe self chapel,</l>
+               <l>And þe borelych burne on bent þat hit kepez.</l>
+               <l>Now farez wel, on Godez half, Gawayn þe noble!</l>
+               <l>For alle þe golde vpon grounde I nolde go wyth þe,</l>
+               <l>Ne bere þe felaȝschip þurȝ þis fryth on fote fyrre.'</l>
+               <l>Bi þat þe wyȝe in þe wod wendez his brydel,</l>
+               <l>Hit þe hors with þe helez as harde as he myȝt,</l>
+               <l>Lepez hym ouer þe launde, and leuez þe knyȝt þere</l>
+               <l rend="indent(4)">al one.</l>
+               <l rend="indent(2)">'Bi Goddez self,' quoþ Gawayn,</l>
+               <l rend="indent(2)">'I wyl nauþer grete ne grone;</l>
+               <l rend="indent(2)">To Goddez wylle I am ful bayn,</l>
+               <l rend="indent(2)">And to hym I haf me tone.'</l>
+            </lg>
+            <lg>
+               <milestone unit="folio" n="120r"/>
+               <l>Thenne gyrdez he to Gryngolet, and gederez þe rake,</l>
+               <l>Schowuez in bi a schore at a schaȝe syde,</l>
+               <l>Ridez þurȝ þe roȝe bonk ryȝt to þe dale;</l>
+               <pb n="60"/>
+               <l>And þenne he wayted hym aboute, and wylde hit hym þoȝt,</l>
+               <l>And seȝe no syngne of resette bisydez nowhere,</l>
+               <l>Bot hyȝe bonkkez and brent vpon boþe halue,</l>
+               <l>And ruȝe knokled knarrez with knorned stonez;</l>
+               <l>Þe skwez of þe scowtes skayned hym þoȝt.</l>
+               <l>Þenne he houed, and wythhylde his hors at þat tyde,</l>
+               <l>And ofte chaunged his cher þe chapel to seche:</l>
+               <l>He seȝ non suche in no syde, and selly hym þoȝt,</l>
+               <l>Saue, a lyttel on a launde, a lawe as hit were;</l>
+               <l>A balȝ berȝ bi a bonke þe brymme bysyde,</l>
+               <l>Bi a forȝ of a flode þat ferked þare;</l>
+               <l>Þe borne blubred þerinne as hit boyled hade.</l>
+               <l>Þe knyȝt kachez his caple, and com to þe lawe,</l>
+               <l>Liȝtez doun luflyly, and at a lynde tachez</l>
+               <l>Þe rayne and his riche with a roȝe braunche.</l>
+               <l>Þenne he boȝez to þe berȝe, aboute hit he walkez,</l>
+               <l>Debatande with hymself quat hit be myȝt.</l>
+               <l>Hit hade a hole on þe ende and on ayþer syde,</l>
+               <l>And ouergrowen with gresse in glodes aywhere,</l>
+               <l>And al watz holȝ inwith, nobot an olde caue,</l>
+               <l>Or a creuisse of an olde cragge, he couþe hit noȝt deme</l>
+               <l rend="indent(4)">with spelle.</l>
+               <l rend="indent(2)">'We! Lorde,' quoþ þe gentyle knyȝt,</l>
+               <l rend="indent(2)">'Wheþer þis be þe grene chapelle?</l>
+               <l rend="indent(2)">Here myȝt aboute mydnyȝt</l>
+               <l rend="indent(2)">Þe dele his matynnes telle!</l>
+            </lg>
+            <lg>
+               <l>'Now iwysse,' quoþ Wowayn, 'wysty is here;</l>
+               <l>Þis oritore is vgly, with erbez ouergrowen;</l>
+               <l>Wel bisemez þe wyȝe wruxled in grene</l>
+               <l>Dele here his deuocioun on þe deuelez wyse.</l>
+               <l>Now I fele hit is þe fende, in my fyue wyttez,</l>
+               <l>Þat hatz stoken me þis steuen to strye me here.</l>
+               <l>Þis is a chapel of meschaunce, þat chekke hit bytyde!</l>
+               <l>Hit is þe corsedest kyrk þat euer I com inne!'</l>
+               <milestone unit="folio" n="120v"/>
+               <l>With heȝe helme on his hede, his launce in his honde,</l>
+               <l>He romez vp to þe roffe of þe roȝ wonez.</l>
+               <pb n="61"/>
+               <l>Þene herde he of þat hyȝe hil, in a harde roche</l>
+               <l>Biȝonde þe broke, in a bonk, a wonder breme noyse,</l>
+               <l>Quat! hit clatered in þe clyff, as hit cleue schulde,</l>
+               <l>As one vpon a gryndelston hade grounden a syþe.</l>
+               <l>What! hit wharred and whette, as water at a mulne;</l>
+               <l>What! hit rusched and ronge, rawþe to here.</l>
+               <l>Þenne 'Bi Godde,' quoþ Gawayn, 'þat gere, as I trowe,</l>
+               <l>Is ryched at þe reuerence me, renk, to mete</l>
+               <l rend="indent(4)">bi rote.</l>
+               <l rend="indent(2)">Let God worche! "We loo"--</l>
+               <l rend="indent(2)">Hit helppez me not a mote.</l>
+               <l rend="indent(2)">My lif þaȝ I forgoo,</l>
+               <l rend="indent(2)">Drede dotz me no lote.'</l>
+            </lg>
+            <lg>
+               <l>Thenne þe knyȝt con calle ful hyȝe:</l>
+               <l>'Who stiȝtlez in þis sted me steuen to holde?</l>
+               <l>For now is gode Gawayn goande ryȝt here.</l>
+               <l>If any wyȝe oȝt wyl, wynne hider fast,</l>
+               <l>Oþer now oþer neuer, his nedez to spede.'</l>
+               <l>'Abyde', quoþ on on þe bonke abouen ouer his hede,</l>
+               <l>'And þou schal haf al in hast þat I þe hyȝt ones.'</l>
+               <l>Ȝet he rusched on þat rurde rapely a þrowe.</l>
+               <l>And wyth quettyng awharf, er he wolde lyȝt;</l>
+               <l>And syþen he keuerez bi a cragge, and comez of a hole,</l>
+               <l>Whyrlande out of a wro wyth a felle weppen,</l>
+               <l>A denez ax nwe dyȝt, þe dynt with to ȝelde,</l>
+               <l>With a borelych bytte bende by þe halme,</l>
+               <l>Fyled in a fylor, fowre fote large--</l>
+               <l>Hit watz no lasse bi þat lace þat lemed ful bryȝt--</l>
+               <l>And þe gome in þe grene gered as fyrst,</l>
+               <l>Boþe þe lyre and þe leggez, lokkez and berde,</l>
+               <l>Saue þat fayre on his fote he foundez on þe erþe,</l>
+               <l>Sette þe stele to þe stone, and stalked bysyde.</l>
+               <l>When he wan to þe watter, þer he wade nolde,</l>
+               <l>He hypped ouer on hys ax, and orpedly strydez,</l>
+               <l>Bremly broþe on a bent þat brode watz aboute,</l>
+               <l rend="indent(4)">on snawe.</l>
+               <milestone unit="folio" n="121r"/>
+               <l rend="indent(2)">Sir Gawayn þe knyȝt con mete,</l>
+               <l rend="indent(2)">He ne lutte hym noþyng lowe;</l>
+               <pb n="62"/>
+               <l rend="indent(2)">Þat oþer sayde, 'Now, sir swete,</l>
+               <l rend="indent(2)">Of steuen mon may þe trowe.'</l>
+            </lg>
+            <lg>
+               <l>'Gawayn,' quoþ þat grene gome, 'God þe mot loke!</l>
+               <l>Iwysse þou art welcom, wyȝe, to my place,</l>
+               <l>And þou hatz tymed þi trauayl as truee mon schulde,</l>
+               <l>And þou knowez þe couenauntez kest vus bytwene:</l>
+               <l>At þis tyme twelmonyth þou toke þat þe falled,</l>
+               <l>And I schulde at þis Nwe Ȝere ȝeply þe quyte.</l>
+               <l>And we ar in þis valay verayly oure one;</l>
+               <l>Here ar no renkes vs to rydde, rele as vus likez.</l>
+               <l>Haf þy helme of þy hede, and haf here þy pay.</l>
+               <l>Busk no more debate þen I þe bede þenne</l>
+               <l>When þou wypped of my hede at a wap one.'</l>
+               <l>'Nay, bi God,' quoþ Gawayn, 'þat me gost lante,</l>
+               <l>I schal gruch þe no grwe for grem þat fallez.</l>
+               <l>Bot styȝtel þe vpon on strok, and I schal stonde stylle</l>
+               <l>And warp þe no wernyng to worch as þe lykez,</l>
+               <l rend="indent(4)">nowhare.'</l>
+               <l rend="indent(2)">He lened with þe nek, and lutte,</l>
+               <l rend="indent(2)">And schewed þat schyre al bare,</l>
+               <l rend="indent(2)">And lette as he noȝt dutte;</l>
+               <l rend="indent(2)">For drede he wolde not dare.</l>
+            </lg>
+            <lg>
+               <l>THEN þe gome in þe grene grayþed hym swyþe,</l>
+               <l>Gederez vp hys grymme tole Gawayn to smyte;</l>
+               <l>With alle þe bur in his body he ber hit on lofte,</l>
+               <l>Munt as maȝtyly as marre hym he wolde;</l>
+               <l>Hade hit dryuen adoun as dreȝ as he atled,</l>
+               <l>Þer hade ben ded of his dynt þat doȝty watz euer.</l>
+               <l>Bot Gawayn on þat giserne glyfte hym bysyde,</l>
+               <l>As hit com glydande adoun on glode hym to schende,</l>
+               <l>And schranke a lytel with þe schulderes for þe scharp yrne.</l>
+               <l>Þat oþer schalk wyth a schunt þe schene wythhaldez,</l>
+               <l>And þenne repreued he þe prynce with mony prowde wordez:</l>
+               <l>'Þou art not Gawayn,' quoþ þe gome, 'þat is so goud halden,</l>
+               <l>Þat neuer arȝed for no here by hylle ne be vale,</l>
+               <milestone unit="folio" n="121v"/>
+               <l>And now þou fles for ferde er þou fele harmez!</l>
+               <l>Such cowardise of þat knyȝt cowþe I neuer here.</l>
+               <pb n="63"/>
+               <l>Nawþer fyked I ne flaȝe, freke, quen þou myntest,</l>
+               <l>Ne kest no kauelacion in kyngez hous Arthor.</l>
+               <l>My hede flaȝ to my fote, and ȝet flaȝ I neuer;</l>
+               <l>And þou, er any harme hent, arȝez in hert;</l>
+               <l>Wherfore þe better burne me burde be called</l>
+               <l rend="indent(4)">þerfore.'</l>
+               <l rend="indent(2)">Quoþ Gawayn, 'I schunt onez,</l>
+               <l rend="indent(2)">And so wyl I no more;</l>
+               <l rend="indent(2)">Bot þaȝ my hede falle on þe stonez,</l>
+               <l rend="indent(2)">I con not hit restore.</l>
+            </lg>
+            <lg>
+               <l>'Bot busk, burne, bi þi fayth, and bryng me to þe poynt.</l>
+               <l>Dele to me my destiné, and do hit out of honde,</l>
+               <l>For I schal stonde þe a strok, and start no more</l>
+               <l>Til þyn ax haue me hitte: haf here my trawþe.'</l>
+               <l>'Haf at þe þenne!' quoþ þat oþer, and heuez hit alofte,</l>
+               <l>And waytez as wroþely as he wode were.</l>
+               <l>He myntez at hym maȝtyly, bot not þe mon rynez,</l>
+               <l>Withhelde heterly his honde, er hit hurt myȝt.</l>
+               <l>Gawayn grayþely hit bydez, and glent with no membre,</l>
+               <l>Bot stode stylle as þe ston, oþer a stubbe auþer</l>
+               <l>Þat raþeled is in roché grounde with rotez a hundreth.</l>
+               <l>Þen muryly efte con he mele, þe mon in þe grene:</l>
+               <l>'So, now þou hatz þi hert holle, hitte me bihous.</l>
+               <l>Halde þe now þe hyȝe hode þat Arþur þe raȝt,</l>
+               <l>And kepe þy kanel at þis kest, ȝif hit keuer may.'</l>
+               <l>Gawayn ful gryndelly with greme þenne sayde:</l>
+               <l>'Wy! þresch on, þou þro mon, þou þretez to longe;</l>
+               <l>I hope þat þi hert arȝe wyth þyn awen seluen.'</l>
+               <l>'For soþe,' quoþ þat oþer freke, 'so felly þou spekez,</l>
+               <l>I wyl no lenger on lyte lette þin ernde</l>
+               <l rend="indent(4)">riȝt nowe.'</l>
+               <l rend="indent(2)">Þenne tas he hym stryþe to stryke,</l>
+               <l rend="indent(2)">And frounsez boþe lyppe and browe;</l>
+               <l rend="indent(2)">No meruayle þaȝ hym myslyke</l>
+               <l rend="indent(2)">Þat hoped of no rescowe.</l>
+            </lg>
+            <lg>
+               <l>He lyftes lyȝtly his lome, and let hit doun fayre</l>
+               <milestone unit="folio" n="122r"/>
+               <l>With þe barbe of þe bitte bi þe bare nek;</l>
+               <pb n="64"/>
+               <l>Þaȝ he homered heterly, hurt hym no more</l>
+               <l>Bot snyrt hym on þat on syde, þat seuered þe hyde.</l>
+               <l>Þe scharp schrank to þe flesche þurȝ þe schyre grece,</l>
+               <l>Þat þe schene blod ouer his schulderes schot to þe erþe;</l>
+               <l>And quen þe burne seȝ þe blode blenk on þe snawe,</l>
+               <l>He sprit forth spenne-fote more þen a spere lenþe,</l>
+               <l>Hent heterly his helme, and on his hed cast,</l>
+               <l>Schot with his schulderez his fayre schelde vnder,</l>
+               <l>Braydez out a bryȝt sworde, and bremely he spekez--</l>
+               <l>Neuer syn þat he watz burne borne of his moder</l>
+               <l>Watz he neuer in þis worlde wyȝe half so blyþe--</l>
+               <l>'Blynne, burne, of þy bur, bede me no mo!</l>
+               <l>I haf a stroke in þis sted withoute stryf hent,</l>
+               <l>And if þow rechez me any mo, I redyly schal quyte,</l>
+               <l>And ȝelde ȝederly aȝayn--and þerto ȝe tryst--</l>
+               <l rend="indent(4)">and foo.</l>
+               <l rend="indent(2)">Bot on stroke here me fallez--</l>
+               <l rend="indent(2)">Þe couenaunt schop ryȝt so,</l>
+               <l rend="indent(2)">Fermed in Arþurez hallez--</l>
+               <l rend="indent(2)">And þerfore, hende, now hoo!'</l>
+            </lg>
+            <lg>
+               <l>The haþel heldet hym fro, and on his ax rested,</l>
+               <l>Sette þe schaft vpon schore, and to þe scharp lened,</l>
+               <l>And loked to þe leude þat on þe launde ȝede,</l>
+               <l>How þat doȝty, dredles, deruely þer stondez</l>
+               <l>Armed, ful aȝlez: in hert hit hym lykez.</l>
+               <l>Þenn he melez muryly wyth a much steuen,</l>
+               <l>And wyth a rynkande rurde he to þe renk sayde:</l>
+               <l>'Bolde burne, on þis bent be not so gryndel.</l>
+               <l>No mon here vnmanerly þe mysboden habbez,</l>
+               <l>Ne kyd bot as couenaunde at kyngez kort schaped.</l>
+               <l>I hyȝt þe a strok and þou hit hatz, halde þe wel payed;</l>
+               <l>I relece þe of þe remnaunt of ryȝtes alle oþer.</l>
+               <l>Iif I deliuer had bene, a boffet paraunter</l>
+               <l>I couþe wroþeloker haf waret, to þe haf wroȝt anger.</l>
+               <l>Fyrst I mansed þe muryly with a mynt one,</l>
+               <l>And roue þe wyth no rof-sore, with ryȝt I þe profered</l>
+               <milestone unit="folio" n="122v"/>
+               <pb n="65"/>
+               <l>For þe forwarde þat we fest in þe fyrst nyȝt,</l>
+               <l>And þou trystyly þe trawþe and trwly me haldez,</l>
+               <l>Al þe gayne þow me gef, as god mon schulde.</l>
+               <l>Þat oþer munt for þe morne, mon, I þe profered,</l>
+               <l>Þou kyssedes my clere wyf--þe cossez me raȝtez.</l>
+               <l>For boþe two here I þe bede bot two bare myntes</l>
+               <l rend="indent(4)">boute scaþe.</l>
+               <l rend="indent(2)">Trwe mon trwe restore,</l>
+               <l rend="indent(2)">Þenne þar mon drede no waþe.</l>
+               <l rend="indent(2)">At þe þrid þou fayled þore,</l>
+               <l rend="indent(2)">And þerfor þat tappe ta þe.</l>
+            </lg>
+            <lg>
+               <l>'For hit is my wede þat þou werez, þat ilke wouen girdel,</l>
+               <l>Myn owen wyf hit þe weued, I wot wel for soþe.</l>
+               <l>Now know I wel þy cosses, and þy costes als,</l>
+               <l>And þe wowyng of my wyf: I wroȝt hit myseluen.</l>
+               <l>I sende hir to asay þe, and sothly me þynkkez</l>
+               <l>On þe fautlest freke þat euer on fote ȝede;</l>
+               <l>As perle bi þe quite pese is of prys more,</l>
+               <l>So is Gawayn, in god fayth, bi oþer gay knyȝtez.</l>
+               <l>Bot here yow lakked a lyttel, sir, and lewté yow wonted;</l>
+               <l>Bot þat watz for no wylyde werke, ne wowyng nauþer,</l>
+               <l>Bot for ȝe lufed your lyf; þe lasse I yow blame.'</l>
+               <l>Þat oþer stif mon in study stod a gret whyle,</l>
+               <l>So agreued for greme he gryed withinne;</l>
+               <l>Alle þe blode of his brest blende in his face,</l>
+               <l>Þat al he schrank for schome þat þe schalk talked.</l>
+               <l>Þe forme worde vpon folde þat þe freke meled:</l>
+               <l>'Corsed worth cowarddyse and couetyse boþe!</l>
+               <l>In yow is vylany and vyse þat vertue disstryez.'</l>
+               <l>Þenne he kaȝt to þe knot, and þe kest lawsez,</l>
+               <l>Brayde broþely þe belt to þe burne seluen:</l>
+               <l>'Lo! þer þe falssyng, foule mot hit falle!</l>
+               <l>For care of þy knokke cowardyse me taȝt</l>
+               <l>To acorde me with couetyse, my kynde to forsake,</l>
+               <l>Þat is larges and lewté þat longez to knyȝtez.</l>
+               <l>Now am I fawty and falce, and ferde haf ben euer</l>
+               <l>Of trecherye and vntrawþe: boþe bityde sorȝe</l>
+               <l rend="indent(4)">and care!</l>
+               <milestone unit="folio" n="123r"/>
+               <pb n="66"/>
+               <l rend="indent(2)">I biknowe yow, knyȝt, here stylle,</l>
+               <l rend="indent(2)">Al fawty is my fare;</l>
+               <l rend="indent(2)">Letez me ouertake your wylle</l>
+               <l rend="indent(2)">And efte I schal be ware.'</l>
+            </lg>
+            <lg>
+               <l>Thenn loȝe þat oþer leude and luflyly sayde:</l>
+               <l>'I halde hit hardily hole, þe harme þat I hade.</l>
+               <l>Þou art confessed so clene, beknowen of þy mysses,</l>
+               <l>And hatz þe penaunce apert of þe poynt of myn egge,</l>
+               <l>I halde þe polysed of þat plyȝt, and pured as clene</l>
+               <l>As þou hadez neuer forfeted syþen þou watz fyrst borne;</l>
+               <l>And I gif þe, sir, þe gurdel þat is golde-hemmed,</l>
+               <l>For hit is grene as my goune. Sir Gawayn, ȝe maye</l>
+               <l>Þenk vpon þis ilke þrepe, þer þou forth þryngez</l>
+               <l>Among prynces of prys, and þis a pure token</l>
+               <l>Of þe chaunce of þe grene chapel at cheualrous knyȝtez.</l>
+               <l>And ȝe schal in þis Nwe Ȝer aȝayn to my wonez,</l>
+               <l>And we schyn reuel þe remnaunt of þis ryche fest</l>
+               <l rend="indent(4)">ful bene.'</l>
+               <l rend="indent(2)">Þer laþed hym fast þe lorde</l>
+               <l rend="indent(2)">And sayde: 'With my wyf, I wene,</l>
+               <l rend="indent(2)">We schal yow wel acorde,</l>
+               <l rend="indent(2)">Þat watz your enmy kene.'</l>
+            </lg>
+            <lg>
+               <l>'Nay, for soþe,' quoþ þe segge, and sesed hys helme,</l>
+               <l>And hatz hit of hendely, and þe haþel þonkkez,</l>
+               <l>'I haf soiorned sadly; sele yow bytyde,</l>
+               <l>And he ȝelde hit yow ȝare þat ȝarkkez al menskes!</l>
+               <l>And comaundez me to þat cortays, your comlych fere,</l>
+               <l>Boþe þat on and þat oþer, myn honoured ladyez,</l>
+               <l>Þat þus hor knyȝt wyth hor kest han koyntly bigyled.</l>
+               <l>Bot hit is no ferly þaȝ a fole madde,</l>
+               <l>And þurȝ wyles of wymmen be wonen to sorȝe,</l>
+               <l>For so watz Adam in erde with one bygyled,</l>
+               <l>And Salamon with fele sere, and Samson eftsonez--</l>
+               <l>Dalyda dalt hym hys wyrde--and Dauyth þerafter</l>
+               <l>Watz blended with Barsabe, þat much bale þoled.</l>
+               <l>Now þese were wrathed wyth her wyles, hit were a wynne huge</l>
+               <pb n="67"/>
+               <l>To luf hom wel, and leue hem not, a leude þat couþe.</l>
+               <milestone unit="folio" n="123v"/>
+               <l>For þes wer forne þe freest, þat folȝed alle þe sele</l>
+               <l>Exellently of alle þyse oþer, vnder heuenryche</l>
+               <l rend="indent(4)">þat mused;</l>
+               <l rend="indent(2)">And alle þay were biwyled</l>
+               <l rend="indent(2)">With wymmen þat þay vsed.</l>
+               <l rend="indent(2)">Þaȝ I be now bigyled,</l>
+               <l rend="indent(2)">Me þink me burde be excused.</l>
+            </lg>
+            <lg>
+               <l>'Bot your gordel', quoþ Gawayn, 'God yow forȝelde!</l>
+               <l>Þat wyl I welde wyth guod wylle, not for þe wynne golde,</l>
+               <l>Ne þe saynt, ne þe sylk, ne þe syde pendaundes,</l>
+               <l>For wele ne for worchyp, ne for þe wlonk werkkez,</l>
+               <l>Bot in syngne of my surfet I schal se hit ofte,</l>
+               <l>When I ride in renoun, remorde to myseluen</l>
+               <l>Þe faut and þe fayntyse of þe flesche crabbed,</l>
+               <l>How tender hit is to entyse teches of fylþe;</l>
+               <l>And þus, quen pryde schal me pryk for prowes of armes,</l>
+               <l>Þe loke to þis luf-lace schal leþe my hert.</l>
+               <l>Bot on I wolde yow pray, displeses yow neuer:</l>
+               <l>Syn ȝe be lorde of þe ȝonder londe þer I haf lent inne</l>
+               <l>Wyth yow wyth worschyp--þe wyȝe hit yow ȝelde</l>
+               <l>Þat vphaldez þe heuen and on hyȝ sittez--</l>
+               <l>How norne ȝe yowre ryȝt nome, and þenne no more?'</l>
+               <l>'Þat schal I telle þe trwly,' quoþ þat oþer þenne,</l>
+               <l>'Bertilak de Hautdesert I hat in þis londe.</l>
+               <l>Þurȝ myȝt of Morgne la Faye, þat in my hous lenges,</l>
+               <l>And koyntyse of clergye, bi craftes wel lerned,</l>
+               <l>Þe maystrés of Merlyn mony hatz taken--</l>
+               <l>For ho hatz dalt drwry ful dere sumtyme</l>
+               <l>With þat conable klerk, þat knowes alle your knyȝtez</l>
+               <l rend="indent(4)">at hame;</l>
+               <l rend="indent(2)">Morgne þe goddes</l>
+               <l rend="indent(2)">Þerfore hit is hir name:</l>
+               <l rend="indent(2)">Weldez non so hyȝe hawtesse</l>
+               <l rend="indent(2)">Þat ho ne con make ful tame--</l>
+            </lg>
+            <lg>
+               <l>'Ho wayned me vpon þis wyse to your wynne halle</l>
+               <l>For to assay þe surquidré, ȝif hit soth were</l>
+               <pb n="68"/>
+               <l>Þat rennes of þe grete renoun of þe Rounde Table;</l>
+               <l>Ho wayned me þis wonder your wyttez to reue,</l>
+               <milestone unit="folio" n="124r"/>
+               <l>For to haf greued Gaynour and gart hir to dyȝe</l>
+               <l>With glopnyng of þat ilke gome þat gostlych speked</l>
+               <l>With his hede in his honde bifore þe hyȝe table.</l>
+               <l>Þat is ho þat is at home, þe auncian lady;</l>
+               <l>Ho is euen þyn aunt, Arþurez half-suster,</l>
+               <l>Þe duches doȝter of Tyntagelle, þat dere Vter after</l>
+               <l>Hade Arþur vpon, þat aþel is nowþe.</l>
+               <l>Þerfore I eþe þe, haþel, to com to þyn aunt,</l>
+               <l>Make myry in my hous; my meny þe louies,</l>
+               <l>And I wol þe as wel, wyȝe, bi my faythe,</l>
+               <l>As any gome vnder God for þy grete trauþe.'</l>
+               <l>And he nikked hym naye, he nolde bi no wayes.</l>
+               <l>Þay acolen and kyssen and kennen ayþer oþer</l>
+               <l>To þe prynce of paradise, and parten ryȝt þere</l>
+               <l rend="indent(4)">on coolde;</l>
+               <l rend="indent(2)">Gawayn on blonk ful bene</l>
+               <l rend="indent(2)">To þe knygez burȝ buskez bolde,</l>
+               <l rend="indent(2)">And þe knyȝt in þe enker-grene</l>
+               <l rend="indent(2)">Whiderwarde-so-euer he wolde.</l>
+            </lg>
+            <lg>
+               <l>Wylde wayez in þe worlde Wowen now rydez</l>
+               <l>On Gryngolet, þat þe grace hade geten of his lyue;</l>
+               <l>Ofte he herbered in house and ofte al þeroute,</l>
+               <l>And mony aventure in vale, and venquyst ofte,</l>
+               <l>Þat I ne tyȝt at þis tyme in tale to remene.</l>
+               <l>Þe hurt watz hole þat he hade hent in his nek,</l>
+               <l>And þe blykkande belt he bere þeraboute</l>
+               <l>Abelef as a bauderyk bounden bi his syde,</l>
+               <l>Loken vnder his lyfte arme, þe lace, with a knot,</l>
+               <l>In tokenyng he watz tane in tech of a faute.</l>
+               <l>And þus he commes to þe court, knyȝt al in sounde.</l>
+               <l>Þer wakned wele in þat wone when wyst þe grete</l>
+               <l>Þat gode Gawayn watz commen; gayn hit hym þoȝt.</l>
+               <l>Þe kyng kyssez þe knyȝt, and þe whene alce,</l>
+               <l>And syþen mony syker knyȝt þat soȝt hym to haylce,</l>
+               <l>Of his fare þat hym frayned; and ferlyly he telles,</l>
+               <pb n="69"/>
+               <l>Biknowez alle þe costes of care þat he hade,</l>
+               <l>Þe chaunce of þe chapel, þe chere of þe knyȝt,</l>
+               <milestone unit="folio" n="124v"/>
+               <l>Þe luf of þe ladi, þe lace at þe last.</l>
+               <l>Þe nirt in þe nek he naked hem schewed</l>
+               <l>Þat he laȝt for his vnleuté at þe leudes hondes</l>
+               <l rend="indent(4)">for blame.</l>
+               <l rend="indent(2)">He tened quen he schulde telle,</l>
+               <l rend="indent(2)">He groned for gref and grame;</l>
+               <l rend="indent(2)">Þe blod in his face con melle,</l>
+               <l rend="indent(2)">When he hit schulde schewe, for schame.</l>
+            </lg>
+            <lg>
+               <l>'Lo! lorde,' quoþ þe leude, and þe lace hondeled,</l>
+               <l>'Þis is þe bende of þis blame I bere in my nek,</l>
+               <l>Þis is þe laþe and þe losse þat I laȝt haue</l>
+               <l>Of couardise and couetyse þat I haf caȝt þare;</l>
+               <l>Þis is þe token of vntrawþe þat I am tan inne,</l>
+               <l>And I mot nedez hit were wyle I may last;</l>
+               <l>For mon may hyden his harme, bot vnhap ne may hit,</l>
+               <l>For þer hit onez is tachched twynne wil hit neuer.'</l>
+               <l>Þe kyng comfortez þe knyȝt, and alle þe court als</l>
+               <l>Laȝen loude þerat, and luflyly acorden</l>
+               <l>Þat lordes and ladis þat longed to þe Table,</l>
+               <l>Vche burne of þe broþerhede, a bauderyk schulde haue,</l>
+               <l>A bende abelef hym aboute of a bryȝt grene,</l>
+               <l>And þat, for sake of þat segge, in swete to were.</l>
+               <l>For þat watz acorded þe renoun of þe Rounde Table,</l>
+               <l>And he honoured þat hit hade euermore after,</l>
+               <l>As hit is breued in þe best boke of romaunce.</l>
+               <l>Þus in Arthurus day þis aunter bitidde,</l>
+               <l>Þe Brutus bokez þerof beres wyttenesse;</l>
+               <l>Syphen Brutus, þe bolde burne, boȝed hider fyrst,</l>
+               <l>After þe segge and þe asaute watz sesed at Troye,</l>
+               <l rend="indent(4)">iwysse,</l>
+               <l rend="indent(2)">Mony aunterez here-biforne</l>
+               <l rend="indent(2)">Haf fallen suche er þis.</l>
+               <l rend="indent(2)">Now þat here þe croun of þorne,</l>
+               <l rend="indent(2)">He bryng vus to his blysse!  AMEN.</l>
+            </lg>
+            <l>HONY SOYT QUI MAL PENCE.</l>
+         </div>
+      </body>
+  </text>
+</TEI>
