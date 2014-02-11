@@ -1,0 +1,15 @@
+start = romance
+romance = element romance { body }
+body = element body { /div+ }
+/div = element /div { type, lg+, bw }
+type = attribute type { text }
+lg = element lg { l+ }
+l = element l { mixed {(rs | sp )*}
+bw = element bw { mixed ( {rs | sp )*}
+rs = element type {type, text}
+type = attribute type { text }
+sp = element sp { who, text }
+who = attribute who { text }
+
+
+
