@@ -159,7 +159,7 @@
                An oþer noyse ful newe neȝed biliue,<lb/>
                Þat þe lude myȝt haf leue liflode to cach;<lb/>
                <pb n="5"/>
-               <ref type="folktale" locale="Irish" name="Bricriu's Feast">For vneþe watz þe noyce not a whyle sesed,<lb/>
+               <ref type="folklore" locale="Irish" name="Bricriu's Feast">For vneþe watz þe noyce not a whyle sesed,<lb/>
                And þe fyrst cource in þe court kyndely serued,<lb/>
                Þer hales in at þe halle dor an aghlich mayster,<lb/>
                On þe most on þe molde on mesure hyghe;<lb/>
@@ -1288,7 +1288,7 @@
          <div rend="linenumber">
             <head>III</head>
             <lg>
-               Ful erly bifore þe day þe folk vprysen,<lb/>
+               <speaker narrator="omniscient">Ful erly bifore þe day þe folk vprysen,<lb/>
                Gestes þat go wolde hor gromez þay calden,<lb/>
                And þay busken vp bilyue blonkkez to sadel,<lb/>
                <pb n="32"/>
@@ -1298,7 +1298,7 @@
                Vche wyȝe on his way þer hym wel lyked.<lb/>
                Þe leue lorde of þe londe watz not þe last<lb/>
                Arayed for þe rydyng, with renkkez ful mony;<lb/>
-               Ete a sop hastyly, when he hade herde masse,<lb/>
+               Ete a sop hastyly, when he hade herde <ref type="religious" religion="Christianity">masse</ref>,<lb/>
                With bugle to bent-felde he buskez bylyue.<lb/>
                By þat any daylyȝt lemed vpon erþe<lb/>
                He with his haþeles on hyȝe horsses weren.<lb/>
@@ -1307,28 +1307,28 @@
                Blwe bygly in buglez þre bare mote;<lb/>
                Braches bayed þerfore and breme noyse maked;<lb/>
                And þay chastysed and charred on chasyng þat went,<lb/>
-               A hundreth of hunteres, as I haf herde telle,<lb/>
-               of þe best.<lb/>
+               <speaker narrator="poet">A hundreth of hunteres, as I haf herde telle,<lb/>
+               of þe best.</speaker><lb/>
                To trystors vewters ȝod,<lb/>
                Couples huntes of kest;<lb/>
                <milestone unit="folio" n="106v"/>
                Þer ros for blastez gode<lb/>
-               Gret rurd in þat forest.<lb/>
+               Gret rurd in þat forest.</speaker><lb/>
             </lg>
             <lg>
-               At þe fyrst quethe of þe quest quaked þe wylde;<lb/>
-               Der drof in þe dale, doted for drede,<lb/>
+               <speaker narrator="omniscient">At þe fyrst quethe of þe quest quaked þe wylde;<lb/>
+               <ref type="nature" fauna="deer">Der</ref> drof in þe dale, doted for drede,<lb/>
                Hiȝed to þe hyȝe, bot heterly þay were<lb/>
                Restayed with þe stablye, þat stoutly ascryed.<lb/>
-               Þay let þe herttez haf þe gate, with þe hyȝe hedes,<lb/>
-               Þe breme bukkez also with hor brode paumez;<lb/>
+               Þay let þe <ref type="nature" fauna="hart">herttez</ref> haf þe gate, with þe hyȝe hedes,<lb/>
+               Þe breme <ref type="nature" fauna="buck">bukkez</ref> also with hor brode paumez;<lb/>
                For þe fre lorde hade defende in fermysoun tyme<lb/>
                Þat þer schulde no mon meue to þe male dere.<lb/>
-               Þe hindez were halden in with hay! and war!<lb/>
+               Þe <ref type="nature" fauna="hind">hindez</ref> were halden in with hay! and war!<lb/>
                Þe does dryuen with gret dyn to þe depe sladez;<lb/>
                Þer myȝt mon se, as þay slypte, slentyng of arwes--<lb/>
                At vche wende vnder wande wapped a flone--<lb/>
-               Þat bigly bote on þe broun with ful brode hedez.<lb/>
+               Þat bigly bote on þe <ref type="color" shade="brown">broun</ref> with ful brode hedez.<lb/>
                What! þay brayen, and bleden, bi bonkkez þay deȝen,<lb/>
                And ay rachches in a res radly hem folȝes,<lb/>
                Hunterez wyth hyȝe horne hasted hem after<lb/>
@@ -1336,18 +1336,18 @@
                <pb n="33"/>
                What wylde so atwaped wyȝes þat schotten<lb/>
                Watz al toraced and rent at þe resayt,<lb/>
-               Bi þay were tened at þe hyȝe and taysed to þe wattrez;<lb/>
-               Þe ledez were so lerned at þe loȝe trysteres,<lb/>
+               Bi þay were tened at þe hyȝe and taysed to þe wattrez;</speaker><lb/>
+               <speaker narrator="poet">Þe ledez were so lerned at þe loȝe trysteres,<lb/>
                And þe grehoundez so grete, þat geten hem bylyue<lb/>
                And hem tofylched, as fast as frekez myȝt loke,<lb/>
-               þer-ryȝt.<lb/>
-               Þe lorde for blys abloy<lb/>
+               þer-ryȝt</speaker>.<lb/>
+              <speaker narrator="omniscient"> Þe lorde for blys abloy<lb/>
                Ful oft con launce and lyȝt,<lb/>
                And drof þat day wyth joy<lb/>
-               Thus to þe derk nyȝt.<lb/>
+               Thus to þe derk nyȝt.</speaker><lb/>
             </lg>
             <lg>
-               Þus laykez þis lorde by lynde-wodez euez,<lb/>
+               <speaker narrator="omniscient">Þus laykez þis lorde by <ref type="nature" flora="linden">lynde-wodez</ref> euez,<lb/>
                And Gawayn þe god mon in gay bed lygez,<lb/>
                Lurkkez quyl þe daylyȝt lemed on þe wowes,<lb/>
                Vnder couertour ful clere, cortyned aboute;<lb/>
@@ -1357,7 +1357,7 @@
                <milestone unit="folio" n="107r"/>
                A corner of þe cortyn he caȝt vp a lyttel,<lb/>
                And waytez warly þiderwarde quat hit be myȝt.<lb/>
-               Hit watz þe ladi, loflyest to beholde,<lb/>
+               <ref type="chivalry" moral="courtesy|hostDuty|duty|courtlyLove">Hit watz þe ladi, loflyest to beholde,<lb/>
                Þat droȝ þe dor after hir ful dernly and stylle,<lb/>
                And boȝed towarde þe bed; and þe burne schamed,<lb/>
                And layde hym doun lystyly, and let as he slepte;<lb/>
@@ -1367,25 +1367,25 @@
                And lenged þere selly longe to loke quen he wakened.<lb/>
                Þe lede lay lurked a ful longe quyle,<lb/>
                Compast in his concience to quat þat cace myȝt<lb/>
-               Meue oþer amount--to meruayle hym þoȝt,<lb/>
-               Bot ȝet he sayde in hymself, 'More semly hit were<lb/>
-               To aspye wyth my spelle in space quat ho wolde.'<lb/>
-               Þen he wakenede, and wroth, and to hir warde torned,<lb/>
+                  Meue oþer amount--to meruayle hym þoȝt,</ref></speaker><lb/>
+               <speaker narrator="character" id="Gawain">Bot ȝet he sayde in hymself, 'More semly hit were<lb/>
+               To aspye wyth my spelle in space quat ho wolde.'</speaker><lb/>
+               <speaker narrator="omniscient">Þen he wakenede, and wroth, and to hir warde torned,<lb/>
                And vnlouked his yȝe-lyddez, and let as hym wondered,<lb/>
                And sayned hym, as bi his saȝe þe sauer to worthe,<lb/>
                with hande.<lb/>
                <pb n="34"/>
                Wyth chynne and cheke ful swete,<lb/>
-               Boþe quit and red in blande,<lb/>
+               Boþe <ref type="color" shade="white">quit</ref> and <ref type="color" shade="red">red</ref> in blande,<lb/>
                Ful lufly con ho lete<lb/>
-               Wyth lyppez smal laȝande.<lb/>
+               Wyth lyppez smal laȝande.</speaker><lb/>
             </lg>
             <lg>
-               'God moroun, Sir Gawayn,' sayde þat gay lady,<lb/>
+               <speaker narrator="character" id="Lady Bertilak">'God moroun, Sir Gawayn,' sayde þat gay lady,<lb/>
                'Ȝe ar a sleper vnslyȝe, þat mon may slyde hider;<lb/>
                Now ar ȝe tan as-tyt! Bot true vus may schape,<lb/>
-               I schal bynde yow in your bedde, þat be ȝe trayst':<lb/>
-               Al laȝande þe lady lanced þo bourdez.<lb/>
+               I schal bynde yow in your bedde, þat be ȝe trayst':</speaker><lb/>
+               <speaker narrator="character" id="Gawain"><ref type="chivalry" moral="courtesy|hostDuty|guestRight|manners|courtlyLove">Al laȝande þe lady lanced þo bourdez.<lb/>
                'Goud moroun, gay,' quoþ Gawayn þe blyþe,<lb/>
                'Me schal worþe at your wille, and þat me wel lykez,<lb/>
                For I ȝelde me ȝederly, and ȝeȝe after grace,<lb/>
@@ -1394,9 +1394,9 @@
                'Bot wolde ȝe, lady louely, þen leue me grante,<lb/>
                And deprece your prysoun, and pray hym to ryse,<lb/>
                I wolde boȝe of þis bed, and busk me better;<lb/>
-               I schulde keuer þe more comfort to karp yow wyth.'<lb/>
+               I schulde keuer þe more comfort to karp yow wyth.'</ref></speaker><lb/>
                <milestone unit="folio" n="107v"/>
-               'Nay for soþe, beau sir,' sayd þat swete,<lb/>
+               <speaker narrator="character" id="Lady Bertilak"><ref type="chivalry" moral="courtesy|hostDuty|guestRight|manners|courtlyLove">'Nay for soþe, beau sir,' sayd þat swete,<lb/>
                'Ȝe schal not rise of your bedde, I rych yow better,<lb/>
                I schal happe yow here þat oþer half als,<lb/>
                And syþen karp wyth my knyȝt þat I kaȝt haue;<lb/>
@@ -1414,18 +1414,18 @@
                Ȝe ar welcum to my cors,<lb/>
                Yowre awen won to wale,<lb/>
                Me behouez of fyne force<lb/>
-               Your seruaunt be, and schale.'<lb/>
+               Your seruaunt be, and schale.'</ref></speaker><lb/>
             </lg>
             <lg>
                <pb n="35"/>
-               'In god fayth,' quoþ Gawayn, 'gayn hit me þynkkez,<lb/>
+               <speaker narrator="character" id="Gawain"><ref type="chivalry" moral="courtesy|hostDuty|guestRight|modesty|courtlyLove">'In god fayth,' quoþ Gawayn, 'gayn hit me þynkkez,<lb/>
                Þaȝ I be not now he þat ȝe of speken;<lb/>
                To reche to such reuerence as ȝe reherce here<lb/>
                I am wyȝe vnworþy, I wot wel myseluen.<lb/>
                Bi God, I were glad, and yow god þoȝt,<lb/>
                At saȝe oþer at seruyce þat I sette myȝt<lb/>
-               To þe plesaunce of your prys--hit were a pure ioye.'<lb/>
-               'In god fayth, Sir Gawayn,' quoþ þe gay lady,<lb/>
+               To þe plesaunce of your prys--hit were a pure ioye.'</ref></speaker><lb/>
+               <speaker narrator="character" id="Lady Bertilak">'In god fayth, Sir Gawayn,' quoþ þe gay lady,<lb/>
                'Þe prys and þe prowes þat plesez al oþer,<lb/>
                If I hit lakked oþer set at lyȝt, hit were littel daynté;<lb/>
                Bot hit ar ladyes innoȝe þat leuer wer nowþe<lb/>
@@ -1433,35 +1433,35 @@
                To daly with derely your daynté wordez,<lb/>
                Keuer hem comfort and colen her carez,<lb/>
                Þen much of þe garysoun oþer golde þat þay hauen.<lb/>
-               Bot I louue þat ilk lorde þat þe lyfte haldez,<lb/>
+               <ref type="religious" religion="Christianity">Bot I louue þat ilk lorde þat þe lyfte haldez,<lb/>
                I haf hit holly in my honde þat al desyres,<lb/>
-               þurȝe grace.'<lb/>
-               Scho made hym so gret chere,<lb/>
+               þurȝe grace.'</ref></speaker><lb/>
+               <speaker narrator="omniscient">Scho made hym so gret chere,<lb/>
                <milestone unit="folio" n="108r"/>
                Þat watz so fayr of face,<lb/>
                Þe knyȝt with speches skere<lb/>
-               Answared to vche a cace.<lb/>
+               Answared to vche a cace.</speaker><lb/>
             </lg>
             <lg>
-               'Madame,' quoþ þe myry mon, 'Mary yow ȝelde,<lb/>
+               <speaker narrator="character" id="Gawain"><ref type="chivalry" moral="courtesy|manners">'Madame,' quoþ þe myry mon, '<ref type="figure" properName="Mary">Mary</ref> yow ȝelde,<lb/>
                For I haf founden, in god fayth, yowre fraunchis nobele,<lb/>
                And oþer ful much of oþer folk fongen bi hor dedez,<lb/>
                Bot þe daynté þat þay delen, for my disert nys euen,<lb/>
-               Hit is þe worchyp of yourself, þat noȝt bot wel connez.'<lb/>
-               'Bi Mary,' quoþ þe menskful, 'me þynk hit an oþer;<lb/>
+               Hit is þe worchyp of yourself, þat noȝt bot wel connez.'</ref></speaker><lb/>
+               <speaker narrator="character" id="Lady Bertilak"><ref type="figure" properName="Mary">'Bi Mary,'</ref> quoþ þe menskful, 'me þynk hit an oþer;<lb/>
                For were I worth al þe wone of wymmen alyue,<lb/>
                And al þe wele of þe worlde were in my honde,<lb/>
                And I schulde chepen and chose to cheue me a lorde,<lb/>
                For þe costes þat I haf knowen vpon þe, knyȝt, here,<lb/>
                Of bewté and debonerté and blyþe semblaunt,<lb/>
                And þat I haf er herkkened and halde hit here trwee,<lb/>
-               Þer schulde no freke vpon folde bifore yow be chosen.'<lb/>
-               'Iwysse, worþy,' quoþ þe wyȝe, 'ȝe haf waled wel better,<lb/>
+               Þer schulde no freke vpon folde bifore yow be chosen.'</speaker><lb/>
+               <speaker narrator="character" id="Gawain"><ref type="chivalry" moral="courtesy|courtlyLove">'Iwysse, worþy,' quoþ þe wyȝe, 'ȝe haf waled wel better,<lb/>
                Bot I am proude of þe prys þat ȝe put on me,<lb/>
                And, soberly your seruaunt, my souerayn I holde yow,<lb/>
                <pb n="36"/>
-               And yowre knyȝt I becom, and Kryst yow forȝelde.'<lb/>
-               Þus þay meled of muchquat til mydmorn paste,<lb/>
+               And yowre knyȝt I becom, and <ref type="religious" religion="Christianity">Kryst</ref> yow forȝelde.'</ref></speaker><lb/>
+               <speaker narrator="omniscient">Þus þay meled of muchquat til mydmorn paste,<lb/>
                And ay þe lady let lyk as hym loued mych;<lb/>
                Þe freke ferde with defence, and feted ful fayre--<lb/>
                'Þaȝ I were burde bryȝtest', þe burde in mynde hade.<lb/>
@@ -1470,32 +1470,32 @@
                Þe dunte þat schulde hym deue,<lb/>
                And nedez hit most be done.<lb/>
                Þe lady þenn spek of leue,<lb/>
-               He granted hir ful sone.<lb/>
+                  He granted hir ful sone.</speaker><lb/>
             </lg>
             <lg>
-               Þenne ho gef hym god day, and wyth a glent laȝed,<lb/>
+               <speaker narrator="character" id="Lady Bertilak">Þenne ho gef hym god day, and wyth a glent laȝed,<lb/>
                And as ho stod, ho stonyed hym wyth ful stor wordez:<lb/>
                'Now he þat spedez vche spech þis disport ȝelde yow!<lb/>
-               Bot þat ȝe be Gawan, hit gotz in mynde.'<lb/>
-               'Querfore?' quoþ þe freke, and freschly he askez,<lb/>
+               Bot þat ȝe be Gawan, hit gotz in mynde.'</speaker><lb/>
+               <speaker narrator="character" id="Gawain"><ref type="chivalry" moral="courtesy|hostDuty|guestRight|manners">'Querfore?' quoþ þe freke, and freschly he askez,<lb/>
                Ferde lest he hade fayled in fourme of his castes;<lb/>
-               Bot þe burde hym blessed, and 'Bi þis skyl' sayde:<lb/>
+               Bot þe burde hym blessed, and 'Bi þis skyl' sayde:</ref></speaker><lb/>
                <milestone unit="folio" n="108v"/>
-               'So god as Gawayn gaynly is halden,<lb/>
+               <speaker narrator="character" id="Lady Bertilak">'So god as Gawayn gaynly is halden,<lb/>
                And cortaysye is closed so clene in hymseluen,<lb/>
                Couth not lyȝtly haf lenged so long wyth a lady,<lb/>
                Bot he had craued a cosse, bi his courtaysye,<lb/>
-               Bi sum towch of summe tryfle at sum talez ende.'<lb/>
-               Þen quoþ Wowen: 'Iwysse, worþe as yow lykez;<lb/>
+               Bi sum towch of summe tryfle at sum talez ende.'</speaker><lb/>
+               <speaker narrator="character" id="Gawain"><ref type="chivalry" moral="courtesy|courtlyLove">Þen quoþ Wowen: 'Iwysse, worþe as yow lykez;<lb/>
                I schal kysse at your comaundement, as a knyȝt fallez,<lb/>
-               And fire, lest he displese yow, so plede hit no more.'<lb/>
-               Ho comes nerre with þat, and cachez hym in armez,<lb/>
+               And fire, lest he displese yow, so plede hit no more.'</ref></speaker><lb/>
+               <speaker narrator="omniscient">Ho comes nerre with þat, and cachez hym in armez,<lb/>
                Loutez luflych adoun and þe leude kyssez.<lb/>
-               Þay comly bykennen to Kryst ayþer oþer;<lb/>
+               <ref type="religious" religion="Christianity">Þay comly bykennen to Kryst ayþer oþer;<lb/>
                Ho dos hir forth at þe dore withouten dyn more;<lb/>
                And he ryches hym to ryse and rapes hym sone,<lb/>
                Clepes to his chamberlayn, choses his wede,<lb/>
-               Boȝez forth, quen he watz boun, blyþely to masse;<lb/>
+               Boȝez forth, quen he watz boun, blyþely to masse;</ref><lb/>
                And þenne he meued to his mete þat menskly hym keped,<lb/>
                And made myry al day, til þe mone rysed,<lb/>
                with game.<lb/>
@@ -1503,23 +1503,23 @@
                Bitwene two so dyngne dame,<lb/>
                <pb n="37"/>
                Þe alder and þe ȝonge;<lb/>
-               Much solace set þay same.<lb/>
+               Much solace set þay same.</speaker><lb/>
             </lg>
             <lg>
-               And ay þe lorde of þe londe is lent on his gamnez,<lb/>
-               To hunt in holtez and heþe at hyndez barayne;<lb/>
+               <speaker narrator="omniscient">And ay þe lorde of þe londe is lent on his gamnez,<lb/>
+               To hunt in holtez and heþe at <ref type="nature" fauna="hind">hyndez</ref> barayne;<lb/>
                Such a sowme he þer slowe bi þat þe sunne heldet,<lb/>
-               Of dos and of oþer dere, to deme were wonder.<lb/>
+               Of <ref type="nature" fauna="doe">dos</ref> and of oþer <ref type="nature" fauna="deer">dere</ref>, to deme were wonder.<lb/>
                Þenne fersly þay flokked in folk at þe laste,<lb/>
-               And quykly of þe quelled dere a querré þay maked.<lb/>
+               And quykly of þe quelled <ref type="nature" fauna="deer">dere</ref> a querré þay maked.<lb/>
                Þe best boȝed þerto with burnez innoghe,<lb/>
                Gedered þe grattest of gres þat þer were,<lb/>
                And didden hem derely vndo as þe dede askez;<lb/>
                Serched hem at þe asay summe þat þer were,<lb/>
-               Two fyngeres þay fonde of þe fowlest of alle.<lb/>
+               <ref type="numerological" num="two">Two</ref> fyngeres þay fonde of þe fowlest of alle.<lb/>
                Syþen þay slyt þe slot, sesed þe erber,<lb/>
                Schaued wyth a scharp knyf, and þe schyre knitten;<lb/>
-               Syþen rytte þay þe foure lymmes, and rent of þe hyde,<lb/>
+               Syþen rytte þay þe <ref type="numerological" num="four">foure</ref> lymmes, and rent of þe hyde,<lb/>
                Þen brek þay þe balé, þe bowelez out token<lb/>
                <milestone unit="folio" n="109r"/>
                Lystily for laucyng þe lere of þe knot;<lb/>
@@ -1527,26 +1527,26 @@
                Þe wesaunt fro þe wynt-hole, and walt out þe guttez;<lb/>
                Þen scher þay out þe schulderez with her scharp knyuez,<lb/>
                Haled hem by a lyttel hole to haue hole sydes.<lb/>
-               Siþen britned þay þe brest and brayden hit in twynne,<lb/>
+               Siþen britned þay þe brest and brayden hit in <ref type="numerological" num="two">twynne</ref>,<lb/>
                And eft at þe gargulun bigynez on þenne,<lb/>
                Ryuez hit vp radly ryȝt to þe byȝt,<lb/>
                Voydez out þe avanters, and verayly þerafter<lb/>
                Alle þe rymez by þe rybbez radly þay lance;<lb/>
                So ryde þay of by resoun bi þe rygge bonez,<lb/>
                Euenden to þe haunche, þat henged alle samen,<lb/>
-               And heuen hit vp al hole, and hwen hit of þere,<lb/>
-               And þat þay neme for þe noumbles bi nome, as I trowe,<lb/>
-               bi kynde;<lb/>
-               Bi þe byȝt al of þe þyȝes<lb/>
+               And heuen hit vp al hole, and hwen hit of þere,</speaker><lb/>
+               <speaker narrator="poet">And þat þay neme for þe noumbles bi nome, as I trowe,<lb/>
+               bi kynde;</speaker><lb/>
+               <speaker narrator="omniscient">Bi þe byȝt al of þe þyȝes<lb/>
                Þe lappez þay lance bihynde;<lb/>
-               To hewe hit in two þay hyȝes,<lb/>
-               Bi þe bakbon to vnbynde.<lb/>
+               To hewe hit in <ref type="numerological" num="two">two</ref> þay hyȝes,<lb/>
+               Bi þe bakbon to vnbynde.</speaker><lb/>
             </lg>
             <lg>
-               Boþe þe hede and þe hals þay hwen of þenne,<lb/>
+               <speaker narrator="omniscient"><ref type="wounds" injury="beheading">Boþe þe hede and þe hals þay hwen of þenne,</ref><lb/>
                And syþen sunder þay þe sydez swyft fro þe chyne,<lb/>
                <pb n="38"/>
-               And þe corbeles fee þay kest in a greue;<lb/>
+               And þe <ref type="nature" fauna="raven">corbeles</ref> fee þay kest in a greue;<lb/>
                Þenn þurled þay ayþer þik side þurȝ bi þe rybbe,<lb/>
                And henged þenne ayþer bi hoȝez of þe fourchez,<lb/>
                Vche freke for his fee, as fallez for to haue.<lb/>
@@ -1562,66 +1562,66 @@
                Wyth blys and bryȝt fyr bette.<lb/>
                Þe lorde is comen þertylle;<lb/>
                When Gawayn wyth hym mette<lb/>
-               Þer watz bot wele at wylle.<lb/>
+               Þer watz bot wele at wylle.</speaker><lb/>
             </lg>
             <lg>
                <milestone unit="folio" n="109v"/>
-               Thenne comaunded þe lorde in þat sale to samen alle þe meny,<lb/>
+              <speaker narrator="omniscient"> Thenne comaunded þe lorde in þat sale to samen alle þe meny,<lb/>
                Boþe þe ladyes on loghe to lyȝt with her burdes<lb/>
                Bifore alle þe folk on þe flette, frekez he beddez<lb/>
                Verayly his venysoun to fech hym byforne,<lb/>
                And al godly in gomen Gawayn he called,<lb/>
                Techez hym to þe tayles of ful tayt bestes,<lb/>
-               Schewez hym þe schyree grece schorne vpon rybbes.<lb/>
-               'How payez yow þis play? Haf I prys wonnen?<lb/>
-               Haue I þryuandely þonk þurȝ my craft serued?'<lb/>
-               'Ȝe iwysse,' quoþ þat oþer wyȝe, 'here is wayth fayrest<lb/>
-               Þat I seȝ þis seuen ȝere in sesoun of wynter.'<lb/>
-               'And al I gif yow, Gawayn,' quoþ þe gome þenne,<lb/>
-               'For by acorde of couenaunt ȝe craue hit as your awen.'<lb/>
-               'Þis is soth,' quoþ þe segge, 'I say yow þat ilke:<lb/>
+               Schewez hym þe schyree grece schorne vpon rybbes.</speaker><lb/>
+               <speaker narrator="character" id="Bertilak">'How payez yow þis play? Haf I prys wonnen?<lb/>
+               Haue I þryuandely þonk þurȝ my craft serued?'</speaker><lb/>
+               <speaker narrator="character" id="Gawain">'Ȝe iwysse,' quoþ þat oþer wyȝe, 'here is wayth fayrest<lb/>
+               Þat I seȝ þis <ref type="numerological" num="seven">seuen</ref> ȝere in sesoun of wynter.'</speaker><lb/>
+               <speaker narrator="character" id="Bertilak"><ref type="chivalry" moral="hostDuty|guestRight|oaths">'And al I gif yow, Gawayn,' quoþ þe gome þenne,<lb/>
+               'For by acorde of couenaunt ȝe craue hit as your awen.'</ref></speaker><lb/>
+               <speaker narrator="character" id="Gawain"><ref type="chivalry" moral="oaths">'Þis is soth,' quoþ þe segge, 'I say yow þat ilke:<lb/>
                Þat I haf worthyly wonnen þis wonez wythinne,<lb/>
-               Iwysse with as god wylle hit worþez to ȝourez.'<lb/>
-               He hasppez his fayre hals his armez wythinne,<lb/>
-               And kysses hym as comlyly as he couþe awyse:<lb/>
+               Iwysse with as god wylle hit worþez to ȝourez.'</ref></speaker><lb/>
+               <speaker narrator="omniscient">He hasppez his fayre hals his armez wythinne,<lb/>
+               And kysses hym as comlyly as he couþe awyse:</speaker><lb/>
                <pb n="39"/>
-               'Tas yow þere my cheuicaunce, I cheued no more;<lb/>
-               I wowche hit saf fynly, þaȝ feler hit were.'<lb/>
-               'Hit is god,' quoþ þe godmon, 'grant mercy þerfore.<lb/>
+              <speaker narrator="character" id="Gawain"><ref type="chivalry" moral="duty|oath"> 'Tas yow þere my cheuicaunce, I cheued no more;<lb/>
+               I wowche hit saf fynly, þaȝ feler hit were.'</ref></speaker><lb/>
+               <speaker narrator="character" id="Bertilak">'Hit is god,' quoþ þe godmon, 'grant mercy þerfore.<lb/>
                Hit may be such hit is þe better, and ȝe me breue wolde<lb/>
-               Where ȝe wan þis ilk wele bi wytte of yorseluen.'<lb/>
-               'Þat watz not forward,' quoþ he, 'frayst me no more.<lb/>
+               Where ȝe wan þis ilk wele bi wytte of yorseluen.'</speaker><lb/>
+               <speaker narrator="character" id="Gawain"><ref type="chivalry" moral="duty|oath">'Þat watz not forward,' quoþ he, 'frayst me no more.<lb/>
                For ȝe haf tan þat yow tydez, trawe non oþer<lb/>
-               ȝe mowe.'<lb/>
-               Þay laȝed, and made hem blyþe<lb/>
+               ȝe mowe.'</ref></speaker><lb/>
+               <speaker narrator="omniscient">Þay laȝed, and made hem blyþe<lb/>
                Wyth lotez þat were to lowe;<lb/>
                To soper þay ȝede as-swyþe,<lb/>
-               Wyth dayntés nwe innowe.<lb/>
+               Wyth dayntés nwe innowe.</speaker><lb/>
             </lg>
             <lg>
-               And syþen by þe chymné in chamber þay seten,<lb/>
+               <speaker narrator="omniscient">And syþen by þe chymné in chamber þay seten,<lb/>
                Wyȝez þe walle wyn weȝed to hem oft,<lb/>
                And efte in her bourdyng þay bayþen in þe morn<lb/>
                To fylle þe same forwardez þat þay byfore maden:<lb/>
                Wat chaunce so bytydez hor cheuysaunce to chaunge,<lb/>
                What nwez so þay nome, at naȝt quen þay metten.<lb/>
-               Þay acorded of þe couenauntez byfore þe court alle;<lb/>
+               <ref type="chivalry" moral="challenge">Þay acorded of þe couenauntez byfore þe court alle;</ref><lb/>
                <milestone unit="folio" n="110r"/>
                Þe beuerage watz broȝt forth in bourde at þat tyme,<lb/>
                Þenne þay louelych leȝten leue at þe last,<lb/>
                Vche burne to his bedde busked bylyue.<lb/>
-               Bi þat þe coke hade crowen and cakled bot þryse,<lb/>
+               Bi þat þe coke hade crowen and cakled bot <ref type="numerological" num="three">þryse</ref>,<lb/>
                Þe lorde watz lopen of his bedde, þe leudez vchone;<lb/>
-               So þat þe mete and þe masse watz metely delyuered,<lb/>
+               So þat þe mete and þe <ref type="religious" religion="Christianity">masse</ref> watz metely delyuered,<lb/>
                Þe douthe dressed to þe wod, er any day sprenged,<lb/>
                to chace;<lb/>
                Heȝ with hunte and hornez<lb/>
                Þurȝ playnez þay passe in space,<lb/>
                Vncoupled among þo þornez<lb/>
-               Rachez þat ran on race.<lb/>
+               Rachez þat ran on race.</speaker><lb/>
             </lg>
             <lg>
-               SONE þay calle of a quest in a ker syde,<lb/>
+               <speaker narrator="omniscient">SONE þay calle of a quest in a ker syde,<lb/>
                Þe hunt rehayted þe houndez þat hit fyrst mynged,<lb/>
                Wylde wordez hym warp wyth a wrast noyce;<lb/>
                Þe howndez þat hit herde hastid þider swyþe,<lb/>
@@ -1640,11 +1640,11 @@
                Þe best þat þer breued watz wyth þe blodhoundez.<lb/>
                Þenne þay beten on þe buskez, and bede hym vpryse,<lb/>
                And he vnsoundyly out soȝt seggez ouerþwert;<lb/>
-               On þe sellokest swyn swenged out þere,<lb/>
+               On þe sellokest <ref type="nature" fauna="boar">swyn</ref> swenged out þere,<lb/>
                Long sythen fro þe sounder þat siȝed for olde,<lb/>
                For he watz breme, bor alþer-grattest,<lb/>
                Ful grymme quen he gronyed; þenne greued mony,<lb/>
-               For þre at þe fyrst þrast he þryȝt to þe erþe,<lb/>
+               For <ref type="numerological" num="three">þre</ref> at þe fyrst þrast he þryȝt to þe erþe,<lb/>
                And sparred forth good sped boute spyt more.<lb/>
                Þise oþer halowed hyghe! ful hyȝe, and hay! hay! cryed,<lb/>
                <milestone unit="folio" n="110v"/>
@@ -1655,10 +1655,10 @@
                Ful oft he bydez þe baye,<lb/>
                And maymez þe mute inn melle;<lb/>
                He hurtez of þe houndez, and þay<lb/>
-               Ful ȝomerly ȝaule and ȝelle.<lb/>
+               Ful ȝomerly ȝaule and ȝelle.</speaker><lb/>
             </lg>
             <lg>
-               Schalkez to schote at hym schowen to þenne,<lb/>
+               <speaker narrator="omniscient">Schalkez to schote at hym schowen to þenne,<lb/>
                Haled to hym of her arewez, hitten hym oft;<lb/>
                Bot þe poyntez payred at þe pyth þat pyȝt in his scheldez,<lb/>
                And þe barbez of his browe bite non wolde--<lb/>
@@ -1669,10 +1669,10 @@
                Þen, braynwod for bate, on burnez he rasez,<lb/>
                Hurtez hem ful heterly þer he forth hyȝez,<lb/>
                And mony arȝed þerat, and on lyte droȝen.<lb/>
-               Bot þe lorde on a lyȝt horce launces hym after,<lb/>
+               <ref type="chivalry" moral="bravery">Bot þe lorde on a lyȝt horce launces hym after,<lb/>
                As burne bolde vpon bent his bugle he blowez,<lb/>
-               He rechated, and rode þurȝ ronez ful þyk,<lb/>
-               Suande þis wylde swyn til þe sunne schafted.<lb/>
+               He rechated, and rode þurȝ ronez ful þyk,</ref><lb/>
+               Suande þis wylde <ref type="nature" fauna="boar">swyn</ref> til þe sunne schafted.<lb/>
                Þis day wyth þis ilk dede þay dryuen on þis wyse,<lb/>
                Whyle oure luflych lede lys in his bedde,<lb/>
                Gawayn grayþely at home, in gerez ful ryche<lb/>
@@ -1680,46 +1680,46 @@
                Þe lady noȝt forȝate,<lb/>
                Com to hym to salue;<lb/>
                Ful erly ho watz hym ate<lb/>
-               His mode for to remwe.<lb/>
+               His mode for to remwe.</speaker><lb/>
             </lg>
             <lg>
-               Ho commes to þe cortyn, and at þe knyȝt totes.<lb/>
-               Sir Wawen her welcumed worþy on fyrst,<lb/>
+               <ref type="chivalry" moral="courtesy|courtleyLove|manners"><speaker narrator="omniscient">Ho commes to þe cortyn, and at þe knyȝt totes.<lb/>
+               <ref type="chivalry" moral="courtesy">Sir Wawen her welcumed worþy on fyrst,</ref><lb/>
                And ho hym ȝeldez aȝayn ful ȝerne of hir wordez,<lb/>
                Settez hir softly by his syde, and swyþely ho laȝez,<lb/>
-               And wyth a luflych loke ho layde hym þyse wordez:<lb/>
-               'Sir, ȝif ȝe be Wawen, wonder me þynkkez,<lb/>
+               And wyth a luflych loke ho layde hym þyse wordez:</speaker><lb/>
+               <speaker narrator="character" id="Lady Bertilak">'Sir, ȝif ȝe be Wawen, wonder me þynkkez,<lb/>
                Wyȝe þat is so wel wrast alway to god,<lb/>
                And connez not of compaynye þe costez vndertake,<lb/>
                <milestone unit="folio" n="111r"/>
                And if mon kennes yow hom to knowe, ȝe kest hom of your mynde;<lb/>
                Þou hatz forȝeten ȝederly þat ȝisterday I taȝtte<lb/>
-               Bi alder-truest token of talk þat I cowþe.'<lb/>
-               'What is þat?' quoþ þe wyghe, 'Iwysse I wot neuer;<lb/>
-               If hit be sothe þat ȝe breue, þe blame is myn awen.'<lb/>
-               'Ȝet I kende yow of kyssyng,' quoþ þe clere þenne,<lb/>
+               Bi alder-truest token of talk þat I cowþe.'</speaker><lb/>
+               <speaker narrator="character" id="Gawain">'What is þat?' quoþ þe wyghe, 'Iwysse I wot neuer;<lb/>
+               If hit be sothe þat ȝe breue, þe blame is myn awen.'</speaker><lb/>
+               <speaker narrator="character" id="Lady Bertilak">'Ȝet I kende yow of kyssyng,' quoþ þe clere þenne,<lb/>
                'Quere-so countenaunce is couþe quikly to clayme;<lb/>
-               Þat bicumes vche a knyȝt þat cortaysy vses.'<lb/>
-               'Do way,' quoþ þat derf mon, 'my dere, þat speche,<lb/>
+               Þat bicumes vche a knyȝt þat cortaysy vses.'</speaker><lb/>
+               <speaker narrator="character" id="Lady Bertilak">'Do way,' quoþ þat derf mon, 'my dere, þat speche,<lb/>
                For þat durst I not do, lest I deuayed were;<lb/>
-               If I were werned, I were wrang, iwysse, ȝif I profered.'<lb/>
-               'Ma fay,' quoþ þe meré wyf, 'ȝe may not be werned,<lb/>
+               If I were werned, I were wrang, iwysse, ȝif I profered.'</speaker><lb/>
+               <speaker narrator="character" id="Lady Bertlak">'Ma fay,' quoþ þe meré wyf, 'ȝe may not be werned,<lb/>
                <pb n="42"/>
                Ȝe ar stif innoghe to constrayne wyth strenkþe, ȝif yow lykez,<lb/>
-               Ȝif any were so vilanous þat yow devaye wolde.'<lb/>
-               'Ȝe, be God,' quoþ Gawayn, 'good is your speche,<lb/>
+               Ȝif any were so vilanous þat yow devaye wolde.'</speaker><lb/>
+               <speaker narrator="character" id="Gawain">'Ȝe, be God,' quoþ Gawayn, 'good is your speche,<lb/>
                Bot þrete is vnþryuande in þede þer I lende,<lb/>
                And vche gift þat is geuen not with goud wylle.<lb/>
                I am at your comaundement, to kysse quen yow lykez,<lb/>
                Ȝe may lach quen yow lyst, and leue quen yow þynkkez,<lb/>
-               in space.'<lb/>
-               Þe lady loutez adoun,<lb/>
+               in space.'</speaker><lb/>
+               <speaker narrator="omniscient">Þe lady loutez adoun,<lb/>
                And comlyly kysses his face,<lb/>
                Much speche þay þer expoun<lb/>
-               Of druryes greme and grace.<lb/>
+               Of druryes greme and grace.</speaker></ref><lb/>
             </lg>
             <lg>
-               'I woled wyt at yow, wyȝe,' þat worþy þer sayde,<lb/>
+               <speaker narrator="character" id="Lady Bertilak"><ref type="chivalry" moral="courtesy|courtlyLove|knightDuty">'I woled wyt at yow, wyȝe,' þat worþy þer sayde,<lb/>
                'And yow wrathed not þerwyth, what were þe skylle<lb/>
                Þat so ȝong and so ȝepe as ȝe at þis tyme,<lb/>
                So cortayse, so knyȝtly, as ȝe ar knowen oute--<lb/>
@@ -1747,10 +1747,10 @@
                To lerne at yow sum game;<lb/>
                <pb n="43"/>
                Dos, techez me of your wytte,<lb/>
-               Whil my lorde is fro hame.'<lb/>
+               Whil my lorde is fro hame.'</ref></speaker><lb/>
             </lg>
             <lg>
-               'In goud fayþe,' quoþ Gawayn, 'God yow forȝelde!<lb/>
+               <speaker narrator="character" id="Gawain"><ref type="chivalry" moral="courtesy|courtlyLove|knightDuty">'In goud fayþe,' quoþ Gawayn, <ref type="religious" religion="Christianity">'God yow forȝelde!</ref><lb/>
                Gret is þe gode gle, and gomen to me huge,<lb/>
                Þat so worþy as ȝe wolde wynne hidere,<lb/>
                And pyne yow with so pouer a mon, as play wyth your knyȝt<lb/>
@@ -1763,24 +1763,24 @@
                Hit were a folé felefolde, my fre, by my trawþe.<lb/>
                I wolde yowre wylnyng worche at my myȝt,<lb/>
                As I am hyȝly bihalden, and euermore wylle<lb/>
-               Be seruaunt to yourseluen, so saue me Dryȝtyn!'<lb/>
-               Þus hym frayned þat fre, and fondet hym ofte,<lb/>
+               Be seruaunt to yourseluen, so saue me Dryȝtyn!'</ref></speaker><lb/>
+               <speaker narrator="omniscient"><ref type="chivalry" moral="courtesy|manners">Þus hym frayned þat fre, and fondet hym ofte,<lb/>
                For to haf wonnen hym to woȝe, what-so scho þoȝt ellez;<lb/>
                Bot he defended hym so fayr þat no faut semed,<lb/>
                Ne non euel on nawþer halue, nawþer þay wysten<lb/>
-               bot blysse.<lb/>
+               bot blysse.</ref><lb/>
                Þay laȝed and layked longe;<lb/>
                At þe last scho con hym kysse,<lb/>
                Hir leue fayre con scho fonge<lb/>
-               And went hir waye, iwysse.<lb/>
+               And went hir waye, iwysse.</speaker><lb/>
             </lg>
             <lg>
-               The ruþes hym þe renk and ryses to þe masse,<lb/>
+               <speaker narrator="omniscient">The ruþes hym þe renk and ryses to þe <ref type="religious" religion="Christianity">masse</ref>,<lb/>
                <milestone unit="folio" n="112r"/>
                And siþen hor diner watz dyȝt and derely serued.<lb/>
                Þe lede with þe ladyez layked alle day,<lb/>
                Bot þe lorde ouer þe londez launced ful ofte,<lb/>
-               Swez his vncely swyn, þat swyngez bi þe bonkkez<lb/>
+               Swez his vncely <ref type="nature" fauna="boar">swyn</ref>, þat swyngez bi þe bonkkez<lb/>
                And bote þe best of his brachez þe bakkez in sunder<lb/>
                Þer he bode in his bay, tel bawemen hit breken,<lb/>
                And madee hym mawgref his hed for to mwe vtter,<lb/>
@@ -1792,27 +1792,27 @@
                <pb n="44"/>
                He gete þe bonk at his bak, bigynez to scrape,<lb/>
                Þe froþe femed at his mouth vnfayre bi þe wykez,<lb/>
-               Whettez his whyte tuschez; with hym þen irked<lb/>
+               Whettez his <ref type="color" shade="white">whyte</ref> tuschez; with hym þen irked<lb/>
                Alle þe burnez so bolde þat hym by stoden<lb/>
                To nye hym on-ferum, bot neȝe hym non durst<lb/>
                for woþe;<lb/>
                He hade hurt so mony byforne<lb/>
                Þat al þuȝt þenne ful loþe<lb/>
                Be more wyth his tusches torne,<lb/>
-               Þat breme watz and braynwod bothe,<lb/>
+               Þat breme watz and braynwod bothe,</speaker><lb/>
             </lg>
             <lg>
-               Til þe knyȝt com hymself, kachande his blonk,<lb/>
+               <speaker narrator="omniscient">Til þe knyȝt com hymself, kachande his blonk,<lb/>
                Syȝ hym byde at þe bay, his burnez bysyde;<lb/>
-               He lyȝtes luflych adoun, leuez his corsour,<lb/>
+               <ref type="chivalry" moral="bravery">He lyȝtes luflych adoun, leuez his corsour,<lb/>
                Braydez out a bryȝt bront and bigly forth strydez,<lb/>
                Foundez fast þurȝ þe forth þer þe felle bydez.<lb/>
                Þe wylde watz war of þe wyȝe with weppen in honde,<lb/>
                Hef hyȝly þe here, so hetterly he fnast<lb/>
-               Þat fele ferde for þe freke, lest felle hym þe worre.<lb/>
+               Þat fele ferde for þe freke, lest felle hym þe worre.</ref><lb/>
                Þe swyn settez hym out on þe segge euen,<lb/>
                Þat þe burne and þe bor were boþe vpon hepez<lb/>
-               In þe wyȝtest of þe water; þe worre hade þat oþer,<lb/>
+               In þe <ref type="color" shade="white">wyȝtest</ref> of þe water; þe worre hade þat oþer,<lb/>
                For þe mon merkkez hym wel, as þay mette fyrst,<lb/>
                Set sadly þe scharp in þe slot euen,<lb/>
                Hit hym vp to þe hult, þat þe hert schyndered,<lb/>
@@ -1823,23 +1823,23 @@
                A hundreth houndez hym hent,<lb/>
                Þat bremely con hym bite,<lb/>
                Burnez him broȝt to bent,<lb/>
-               And doggez to dethe endite.<lb/>
+               And doggez to dethe endite.</speaker><lb/>
             </lg>
             <lg>
-               There watz blawyng of prys in mony breme horne,<lb/>
+               <speaker narrator="omniscient">There watz blawyng of prys in mony breme horne,<lb/>
                Heȝe halowing on hiȝe with haþelez þat myȝt;<lb/>
                Brachetes bayed þat best, as bidden þe maysterez<lb/>
                Of þat chargeaunt chace þat were chef huntes.<lb/>
                Þenne a wyȝe þat watz wys vpon wodcraftez<lb/>
                To vnlace þis bor lufly bigynnez.<lb/>
-               Fyrst he hewes of his hed and on hiȝe settez,<lb/>
+               <ref type="wounds" injury="beheading">Fyrst he hewes of his hed and on hiȝe settez,</ref><lb/>
                <pb n="45"/>
                And syþen rendez him al roghe bi þe rygge after,<lb/>
                Braydez out þe boweles, brennez hom on glede,<lb/>
                With bred blent þerwith his braches rewardez.<lb/>
                Syþen he britnez out þe brawen in bryȝt brode cheldez,<lb/>
                And hatz out þe hastlettez, as hiȝtly bisemez;<lb/>
-               And ȝet hem halchez al hole þe haluez togeder,<lb/>
+               <ref type="numerological" num="two">And ȝet hem halchez al hole þe haluez togeder,</ref><lb/>
                And syþen on a stif stange stoutly hem henges.<lb/>
                Now with þis ilk swyn þay swengen to home;<lb/>
                Þe bores hed watz borne bifore þe burnes seluen<lb/>
@@ -1848,10 +1848,10 @@
                Til he seȝ Sir Gawayne<lb/>
                In halle hym poȝt ful longe;<lb/>
                He calde, and he com gayn<lb/>
-               His feez þer for to fonge.<lb/>
+               His feez þer for to fonge.</speaker><lb/>
             </lg>
             <lg>
-               Þe lorde ful lowde with lote and laȝter myry,<lb/>
+               <ref type="chivalry" moral="courtesy|hostDuty|oaths"><speaker narrator="omniscient">Þe lorde ful lowde with lote and laȝter myry,<lb/>
                When he seȝe Sir Gawayn, with solace he spekez;<lb/>
                Þe goude ladyez were geten, and gedered þe meyny,<lb/>
                He schewez hem þe scheldez, and schapes hem þe tale<lb/>
@@ -1863,61 +1863,61 @@
                Ne such sydes of a swyn segh he neuer are.<lb/>
                Þenne hondeled þay þe hoge hed, þe hende mon hit praysed,<lb/>
                <milestone unit="folio" n="113r"/>
-               And let lodly þerat þe lorde for to here.<lb/>
-               'Now, Gawayn,' quoþ þe godmon, 'þis gomen is your awen<lb/>
+               And let lodly þerat þe lorde for to here.</speaker><lb/>
+               <speaker narrator="character" id="Bertilak">'Now, Gawayn,' quoþ þe godmon, 'þis gomen is your awen<lb/>
                Bi fyn forwarde and faste, faythely ȝe knowe.'<lb/>
-               'Hit is sothe,' quoþ þe segge, 'and as siker trwe<lb/>
-               Alle my get I schal yow gif agayn, bi my trawþe.'<lb/>
+               <speaker narrator="character" id="Gawain">'Hit is sothe,' quoþ þe segge, 'and as siker trwe<lb/>
+               Alle my get I schal yow gif agayn, bi my trawþe.'</speaker><lb/>
                He hent þe haþel aboute þe halse, and hendely hym kysses,<lb/>
                And eftersones of þe same he serued hym þere.<lb/>
                'Now ar we euen,' quoþ þe haþel, 'in þis euentide<lb/>
                Of alle þe couenauntes þat we knyt, syþen I com hider,<lb/>
-               bi lawe.'<lb/>
-               Þe lorde sayde, 'Bi saynt Gile,<lb/>
+               bi lawe.'</speaker><lb/>
+               <speaker narrator="character" id="Bertilak">Þe lorde sayde, <ref type="religious" religion="Christianity">'Bi saynt Gile,</ref><lb/>
                Ȝe ar þe best þat I knowe!<lb/>
                <pb n="46"/>
                Ȝe ben ryche in a whyle,<lb/>
-               Such chaffer and ȝe drowe.'<lb/>
+                  Such chaffer and ȝe drowe.'</speaker></ref><lb/>
             </lg>
             <lg>
-               Þenne þay teldet tablez trestes alofte,<lb/>
+               <speaker narrator="omniscient">Þenne þay teldet tablez trestes alofte,<lb/>
                Kesten cloþen vpon; clere lyȝt þenne<lb/>
                Wakned bi woȝez, waxen torches;<lb/>
                Seggez sette and serued in sale al aboute;<lb/>
                Much glam and gle glent vp þerinne<lb/>
                Aboute þe fyre vpon flet, and on fele wyse<lb/>
                At þe soper and after, mony aþel songez,<lb/>
-               As coundutes of Krystmasse and carolez newe<lb/>
+               As coundutes of <ref type="religious" religion="Christianity">Krystmasse</ref> and carolez newe<lb/>
                With al þe manerly merþe þat mon may of telle,<lb/>
                And euer oure luflych knyȝt þe lady bisyde.<lb/>
                Such semblaunt to þat segge semly ho made<lb/>
-               Wyth stille stollen countenaunce, þat stalworth to plese,<lb/>
+               <ref type="chivalry" moral="manners|courtlyLove">Wyth stille stollen countenaunce, þat stalworth to plese,<lb/>
                Þat al forwondered watz þe wyȝe, and wroth with hymseluen,<lb/>
                Bot he nolde not for his nurture nurne hir aȝaynez,<lb/>
                Bot dalt with hir al in daynté, how-se-euer þe dede turned<lb/>
-               towrast.<lb/>
+               towrast.</ref><lb/>
                Quen þay hade played in halle<lb/>
                As longe as hor wylle hom last,<lb/>
                To chambre he con hym calle,<lb/>
-               And to þe chemné þay past.<lb/>
+               And to þe chemné þay past.</speaker><lb/>
             </lg>
             <lg>
-               Andre þer þay dronken, and dalten, and demed eft nwe<lb/>
+               <speaker narrator="omniscient">Andre þer þay dronken, and dalten, and demed eft nwe<lb/>
                To norne on þe same note on Nwe Ȝerez euen;<lb/>
                Bot þe knyȝt craued leue to kayre on þe morn,<lb/>
                For hit watz neȝ at þe terme þat he to schulde.<lb/>
                <milestone unit="folio" n="113v"/>
-               Þe lorde hym letted of þat, to lenge hym resteyed,<lb/>
+               <speaker narrator="character" id="Bertilak">Þe lorde hym letted of þat, to lenge hym resteyed,</speaker><lb/>
                And sayde, 'As I am trwe segge, I siker my trawþe<lb/>
-               Þou schal cheue to þe grene chapel þy charres to make,<lb/>
+               Þou schal cheue to þe <ref type="color" shade="green">grene</ref> chapel þy charres to make,<lb/>
                Leude, on Nw Ȝerez lyȝt, longe bifore pryme.<lb/>
                Forþy þow lye in þy loft and lach þyn ese,<lb/>
                And I schal hunt in þis holt, and halde þe towchez,<lb/>
                Chaunge wyth þe cheuisaunce, bi þat I charre hider;<lb/>
-               For I haf fraysted þe twys, and faythful I fynde þe.<lb/>
-               Now "þrid tyme þrowe best" þenk on þe morne,<lb/>
+               For I haf fraysted þe <ref type="numerological" num="two">twys</ref>, and faythful I fynde þe.<lb/>
+               Now "þrid <ref type="numerological" num="three">tyme</ref> þrowe best" þenk on þe morne,<lb/>
                Make we mery quyl we may and mynne vpon joye,<lb/>
-               For þe lur may mon lach when-so mon lykez.'<lb/>
+               For þe lur may mon lach when-so mon lykez.'</speaker><lb/>
                Þis watz grayþely graunted, and Gawayn is lenged,<lb/>
                <pb n="47"/>
                Bliþe broȝt watz hym drynk, and þay to bedde ȝeden<lb/>
@@ -1928,16 +1928,16 @@
                Ful erly he watz diȝt.<lb/>
             </lg>
             <lg>
-               After messe a morsel he and his men token;<lb/>
+               <speaker narrator="omniscient">After <ref type="religious" religion="Christianity">messe</ref> a morsel he and his men token;<lb/>
                Miry watz þe mornyng, his mounture he askes.<lb/>
                Alle þe haþeles þat on horse schulde helden hym after<lb/>
                Were boun busked on hor blonkkez bifore þe halle ȝatez.<lb/>
                Ferly fayre watz þe folde, for þe forst clenged;<lb/>
-               In rede rudede vpon rak rises þe sunne,<lb/>
+               In <ref type="color" shade="red">rede</ref> rudede vpon rak rises þe sunne,<lb/>
                And ful clere costez þe clowdes of þe welkyn.<lb/>
                Hunteres vnhardeled bi a holt syde,<lb/>
                Rocheres roungen bi rys for rurde of her hornes;<lb/>
-               Summe fel in þe fute þer þe fox bade,<lb/>
+               Summe fel in þe fute þer þe <ref type="nature" fauna="fox">fox</ref> bade,<lb/>
                Traylez ofte a traueres bi traunt of her wyles;<lb/>
                A kenet kyres þerof, þe hunt on hym calles;<lb/>
                His felaȝes fallen hym to, þat fnasted ful þike,<lb/>
@@ -1952,16 +1952,16 @@
                Stelez out ful stilly bi a strothe rande,<lb/>
                Went haf wylt of þe wode with wylez fro þe houndes;<lb/>
                Þenne watz he went, er he wyst, to a wale tryster,<lb/>
-               Þer þre þro at a þrich þrat hym at ones,<lb/>
-               al graye.<lb/>
+               Þer <ref type="numerological" num="three">þre</ref> þro at a þrich þrat hym at ones,<lb/>
+               al <ref type="color" shade="gray">graye</ref>.<lb/>
                He blenched aȝayn bilyue<lb/>
                And stifly start on-stray,<lb/>
                With alle þe wo on lyue<lb/>
-               To þe wod he went away.<lb/>
+               To þe wod he went away.</speaker><lb/>
             </lg>
             <lg>
                <pb n="48"/>
-               Thenne watz hit list vpon lif to lyþen þe houndez,<lb/>
+               <speaker narrator="omniscient">Thenne watz hit list vpon lif to lyþen þe houndez,<lb/>
                When alle þe mute hade hym met, menged togeder:<lb/>
                Suche a sorȝe at þat syȝt þay sette on his hede<lb/>
                As alle þe clamberande clyffes hade clatered on hepes;<lb/>
@@ -1970,7 +1970,7 @@
                Þer he watz þreted and ofte þef called,<lb/>
                And ay þe titleres at his tayl, þat tary he ne myȝt;<lb/>
                Ofte he watz runnen at, when he out rayked,<lb/>
-               And ofte reled in aȝayn, so Reniarde watz wylé.<lb/>
+               And ofte reled in aȝayn, so <ref type="folklore" myth="Renard">Reniarde</ref> watz wylé.<lb/>
                And ȝe he lad hem bi lagmon, þe lorde and his meyny,<lb/>
                On þis maner bi þe mountes quyle myd-ouer-vnder,<lb/>
                Whyle þe hende knyȝt at home holsumly slepes<lb/>
@@ -1987,18 +1987,18 @@
                Ho comez withinne þe chambre dore, and closes hit hir after,<lb/>
                Wayuez vp a wyndow, and on þe wyȝe callez,<lb/>
                And radly þus rehayted hym with hir riche wordes,<lb/>
-               with chere:<lb/>
-               'A! mon, how may þou slepe,<lb/>
+               with chere:</speaker><lb/>
+               <speaker narrator="character" id="Lady Bertilak">'A! mon, how may þou slepe,<lb/>
                <milestone unit="folio" n="114v"/>
                Þis morning is so clere?'<lb/>
                He watz in drowping depe,<lb/>
-               Bot þenne he con hir here.<lb/>
+               Bot þenne he con hir here.</speaker><lb/>
             </lg>
             <lg>
-               In dreȝ droupyng of dreme draueled þat noble,<lb/>
+               <speaker narrator="omniscient">In dreȝ droupyng of dreme draueled þat noble,<lb/>
                As mon þat watz in mornyng of mony þro þoȝtes,<lb/>
                How þat destiné schulde þat day dele hym his wyrde<lb/>
-               At þe grene chapel, when he þe gome metes,<lb/>
+               At þe <ref type="color" shade="green">grene</ref> chapel, when he þe gome metes,<lb/>
                And bihoues his buffet abide withoute debate more;<lb/>
                Bot quen þat comly com he keuered his wyttes,<lb/>
                <pb n="49"/>
@@ -2015,19 +2015,19 @@
                Þay lanced wordes gode,<lb/>
                Much wele þen watz þerinne;<lb/>
                Gret perile bitwene hem stod,<lb/>
-               Nif Maré of hir knyȝt mynne.<lb/>
+               Nif <ref type="figure" properName="Mary">Maré</ref> of hir knyȝt mynne.</speaker><lb/>
             </lg>
             <lg>
-               For þat prynces of pris depresed hym so þikke,<lb/>
+               <speaker narrator="omniscient"><ref type="chivalry" moral="courtesy|courtlyLove|knightDuty">For þat prynces of pris depresed hym so þikke,<lb/>
                Nurned hym so neȝe þe þred, þat nede hym bihoued<lb/>
                Oþer lach þer hir luf, oþer lodly refuse.<lb/>
                He cared for his cortaysye, lest craþayn he were,<lb/>
                And more for his meschef ȝif he schulde make synne,<lb/>
-               And be traytor to þat tolke þat þat telde aȝt.<lb/>
-               'God schylde,' quoþ þe schalk, 'þat schal not befalle!'<lb/>
-               With luf-laȝyng a lyt he layd hym bysyde<lb/>
-               Alle þe spechez of specialté þat sprange of her mouthe.<lb/>
-               Quoþ þat burde to þe burne, 'Blame ȝe disserue,<lb/>
+                  And be traytor to þat tolke þat þat telde aȝt.</ref></speaker><lb/>
+               <speaker narrator="character" id="Gawain"><ref type="religious" religion="Christianity">'God schylde,'</ref> quoþ þe schalk, 'þat schal not befalle!'</speaker><lb/>
+               <speaker narrator="omniscient">With luf-laȝyng a lyt he layd hym bysyde<lb/>
+               Alle þe spechez of specialté þat sprange of her mouthe.</speaker><lb/>
+               <speaker narrator="character" id="Lady Bertilak"><ref type="chivalry" moral="courtlyLove">Quoþ þat burde to þe burne, 'Blame ȝe disserue,<lb/>
                Ȝif ȝe luf not þat lyf þat ȝe lye nexte,<lb/>
                Bifore alle þe wyȝez in þe worlde wounded in hert,<lb/>
                Bot if ȝe haf a lemman, a leuer, þat yow lykez better,<lb/>
@@ -2036,14 +2036,14 @@
                Þat yow lausen ne lyst--and þat I leue nouþe;<lb/>
                And þat ȝe telle me þat now trwly I pray yow,<lb/>
                For alle þe lufez vpon lyue layne not þe soþe<lb/>
-               for gile.'<lb/>
-               Þe knyȝt sayde, 'Be sayn Jon,'<lb/>
+               for gile.'</ref></speaker><lb/>
+               <speaker narrator="character" id="Gawain">Þe knyȝt sayde, 'Be <ref type="religious" religion="Christianity">sayn Jon,</ref>'<lb/>
                And smeþely con he smyle,<lb/>
                'In fayth I welde riȝt non,<lb/>
-               Ne non wil welde þe quile.'<lb/>
+               Ne non wil welde þe quile.'</speaker><lb/>
             </lg>
             <lg>
-               'Þat is a worde,' quoþ þat wyȝt, 'þat worst is of alle,<lb/>
+               <speaker narrator="character" id="Lady Bertilak">'Þat is a worde,' quoþ þat wyȝt, 'þat worst is of alle,<lb/>
                <pb n="50"/>
                Bot I am swared for soþe, þat sore me þinkkez.<lb/>
                Kysse me now comly, and I schal cach heþen,<lb/>
@@ -2052,8 +2052,8 @@
                And siþen ho seueres hym fro, and says as ho stondes,<lb/>
                'Now, dere, at þis departyng do me þis ese,<lb/>
                Gif me sumquat of þy gifte, þi gloue if hit were,<lb/>
-               Þat I may mynne on þe, mon, my mournyng to lassen.'<lb/>
-               'Now iwysse,' quoþ þat wyȝe, 'I wolde I hade here<lb/>
+                  Þat I may mynne on þe, mon, my mournyng to lassen.'</speaker><lb/>
+               <speaker narrator="character" id="Gawain"><ref type="chivalry" moral="courtesy|courtlyLove">'Now iwysse,' quoþ þat wyȝe, 'I wolde I hade here<lb/>
                Þe leuest þing for þy luf þat I in londe welde,<lb/>
                For ȝe haf deserued, for soþe, sellyly ofte<lb/>
                More rewarde bi resoun þen I reche myȝt;<lb/>
@@ -2064,56 +2064,56 @@
                And haue no men wyth no malez with menskful þingez;<lb/>
                Þat mislykez me, ladé, for luf at þis tyme,<lb/>
                Iche tolke mon do as he is tan, tas to non ille<lb/>
-               ne pine.'<lb/>
-               'Nay, hende of hyȝe honours,'<lb/>
+               ne pine.'</ref></speaker><lb/>
+               <speaker narrator="character" id="Lady Bertlak"><ref type="chivalry" moral="courtlyLove">'Nay, hende of hyȝe honours,'<lb/>
                Quoþ þat lufsum vnder lyne,<lb/>
                'Þaȝ I hade noȝt of yourez,<lb/>
-               Ȝet schulde ȝe haue of myne.'<lb/>
+               Ȝet schulde ȝe haue of myne.'</ref></speaker><lb/>
             </lg>
             <lg>
-               Ho raȝt hym a riche rynk of red golde werkez,<lb/>
+               <speaker narrator="omniscient">Ho raȝt hym a riche rynk of <ref type="color" shade="red">red</ref> <ref type="color" shade="gold">golde</ref> werkez,<lb/>
                Wyth a starande ston stondande alofte<lb/>
                Þat bere blusschande bemez as þe bryȝt sunne;<lb/>
                Wyt ȝe wel, hit watz worth wele ful hoge.<lb/>
-               Bot þe renk hit renayed, and redyly he sayde,<lb/>
+               Bot þe renk hit renayed, and redyly he sayde,</speaker><lb/>
                <milestone unit="folio" n="115v"/>
-               'I wil no giftez, for Gode, my gay, at þis tyme;<lb/>
-               I haf none yow to norne, ne noȝt wyl I take.'<lb/>
-               Ho bede hit hym ful bysily, and he hir bode wernes,<lb/>
+               <speaker narrator="character" id="Gawain"><ref type="chivalry" moral="manners">'I wil no giftez, for <ref type="religious" religion="Christianity">Gode</ref>, my gay, at þis tyme;<lb/>
+               I haf none yow to norne, ne noȝt wyl I take.'</ref></speaker><lb/>
+               <speaker narrator="omniscient">Ho bede hit hym ful bysily, and he hir bode wernes,<lb/>
                And swere swyfte by his sothe þat he hit sese nolde,<lb/>
-               And ho soré þat he forsoke, and sayde þerafter,<lb/>
-               'If ȝe renay my rynk, to ryche for hit semez,<lb/>
+               And ho soré þat he forsoke, and sayde þerafter,</speaker><lb/>
+               <speaker narrator="character" id="Lady Bertilak">'If ȝe renay my <ref type="circle" object="ring">rynk</ref>, to ryche for hit semez,<lb/>
                Ȝe wolde not so hyȝly halden be to me,<lb/>
-               I schal gif yow my girdel, þat gaynes yow lasse.'<lb/>
+               I schal gif yow my <ref type="circle" object="girdle">girdel</ref>, þat gaynes yow lasse.'</speaker><lb/>
                <pb n="51"/>
-               Ho laȝt a lace lyȝtly þat leke vmbe hir sydez,<lb/>
+               <speaker narrator="omniscient">Ho laȝt a lace lyȝtly þat leke vmbe hir sydez,<lb/>
                Knit vpon hir kyrtel vnder þe clere mantyle,<lb/>
-               Gered hit watz with grene sylke and with golde schaped,<lb/>
+               Gered hit watz with <ref type="color" shade="green">grene</ref> sylke and with <ref type="color" shade="gold">golde</ref> schaped,<lb/>
                Noȝt bot arounde brayden, beten with fyngrez;<lb/>
                And þat ho bede to þe burne, and blyþely bisoȝt,<lb/>
                Þaȝ hit vnworþi were, þat he hit take wolde.<lb/>
                And he nay þat he nolde neghe in no wyse<lb/>
                Nauþer golde ne garysoun, er God hym grace sende<lb/>
-               To acheue to þe chaunce þat he hade chosen þere.<lb/>
-               'And þerfore, I pray yow, displese yow noȝt,<lb/>
+               To acheue to þe chaunce þat he hade chosen þere.</speaker><lb/>
+               <speaker narrator="character" id="Gawain"><ref type="chivalry" moral="manners">'And þerfore, I pray yow, displese yow noȝt,<lb/>
                And lettez be your bisinesse, for I bayþe hit yow neuer<lb/>
                to graunte;<lb/>
                I am derely to yow biholde<lb/>
                Bicause of your sembelaunt,<lb/>
                And euer in hot and colde<lb/>
-               To be your trwe seruaunt.'<lb/>
+               To be your trwe seruaunt.'</ref></speaker><lb/>
             </lg>
             <lg>
-               'Now forsake ȝe þis silke,' sayde þe burde þenne,<lb/>
+              <speaker narrator="character" id="Lady Bertilak"> 'Now forsake ȝe þis silke,' sayde þe burde þenne,<lb/>
                'For hit is symple in hitself? And so hit wel semez.<lb/>
                Lo! so hit is littel, and lasse hit is worþy;<lb/>
                Bot who-so knew þe costes þat knit ar þerinne,<lb/>
                He wolde hit prayse at more prys, parauenture;<lb/>
-               For quat gome so is gorde with þis grene lace,<lb/>
+               For quat gome so is gorde with þis <ref type="color" shade="green">grene</ref> lace,<lb/>
                While he hit hade hemely halched aboute,<lb/>
                Þer is no haþel vnder heuen tohewe hym þat myȝt,<lb/>
-               For he myȝt not be slayn for slyȝt vpon erþe.'<lb/>
-               Þen kest þe knyȝt, and hit come to his hert<lb/>
+               For he myȝt not be slayn for slyȝt vpon erþe.'</speaker><lb/>
+               <speaker narrator="omniscient">Þen kest þe knyȝt, and hit come to his hert<lb/>
                Hit were a juel for þe jopardé þat hym iugged were:<lb/>
                When he acheued to þe chapel his chek for to fech,<lb/>
                Myȝt he haf slypped to be vnslayn, þe sleȝt were noble.<lb/>
@@ -2122,26 +2122,26 @@
                And ho bere on hym þe belt and bede hit hym swyþe--<lb/>
                And he granted and hym gafe with a goud wylle--<lb/>
                And bisoȝt hym, for hir sake, disceuer hit neuer,<lb/>
-               Bot to lelly layne fro hir lorde; þe leude hym acordez<lb/>
+               <ref type="chivalry" moral="duty|oath">Bot to lelly layne fro hir lorde; þe leude hym acordez<lb/>
                Þat neuer wyȝe schulde hit wyt, iwysse, bot þay twayne<lb/>
-               for noȝte;<lb/>
+               for noȝte;</ref><lb/>
                He þonkked hir oft ful swyþe,<lb/>
                Ful þro with hert and þoȝt.<lb/>
                <pb n="52"/>
                Bi þat on þrynne syþe<lb/>
-               Ho hatz kyst þe knyȝt so toȝt.<lb/>
+               <ref type="numerological" num="three">Ho hatz kyst þe knyȝt so toȝt.</ref></speaker><lb/>
             </lg>
             <lg>
-               Thenne lachchez ho hir leue, and leuez hym þere,<lb/>
+               <speaker narrator="omniscient">Thenne lachchez ho hir leue, and leuez hym þere,<lb/>
                For more myrþe of þat mon moȝt ho not gete.<lb/>
                When ho watz gon, Sir Gawayn gerez hym sone,<lb/>
                Rises and riches hym in araye noble,<lb/>
                Lays vp þe luf-lace þe lady hym raȝt,<lb/>
                Hid hit ful holdely, þer he hit eft fonde.<lb/>
-               Syþen cheuely to þe chapel choses he þe waye,<lb/>
+               <ref type="religious" religion="Christianity">Syþen cheuely to þe chapel choses he þe waye,<lb/>
                Preuély aproched to a prest, and prayed hym þere<lb/>
                Þat he wolde lyste his lyf and lern hym better<lb/>
-               How his sawle schulde be saued when he schuld seye heþen.<lb/>
+               How his sawle schulde be saued when he schuld seye heþen.</ref><lb/>
                Þere he schrof hym schyrly and schewed his mysdedez,<lb/>
                Of þe more and þe mynne, and merci besechez,<lb/>
                And of absolucioun he on þe segge calles;<lb/>
@@ -2151,19 +2151,19 @@
                With comlych caroles and alle kynnes ioye,<lb/>
                As neuer he did bot þat daye, to þe derk nyȝt,<lb/>
                with blys.<lb/>
-               Vche mon hade daynté þare<lb/>
-               Of hym, and sayde, 'Iwysse,<lb/>
+               Vche mon hade daynté þare</speaker><lb/>
+               <speaker narrator="character" id="courtiers">Of hym, and sayde, 'Iwysse,<lb/>
                Þus myry he watz neuer are,<lb/>
-               Syn he com hider, er þis.'<lb/>
+               Syn he com hider, er þis.'</speaker><lb/>
             </lg>
             <lg>
-               Now hym lenge in þat lee, þer luf hym bityde!<lb/>
+               <speaker narrator="omniscient">Now hym lenge in þat lee, þer luf hym bityde!<lb/>
                Ȝet is þe lorde on þe launde ledande his gomnes.<lb/>
-               He hatz forfaren þis fox þat he folȝed longe;<lb/>
+               He hatz forfaren þis <ref type="nature" fauna="fox">fox</ref> þat he folȝed longe;<lb/>
                As he sprent ouer a spenne to spye þe schrewe,<lb/>
                <milestone unit="folio" n="116v"/>
                Þer as he herd þe howndes þat hasted hym swyþe,<lb/>
-               Renaud com richchande þurȝ a roȝe greue,<lb/>
+               <ref type="folklore" myth="Renard">Renaud</ref> com richchande þurȝ a roȝe greue,<lb/>
                And alle þe rabel in a res ryȝt at his helez.<lb/>
                Þe wyȝe watz war of þe wylde, and warly abides,<lb/>
                And braydez out þe bryȝt bronde, and at þe best castez.<lb/>
@@ -2182,15 +2182,15 @@
                Alle þat euer ber bugle blowed at ones,<lb/>
                And alle þise oþer halowed þat hade no hornes;<lb/>
                Hit watz þe myriest mute þat euer men herde,<lb/>
-               Þe rich rurd þat þer watz raysed for Renaude saule<lb/>
+               Þe rich rurd þat þer watz raysed for <ref type="folklore" myth="Renard">Renaude</ref> saule<lb/>
                with lote.<lb/>
                Hor houndez þay þer rewarde,<lb/>
                Her hedez þay fawne and frote,<lb/>
-               And syþen þay tan Reynarde,<lb/>
-               And tyruen of his cote.<lb/>
+               And syþen þay tan <ref type="folklore" myth="Renard">Reynarde</ref>,<lb/>
+               And tyruen of his cote.</speaker><lb/>
             </lg>
             <lg>
-               And þenne þay helden to home, for hit watz nieȝ nyȝt,<lb/>
+               <speaker narrator="omniscient">And þenne þay helden to home, for hit watz nieȝ nyȝt,<lb/>
                Strakande ful stoutly in hor store hornez.<lb/>
                Þe lorde is lyȝt at þe laste at hys lef home,<lb/>
                Fyndez fire vpon flet, þe freke þer-byside,<lb/>
@@ -2201,30 +2201,30 @@
                And his hode of þat ilke henged on his schulder,<lb/>
                Blande al of blaunner were boþe al aboute.<lb/>
                He metez me þis godmon inmyddez þe flore,<lb/>
-               And al with gomen he hym gret, and goudly he sayde,<lb/>
-               'I schal fylle vpon fyrst oure forwardez nouþe,<lb/>
+               And al with gomen he hym gret, and goudly he sayde,</speaker><lb/>
+               <speaker narrator="character" id="Gawain"><ref type="chivalry" moral="duty|oath">'I schal fylle vpon fyrst oure forwardez nouþe,<lb/>
                <milestone unit="folio" n="117r"/>
-               Þat we spedly han spoken, þer spared watz no drynk.'<lb/>
-               Þen acoles he þe knyȝt and kysses hym þryes,<lb/>
-               As sauerly and sadly as he hem sette couþe.<lb/>
-               'Bi Kryst,' quoþ þat oþer knyȝt, 'Ȝe cach much sele<lb/>
-               In cheuisaunce of þis chaffer, ȝif ȝe hade goud chepez.'<lb/>
-               'Ȝe, of þe chepe no charg,' quoþ chefly þat oþer,<lb/>
-               'As is pertly payed þe chepez þat I aȝte.'<lb/>
+               Þat we spedly han spoken, þer spared watz no drynk.'</ref></speaker><lb/>
+               <speaker narrator="omniscient">Þen acoles he þe knyȝt and kysses hym þryes,<lb/>
+               As sauerly and sadly as he hem sette couþe.</speaker><lb/>
+               <speaker narrator="character" id="Bertilak">'Bi <ref type="religious" religion="Christianity">Kryst</ref>,' quoþ þat oþer knyȝt, 'Ȝe cach much sele<lb/>
+               In cheuisaunce of þis chaffer, ȝif ȝe hade goud chepez.'</speaker><lb/>
+               <speaker narrator="character" id="Gawain">'Ȝe, of þe chepe no charg,' quoþ chefly þat oþer,<lb/>
+               'As is pertly payed þe chepez þat I aȝte.'</speaker><lb/>
                <pb n="54"/>
-               'Mary,' quoþ þat oþer mon, 'myn is bihynde,<lb/>
+               <speaker narrator="character" id="Bertilak">'Mary,' quoþ þat oþer mon, 'myn is bihynde,<lb/>
                For I haf hunted al þis day, and noȝt haf I geten<lb/>
-               Bot þis foule fox felle--þe fende haf þe godez!--<lb/>
+               Bot þis foule <ref type="nature" fauna="fox">fox</ref> felle--þe fende haf þe godez!--<lb/>
                And þat is ful pore for to pay for suche prys þinges<lb/>
-               As ȝe haf þryȝt me here þro, suche þre cosses<lb/>
-               so gode.'<lb/>
-               'Inoȝ,' quoþ Sir Gawayn,<lb/>
-               'I þonk yow, bi þe rode',<lb/>
-               And how þe fox watz slayn<lb/>
-               He tolde hym as þay stode.<lb/>
+               As ȝe haf þryȝt me here þro, suche <ref type="numerological" num="three">þre</ref> cosses<lb/>
+               so gode.'</speaker><lb/>
+              <speaker narrator="character" id="Gawain">'Inoȝ,' quoþ Sir Gawayn,<lb/>
+               'I þonk yow, bi þe rode',</speaker><lb/>
+               <speaker narrator="omniscient">And how þe <ref type="nature" fauna="fox">fox</ref> watz slayn<lb/>
+               He tolde hym as þay stode.</speaker><lb/>
             </lg>
             <lg>
-               With merþe and mynstralsye, with metez at hor wylle,<lb/>
+               <speaker narrator="omniscient">With merþe and mynstralsye, with metez at hor wylle,<lb/>
                Þay maden as mery as any men moȝten--<lb/>
                With laȝyne of ladies, with lotez of bordes<lb/>
                Gawayn and þe godemon so glad were þay boþe--<lb/>
@@ -2233,17 +2233,17 @@
                Til þe sesoun watz seȝen þat þay seuer moste;<lb/>
                Burnez to hor bedde behoued at þe laste.<lb/>
                Þenne loȝly his leue at þe lorde fyrst<lb/>
-               Fochchez þis fre mon, and fayre he hym þonkkez:<lb/>
-               'Of such a selly soiorne as I haf hade here,<lb/>
+               Fochchez þis fre mon, and fayre he hym þonkkez:</speaker><lb/>
+               <speaker narrator="character" id="Gawain"><ref type="chivalry" moral="knightDuty|bravery|hostDuty|oaths">'Of such a selly soiorne as I haf hade here,<lb/>
                Your honour at þis hyȝe fest, þe hyȝe kyng yow ȝelde!<lb/>
                I ȝef yow me for on of yourez, if yowreself lykez,<lb/>
                For I mot nedes, as ȝe wot, meue to-morne,<lb/>
                And ȝe me take sum tolke to teche, as ȝe hyȝt,<lb/>
-               Þe gate to þe grene chapel, as God wyl me suffer<lb/>
-               To dele on Nw Ȝerez day þe dome of my wyrdes.'<lb/>
-               'In god fayþe,' quoþ þe godmon, 'wyth a goud wylle<lb/>
-               Al þat euer I yow hyȝt halde schal I redé.'<lb/>
-               Þer asyngnes he a seruaunt to sett hym in þe waye,<lb/>
+               Þe gate to þe <ref type="color" shade="green">grene</ref> chapel, as <ref type="religious" religion="Christianity">God</ref> wyl me suffer<lb/>
+               To dele on Nw Ȝerez day þe dome of my wyrdes.'</ref></speaker><lb/>
+               <speaker narrator="character" id="Bertilak"><ref type="chivalry" moral="hostDuty|guestRight">'In god fayþe,' quoþ þe godmon, 'wyth a goud wylle<lb/>
+               Al þat euer I yow hyȝt halde schal I redé.'</ref></speaker><lb/>
+               <speaker>Þer asyngnes he a seruaunt to sett hym in þe waye,<lb/>
                <milestone unit="folio" n="117v"/>
                And coundue hym by þe downez, þat he no drechch had,<lb/>
                For to ferk þurȝ þe fryth and fare at þe gaynest<lb/>
@@ -2251,14 +2251,14 @@
                Þe lorde Gawayn con þonk,<lb/>
                Such worchip he wolde hym weue.<lb/>
                Þen at þo ladyez wlonk<lb/>
-               Þe knyȝt hatz tan his leue.<lb/>
+               Þe knyȝt hatz tan his leue.</speaker><lb/>
             </lg>
             <lg>
                <pb n="55"/>
-               With care and wyth kyssyng he carppez hem tille,<lb/>
+               <speaker>With care and wyth kyssyng he carppez hem tille,<lb/>
                And fele þryuande þonkkez he þrat hom to haue,<lb/>
                And þay ȝelden hym aȝayn ȝeply þat ilk;<lb/>
-               Þay bikende hym to Kryst with ful colde sykyngez.<lb/>
+               Þay bikende hym to <ref type="religious" religion="Christianity">Kryst</ref> with ful colde sykyngez.<lb/>
                Syþen fro þe meyny he menskly departes;<lb/>
                Vche mon þat he mette, he made hem a þonke<lb/>
                For his seruyse and his solace and his sere pyne,<lb/>
@@ -2266,14 +2266,14 @@
                And vche segge as soré to seuer with hym þere<lb/>
                As þay hade wonde worþyly with þat wlonk euer.<lb/>
                Þen with ledes and lyȝt he watz ladde to his chambre<lb/>
-               And blyþely broȝt to his bedde to be at his rest.<lb/>
-               Ȝif he ne slepe soundyly say ne dar I,<lb/>
+                  And blyþely broȝt to his bedde to be at his rest.</speaker><lb/>
+               <speaker narrator="omniscient">Ȝif he ne slepe soundyly say ne dar I,<lb/>
                For he hade muche on þe morn to mynne, ȝif he wolde,<lb/>
                in þoȝt.<lb/>
                Let hym lyȝe þere stille,<lb/>
                He hatz nere þat he soȝt;<lb/>
                And ȝe wyl a whyle be stylle<lb/>
-               I schal telle yow how þay wroȝt.<lb/>
+               I schal telle yow how þay wroȝt.</speaker><lb/>
             </lg>
          </div>
          <div rend="linenumber">
