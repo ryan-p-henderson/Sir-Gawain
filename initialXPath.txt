@@ -3,7 +3,7 @@ Here are some basic XPath expressions used to gauge the content of the marked-up
 //speaker[@narrator='poet']//ref
 
 This found all of the references made by the poet himself. These results could be significant for the determinaation of authorial intent. 
-However, there were only 10 places where the poet was explicitly speaking, and the only references that occured more than once were "location" and "chilvaric."
+However, there were only 10 places where the poet was explicitly speaking and made a reference, and the only references that occured more than once were "location" and "chilvaric."
 
 count(//ref[@religion='Christianity']) ; count(//ref[@type='chivalry']) ; count(//ref[@type='nature']) ; etc.
 
