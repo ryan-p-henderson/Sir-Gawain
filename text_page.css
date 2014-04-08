@@ -6,22 +6,22 @@ body{
     text-align:center;
 }
 h1{
-    background-color:white;
-    opacity:0.5;
+    background-color:darkgreen;
+    opacity:0.75;
     margin-top:auto;
     display:block;
     padding:15px;
     width:auto
 }
 h2{
-    background-color:white;
-    opacity:0.5;
+    background-color:darkgreen;
+    opacity:0.75;
     margin-top:auto;
     display:block;
     padding:15px;
     width:auto;
-    text-align:left;
-    margin-right:60%;
+    text-align:center;
+    margin-left:0%;
 }
 ul{
     border:1px solid black;
@@ -29,11 +29,10 @@ ul{
     list-style-type:none;
     text-align:center;
     position:absolute;
-    left:675px;
-    right:550px;
+    left:35%;
     margin-top:auto;
-    background-color:white;
-    opacity:0.5;
+    background-color:darkgreen;
+    opacity:0.75;
     display:block;
     border-bottom-style:solid;
 }
@@ -45,13 +44,15 @@ div.TOC{
     display:block;
 }
 ul.TableOfContents{
-    text-align:left;
+    text-align:center;
     background-color:darkgreen;
-    opacity:0.5;
+    opacity:0.75;
     margin-top:auto;
     margin-bottom:auto;
     list-style-type:none;
-    font-weight:bold
+    font-weight:bold;
+    position:absolute;
+    left:35%;
 }
 div{
     padding:25px;
@@ -62,20 +63,20 @@ div.navbar{
 }
 div.text{
     text-align:left;
-    background-color:white;
+    background-color:darkgreen;
     opacity:.75;
     font-size:125%;
-    color:black;
+    color:hsl(120, 60%, 70%);
     font-weight:bold;
     float:left;
-    width:auto
+    width:35%
 }
 div.text1{
     text-align:left;
-    background-color:white;
+    background-color:darkgreen;
     opacity:.75;
     font-size:125%;
-    color:black;
+    color:hsl(120, 60%, 70%);
     font-weight:bold;
     float:right;
     width:auto

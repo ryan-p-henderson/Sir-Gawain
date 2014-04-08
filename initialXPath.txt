@@ -9,3 +9,10 @@ count(//ref[@religion='Christianity']) ; count(//ref[@type='chivalry']) ; count(
 
 These types of XPath expressions were used to simply find how many of each reference were made. 
 
+count(//div[position() eq 1]//ref[@type='chivalry']); count(//div[position() eq 1]//ref[@religion='Christianity']); count(//div[position() eq 1]//ref[@type='mythological']); etc.
+
+These types of XPath expressions were used to find the number of particular references for canto, as the themes of each canto could prove significant with respect to the number 
+of certain references that appear.
+
+
+
