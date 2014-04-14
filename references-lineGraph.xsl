@@ -49,14 +49,6 @@
         <svg:circle cx='{(position() * $xSpacing) + $LineShift}' cy='-{$NatureRefs* $ySpacing}' r='5' fill='orange' class='NatureCircle'/>
         <svg:circle cx='{(position() * $xSpacing) + $LineShift}' cy='-{$PaganRefs* $ySpacing}' r='5' fill='black' class='PaganCircle'/>
         <svg:circle cx='{(position() * $xSpacing) + $LineShift}' cy='-{$MythologicalRefs* $ySpacing}' r='5' fill='purple' class='MythCircle'/> 
-        <xsl:variable name="MythologicalRefs" select="count(.//ref[@type='mythological'])"/>
-        <xsl:variable name="currentX" select="position() * $xSpacing"/>
-        <svg:circle cx="{$currentX}" cy="-{$ChivRefs * $ySpacing}" r="5" fill="green" class="chiv"/>
-        <svg:circle cx="{$currentX}" cy="-{$ChristianRefs * $ySpacing}" r="5" fill="blue"/>
-        <svg:circle cx="{$currentX}" cy="-{$FolkloreRefs * $ySpacing}" r="5" fill="red"/>
-        <svg:circle cx="{$currentX}" cy="-{$NatureRefs * $ySpacing}" r="5" fill="orange"/>
-        <svg:circle cx="{$currentX}" cy="-{$PaganRefs * $ySpacing}" r="5" fill="black"/>
-        <svg:circle cx="{$currentX}" cy="-{$MythologicalRefs * $ySpacing}" r="5" fill="purple"/>
         <xsl:if test="preceding-sibling::div">
             <xsl:variable name="precedingDiv" select="preceding-sibling::div[1]"/>
             <xsl:variable name="precedingChivRefs"
