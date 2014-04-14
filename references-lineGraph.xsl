@@ -87,6 +87,4 @@
            </xsl:if>
     </xsl:template>
 </xsl:stylesheet>
-    <xsl:template match="ref"> </xsl:template>
-</xsl:stylesheet>
 
