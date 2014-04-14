@@ -16,8 +16,8 @@
                 <script type="text/javascript" src="">//</script>
             </head>
             <body>
-                <p>Click to show appearances of references for each Canto: Chivalry; Christian; 
-                Folklore; Nature; Pagan; Mythological            
+                <p>Click to show appearances of references for each Canto: <span class='trigger'>Chivalry</span>; <span class='trigger'>Christian</span>; 
+                    <span class='trigger'>Folklore</span>; <span class='triger'>Nature</span>; <span class='triger'>Pagan</span>; <span class='triger'>Mythological</span>            
                 </p>
         <svg:svg height='800' width='800'>
             <svg:g transform='translate(10,550)'>
@@ -43,12 +43,12 @@
         <xsl:variable name="PaganRefs" select="count(.//ref[@type='pagan'])"/>
         <xsl:variable name="MythologicalRefs" select="count(.//ref[@type='mythological'])"/>  
         <xsl:variable name="currentX" select="position() * $xSpacing"/>
-        <svg:circle cx='{(position() * $xSpacing) + $LineShift}' cy='-{$ChivRefs * $ySpacing}' r='5' fill='green' class='ChivCircle'/>
-        <svg:circle cx='{(position() * $xSpacing) + $LineShift}' cy='-{$ChristianRefs* $ySpacing}' r='5' fill='blue' class='ChristianCircle'/>
-        <svg:circle cx='{(position() * $xSpacing) + $LineShift}' cy='-{$FolkloreRefs* $ySpacing}' r='5' fill='red' class='FolkloreCircle'/>
-        <svg:circle cx='{(position() * $xSpacing) + $LineShift}' cy='-{$NatureRefs* $ySpacing}' r='5' fill='orange' class='NatureCircle'/>
-        <svg:circle cx='{(position() * $xSpacing) + $LineShift}' cy='-{$PaganRefs* $ySpacing}' r='5' fill='black' class='PaganCircle'/>
-        <svg:circle cx='{(position() * $xSpacing) + $LineShift}' cy='-{$MythologicalRefs* $ySpacing}' r='5' fill='purple' class='MythCircle'/> 
+        <svg:circle cx='{(position() * $xSpacing) + $LineShift}' cy='-{$ChivRefs * $ySpacing}' r='5' fill='green' class='Chivalry'/>
+        <svg:circle cx='{(position() * $xSpacing) + $LineShift}' cy='-{$ChristianRefs* $ySpacing}' r='5' fill='blue' class='Christian'/>
+        <svg:circle cx='{(position() * $xSpacing) + $LineShift}' cy='-{$FolkloreRefs* $ySpacing}' r='5' fill='red' class='Folklore'/>
+        <svg:circle cx='{(position() * $xSpacing) + $LineShift}' cy='-{$NatureRefs* $ySpacing}' r='5' fill='orange' class='Nature'/>
+        <svg:circle cx='{(position() * $xSpacing) + $LineShift}' cy='-{$PaganRefs* $ySpacing}' r='5' fill='black' class='Pagan'/>
+        <svg:circle cx='{(position() * $xSpacing) + $LineShift}' cy='-{$MythologicalRefs* $ySpacing}' r='5' fill='purple' class='Mythological'/> 
         <xsl:if test="preceding-sibling::div">
             <xsl:variable name="precedingDiv" select="preceding-sibling::div[1]"/>
             <xsl:variable name="precedingChivRefs"
@@ -65,17 +65,17 @@
                 select="count($precedingDiv//ref[@type='mythological'])"/>
             <xsl:variable name="precedingX" select="(position() - 1) * $xSpacing"/>
             <svg:line x1="{$precedingX + $LineShift}" y1="-{$precedingChivRefs * $ySpacing}" x2="{$currentX + $LineShift}"
-                y2="-{$ChivRefs * $ySpacing}" stroke="green" stroke-width="1" class="chiv"/>
+                y2="-{$ChivRefs * $ySpacing}" stroke="green" stroke-width="1" class="Chivalry"/>
             <svg:line x1="{$precedingX + $LineShift}" y1="-{$precedingChristianRefs * $ySpacing}" x2="{$currentX + $LineShift}" y2="-{$ChristianRefs * $ySpacing}"
-                stroke='blue' stroke-width='1' class='christian'/>
+                stroke='blue' stroke-width='1' class='Christian'/>
             <svg:line x1="{$precedingX + $LineShift}" y1="-{$precedingFolkloreRefs * $ySpacing}" x2="{$currentX + $LineShift}" y2="-{$FolkloreRefs * $ySpacing}"
-                stroke='red' stroke-width='1' class='folklore'/>
+                stroke='red' stroke-width='1' class='Folklore'/>
             <svg:line x1="{$precedingX + $LineShift}" y1="-{$precedingNatureRefs * $ySpacing}" x2="{$currentX + $LineShift}" y2="-{$NatureRefs * $ySpacing}" 
-                stroke='orange' stroke-width='1' class='nature'/>
+                stroke='orange' stroke-width='1' class='Nature'/>
             <svg:line x1="{$precedingX + $LineShift}" y1="-{$precedingPaganRefs * $ySpacing}" x2="{$currentX + $LineShift}" y2="-{$PaganRefs * $ySpacing}"
-                stroke='black' stroke-width='1' class='pagan'/>
+                stroke='black' stroke-width='1' class='Pagan'/>
             <svg:line x1="{$precedingX + $LineShift}" y1="-{$precedingMythologicalRefs * $ySpacing}" x2="{$currentX + $LineShift}" y2="-{$MythologicalRefs * $ySpacing}"
-                stroke='purple' stroke-width='1' class='mythological'/>
+                stroke='purple' stroke-width='1' class='Mythological'/>
            </xsl:if>
     </xsl:template>
 </xsl:stylesheet>
