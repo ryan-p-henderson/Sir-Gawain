@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800">
+    <g transform="translate(10,550)">
+        <line x1="50" y1="0" x2="400" y2="0" stroke="black" stroke-width="2"></line>
+        <line x1="50" y1="0" x2="50" y2="-500" stroke="black" stroke-width="2"></line>
+        <text x="60" y="20" text-anchor="middle">Canto 1</text>
+        <text x="160" y="20" text-anchor="middle">Canto 2</text>
+        <text x="260" y="20" text-anchor="middle">Canto 3</text>
+        <text x="360" y="20" text-anchor="middle">Canto 4</text>
+        <text x="185" y="40">Cantos</text>
+        <text x="-15" y="-175" text-anchor="middle" rotate="(-90 )">References</text>
+        <circle cx="60" cy="-315" r="5" fill="green" class="Chivalry"></circle>
+        <circle cx="60" cy="-135" r="5" fill="blue" class="Christian"></circle>
+        <circle cx="60" cy="-30" r="5" fill="red" class="Folklore"></circle>
+        <circle cx="60" cy="-120" r="5" fill="orange" class="Nature"></circle>
+        <circle cx="60" cy="-60" r="5" fill="black" class="Pagan"></circle>
+        <circle cx="60" cy="-75" r="5" fill="purple" class="Mythological"></circle>
+        <circle cx="160" cy="-270" r="5" fill="green" class="Chivalry"></circle>
+        <circle cx="160" cy="-390" r="5" fill="blue" class="Christian"></circle>
+        <circle cx="160" cy="-15" r="5" fill="red" class="Folklore"></circle>
+        <circle cx="160" cy="-165" r="5" fill="orange" class="Nature"></circle>
+        <circle cx="160" cy="-0" r="5" fill="black" class="Pagan"></circle>
+        <circle cx="160" cy="-30" r="5" fill="purple" class="Mythological"></circle>
+        <line x1="60" y1="-315" x2="160" y2="-270" stroke="green" stroke-width="1" class="Chivalry"></line>
+        <line x1="60" y1="-135" x2="160" y2="-390" stroke="blue" stroke-width="1" class="Christian"></line>
+        <line x1="60" y1="-30" x2="160" y2="-15" stroke="red" stroke-width="1" class="Folklore"></line>
+        <line x1="60" y1="-120" x2="160" y2="-165" stroke="orange" stroke-width="1" class="Nature"></line>
+        <line x1="60" y1="-60" x2="160" y2="-0" stroke="black" stroke-width="1" class="Pagan"></line>
+        <line x1="60" y1="-75" x2="160" y2="-30" stroke="purple" stroke-width="1" class="Mythological"></line>
+        <circle cx="260" cy="-480" r="5" fill="green" class="Chivalry"></circle>
+        <circle cx="260" cy="-255" r="5" fill="blue" class="Christian"></circle>
+        <circle cx="260" cy="-60" r="5" fill="red" class="Folklore"></circle>
+        <circle cx="260" cy="-255" r="5" fill="orange" class="Nature"></circle>
+        <circle cx="260" cy="-0" r="5" fill="black" class="Pagan"></circle>
+        <circle cx="260" cy="-0" r="5" fill="purple" class="Mythological"></circle>
+        <line x1="160" y1="-270" x2="260" y2="-480" stroke="green" stroke-width="1" class="Chivalry"></line>
+        <line x1="160" y1="-390" x2="260" y2="-255" stroke="blue" stroke-width="1" class="Christian"></line>
+        <line x1="160" y1="-15" x2="260" y2="-60" stroke="red" stroke-width="1" class="Folklore"></line>
+        <line x1="160" y1="-165" x2="260" y2="-255" stroke="orange" stroke-width="1" class="Nature"></line>
+        <line x1="160" y1="-0" x2="260" y2="-0" stroke="black" stroke-width="1" class="Pagan"></line>
+        <line x1="160" y1="-30" x2="260" y2="-0" stroke="purple" stroke-width="1" class="Mythological"></line>
+        <circle cx="360" cy="-165" r="5" fill="green" class="Chivalry"></circle>
+        <circle cx="360" cy="-165" r="5" fill="blue" class="Christian"></circle>
+        <circle cx="360" cy="-0" r="5" fill="red" class="Folklore"></circle>
+        <circle cx="360" cy="-15" r="5" fill="orange" class="Nature"></circle>
+        <circle cx="360" cy="-0" r="5" fill="black" class="Pagan"></circle>
+        <circle cx="360" cy="-0" r="5" fill="purple" class="Mythological"></circle>
+        <line x1="260" y1="-480" x2="360" y2="-165" stroke="green" stroke-width="1" class="Chivalry"></line>
+        <line x1="260" y1="-255" x2="360" y2="-165" stroke="blue" stroke-width="1" class="Christian"></line>
+        <line x1="260" y1="-60" x2="360" y2="-0" stroke="red" stroke-width="1" class="Folklore"></line>
+        <line x1="260" y1="-255" x2="360" y2="-15" stroke="orange" stroke-width="1" class="Nature"></line>
+        <line x1="260" y1="-0" x2="360" y2="-0" stroke="black" stroke-width="1" class="Pagan"></line>
+        <line x1="260" y1="-0" x2="360" y2="-0" stroke="purple" stroke-width="1" class="Mythological"></line>
+    </g>
+    
+</svg>
