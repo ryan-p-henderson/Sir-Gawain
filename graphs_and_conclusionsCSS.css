@@ -55,3 +55,7 @@ li{
     padding-left:.5cm;
     padding-right:.5cm
 }
+svg {
+    opacity:.75;
+    background-color:white
+}
