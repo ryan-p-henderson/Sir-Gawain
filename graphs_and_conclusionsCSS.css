@@ -30,7 +30,7 @@ ul{
     position:absolute;
     left:35%;
     margin-top:auto;
-    background-color:darkgreen;
+    background-color:gray;
     opacity:0.75;
     display:block;
     border-bottom-style:solid;
@@ -47,7 +47,7 @@ p{
     margin-right:auto;
     width:700px;
     padding:15px;
-    background-color:white;
+    background-color:darkgreen;
     opacity:0.75
 }
 li{
